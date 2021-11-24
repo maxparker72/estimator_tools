@@ -1,0 +1,6 @@
+# VS CODE CONFIGURATION FILES
+.vscode
+**/.vscode
+/_est_venv
+/_dev_venv
+/archive

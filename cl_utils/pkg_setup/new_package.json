@@ -1,0 +1,23 @@
+{
+	"parent": { "database_id": "c674b9c21aa348a89a37201a65f42070" },
+	"properties": {
+		"Name": {
+			"title": [
+				{
+					"text": {
+						"content": "Tuscan Kale"
+					}
+				}
+			]
+		},
+		"Owner": {
+			"rich_text": [
+				{
+					"text": {
+						"content": "Maxwell"
+					}
+				}
+			]
+		}		
+	}
+}
