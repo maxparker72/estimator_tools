@@ -4,3 +4,8 @@
 /_est_venv
 /_dev_venv
 /archive
+*.pdf
+*.jpeg
+*.jpg
+*.tiff
+*.png

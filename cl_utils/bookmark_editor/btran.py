@@ -25,7 +25,7 @@ def export_bookmarks(toc, toc_filename):
 def set_bookmarks(pdf_filename, toc):
     doc_in = fitz.open(pdf_filename)
     doc_in.set_toc(toc)
-    doc_in.save('_'+pdf_filename)
+    doc_in.save('new-'+pdf_filename)
     doc_in.close()
 
 def import_bookmarks(toc_filename):
@@ -39,20 +39,30 @@ def import_bookmarks(toc_filename):
     
     return toc
 
-def main(argv):
-    
-    io = argv[1]
-    pdf = argv[2]
-    toccsv = argv[3]
+def help():
+    print('LOAD: ptran -[load][write] [pdf] [csv]')
 
+def main(argv):
+
+    if(len(argv)!=4):
+        help()
+        quit()
+    
+    io = argv[1] #loading or writing
+    pdf = argv[2] #pdf file for load or write
+    toccsv = argv[3] #csv file to load or write
+
+    #must be PDF
     if pdf[-4:] != '.pdf':
         print('fail arguments pdf')
-        print()
-        quit(pdf)
+        print(pdf)
+        help()
+        quit()
 
     if toccsv[-4:] != '.csv':
         print('fail arguments csv')
         print(toccsv)
+        help()
         quit()
     
     if io == '-load':
@@ -61,9 +71,13 @@ def main(argv):
     elif io == '-write':
         my_toc_mod = import_bookmarks(toccsv)
         set_bookmarks(pdf, my_toc_mod)
+    elif io == '-=help':
+        help()
+        quit()
     else:
         print('fail arguments load write')
         print(io)
+        help()
         quit()
 
 if __name__ == "__main__":
