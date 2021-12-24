@@ -10,3 +10,4 @@
 *.tiff
 *.png
 *.csv
+**/__pycache__

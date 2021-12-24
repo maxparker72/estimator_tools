@@ -19,17 +19,19 @@ from tkinter import Tk
 #Imports for Notion Updates
 import requests
 
+#config location
+config_path = os.path.join(sys.path[0], "config.ini")
 def main(argv):    
     #Check Configuration
-    config_exists = exists('config.ini')
+    config_exists = exists(config_path)
     home = os.getcwd()
     
     if config_exists:
         configuration = configparser.ConfigParser()
-        configuration.read('config.ini')
+        configuration.read(config_path)
     else: 
         print('Configuration missing! Create configuration file!')
-        quit()
+        sys.exit()
 
     prefix = configuration['DEFAULT']['prefix']
     stages = ['IFC','POS','PRD','30','60','90'] #default stages
@@ -77,7 +79,7 @@ def main(argv):
     #TODO logic to make sure this valid, add dialog that pops up. 
     if not (is_zip and is_msg):
         print('Incorrect files! Nothing was done.')
-        quit()
+        sys.exit()
 
     pkg_filename = '{}-{} - {}'.format(pkg_info['pkg_name'], pkg_info['pkg_stage'], pkg_info['pkg_date']) #for use in my files
     pkg_filename_bb = 'A - {} - {} - {} - {}'.format(pkg_info['pkg_name'], pkg_info['pkg_stage'], pkg_info['pkg_desc'], pkg_info['pkg_date']) #for use in bluebeam

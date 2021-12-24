@@ -1,6 +1,7 @@
 import fitz
 import csv
 import sys
+import argparse
 
 fields = ['level','name','page'] #default fields
 
@@ -39,46 +40,38 @@ def import_bookmarks(toc_filename):
     
     return toc
 
-def help():
-    print('LOAD: ptran -[load][write] [pdf] [csv]')
-
 def main(argv):
+    print('PDF Bookmark Editor - JE Dunn - Author: Maxwell Parker - 2021-12-22')
+    load = 'load'
+    write = 'write'
+    parser = argparse.ArgumentParser(description='Bookmark Editor Arguments')
+    parser.add_argument('--mode', dest='mode', metavar='MODE', nargs=1, help='a pdf file to load/write bookmarks from', action='store', required=True, choices = [load,write])
+    parser.add_argument('--pdf', dest='pdf', metavar='MYFILE.pdf', nargs=1, help='a pdf file to load/write bookmarks from', action='store', required=True)
+    parser.add_argument('--csv', dest='csv', metavar='MYBOOKMARKS.csv', nargs=1, help='a csv file to load/write bookmarks from', action='store', required=True)
+    args = parser.parse_args(argv[1:])
 
-    if(len(argv)!=4):
-        help()
-        quit()
-    
-    io = argv[1] #loading or writing
-    pdf = argv[2] #pdf file for load or write
-    toccsv = argv[3] #csv file to load or write
+    io = args.mode[0] #loading or writing
+    pdf = args.pdf[0] #pdf file for load or write
+    toccsv = args.csv[0] #csv file to load or write
 
     #must be PDF
     if pdf[-4:] != '.pdf':
-        print('fail arguments pdf')
-        print(pdf)
-        help()
-        quit()
-
+        print('{} fail argument not pdf'.format(pdf))
+        sys.exit()
+    #must be CSV
     if toccsv[-4:] != '.csv':
-        print('fail arguments csv')
-        print(toccsv)
-        help()
-        quit()
+        print('{} fail argument not csv'.format(toccsv))
+        sys.exit()
     
-    if io == '-load':
+    if io == load:
         my_toc = get_bookmarks(pdf)
         export_bookmarks(my_toc, toccsv)
-    elif io == '-write':
+    elif io == write:
         my_toc_mod = import_bookmarks(toccsv)
         set_bookmarks(pdf, my_toc_mod)
-    elif io == '-=help':
-        help()
-        quit()
     else:
-        print('fail arguments load write')
-        print(io)
-        help()
-        quit()
+        print('--mode fail!')
+        sys.exit()
 
 if __name__ == "__main__":
     main(sys.argv)
