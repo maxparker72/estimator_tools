@@ -3,6 +3,8 @@
 **/.vscode
 /_est_venv
 /_dev_venv
+/autobilz
+/_autobill
 /archive
 *.pdf
 *.jpeg
@@ -11,3 +13,5 @@
 *.png
 *.csv
 **/__pycache__
+**/Testing - 2022-03-15
+**/Renaming - 2022-03-16

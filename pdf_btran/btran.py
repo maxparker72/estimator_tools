@@ -20,17 +20,26 @@ def export_bookmarks(toc, toc_filename):
         writer = csv.DictWriter(f, fieldnames = fields, dialect = csv.excel)
         writer.writeheader()
         for bkmark in toc:
-                writer.writerow({fields[0]:bkmark[0], fields[1]:bkmark[1], fields[2]:bkmark[2]})
+            #this line is FUCKED
+                writer.writerow({fields[0]:str(bkmark[0]).encode().decode('ignore'), fields[1]:str(bkmark[1]).encode().decode('ignore'), fields[2]:str(bkmark[2]).encode().decode('ignore')})
 
 # given
 def set_bookmarks(pdf_filename, toc):
     doc_in = fitz.open(pdf_filename)
     doc_in.set_toc(toc)
+    #the following lines make sure that zoom fit is achieved. 
+    doc_toc = doc_in.get_toc(False)
+    tocl = len(doc_toc)
+    for index in range(tocl):
+        details = doc_toc[index][3]
+        details['to'] = fitz.Point(0,0)
+        details['zoom'] = 0.0
+        doc_in.set_toc_item(index, dest_dict=details)
     doc_in.save('new-'+pdf_filename)
     doc_in.close()
 
 def import_bookmarks(toc_filename):
-    with open(toc_filename, 'r', newline = '') as f: 
+    with open(toc_filename, 'r', newline = '', encoding='utf-8') as f: 
         reader = csv.DictReader(f, dialect = csv.excel)
         toc = list()
         for row in reader:
