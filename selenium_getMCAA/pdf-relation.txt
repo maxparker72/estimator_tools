@@ -1,0 +1,45 @@
+https://www.weblem.org/Admin/File/Get/40045,FAQ
+https://www.weblem.org/Admin/File/Get/40046,Acknowledgement
+https://www.weblem.org/Admin/File/Get/40055,WebLEM Committee Members
+https://www.weblem.org/Admin/File/Get/40056,Introduction
+https://www.weblem.org/Admin/File/Get/40057,Proper Use of LEM
+https://www.weblem.org/Admin/File/Get/40058,Copyright
+https://www.weblem.org/Admin/File/Get/132961,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/40060,Online Piping and Usage Specification (OPUS)
+https://www.weblem.org/Admin/File/Get/40063,Preface
+https://www.weblem.org/Admin/File/Get/40059,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/100981,Basic Considerations
+https://www.weblem.org/Admin/File/Get/100959,Classes of Cleanrooms
+https://www.weblem.org/Admin/File/Get/100960,List of Typical Equipment Requirements
+https://www.weblem.org/Admin/File/Get/100961,Reports/Logs
+https://www.weblem.org/Admin/File/Get/40065,Software Companies Authorized to use WebLEM Data
+https://www.weblem.org/Admin/File/Get/40068,Labor Correction Factors
+https://www.weblem.org/Admin/File/Get/100963,Wind Chill / Humidity Chart
+https://www.weblem.org/Admin/File/Get/100983,Overtime Multiplier (1-1/2 Time) 
+https://www.weblem.org/Admin/File/Get/100982,Overtime Multiplier (Double Time)
+https://www.weblem.org/Admin/File/Get/100964,Maximum Allowable Slopes
+https://www.weblem.org/Admin/File/Get/100965,Planning Considerations
+https://www.weblem.org/Admin/File/Get/100966,Sample Calculations
+https://www.weblem.org/Admin/File/Get/100967,Slope Configurations
+https://www.weblem.org/Admin/File/Get/100969,General Notes
+https://www.weblem.org/Admin/File/Get/133372,Example - 2" Clevis Hanger with Beam Clamp
+https://www.weblem.org/Admin/File/Get/100968,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/100971,Preface
+https://www.weblem.org/Admin/File/Get/100970,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/132961,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/133303, Special Notes
+https://www.weblem.org/Admin/File/Get/132864,Solvent Cement Socket Joint
+https://www.weblem.org/Admin/File/Get/100972,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/100973,Basic Assumptions
+https://www.weblem.org/Admin/File/Get/100974,CO1, How to Identify and Manage Change Orders
+https://www.weblem.org/Admin/File/Get/100975,CO2, How to Organize and Submit a Claim
+https://www.weblem.org/Admin/File/Get/100976,CO3, Time Impact Analysis Measuring Project Delay
+https://www.weblem.org/Admin/File/Get/100977,OT1, How to Estimate the Impacts of Overtime on Labor Productivity
+https://www.weblem.org/Admin/File/Get/100978,OT2, Shift Work and its Effects on Productivity
+https://www.weblem.org/Admin/File/Get/100979,PD1, Maintaining Control of Labor Productivity
+https://www.weblem.org/Admin/File/Get/100958,PD2, Factors Affecting Labor Productivity
+https://www.weblem.org/Admin/File/Get/100957,Glossary
+https://www.weblem.org/Admin/File/Get/100980,Abbreviations
+https://www.weblem.org/SiteContentFile/Get/105,handouts
+https://www.weblem.org/SiteContentFile/Get/1001,comparison of WAM vs Component
+https://www.weblem.org/SiteContentFile/Get/103,User Login Info

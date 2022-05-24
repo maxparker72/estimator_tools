@@ -1,0 +1,1896 @@
+https://www.weblem.org/Search/Table,Search Results
+https://www.weblem.org/Table/AYeqAYfvAYfw,Stable Rock
+https://www.weblem.org/Table/AYeqAYfvAYfx,Type "A" Soils
+https://www.weblem.org/Table/AYeqAYfvAYfy,Type "B" Soils
+https://www.weblem.org/Table/AYeqAYfvAYfz,Type "C" Soils
+https://www.weblem.org/Table/AYeqAYf0AYf1,Stable Rock
+https://www.weblem.org/Table/AYeqAYf0AYf2,Type "A" Soils
+https://www.weblem.org/Table/AYeqAYf0AYf3,Type "B" Soils
+https://www.weblem.org/Table/AYeqAYf0AYf4,Type "C" Soils
+https://www.weblem.org/Table/AYeqAYer,Hand Excavation - Backfill, Compaction
+https://www.weblem.org/Table/AYesAYf5AYf8,"Q"  Deck
+https://www.weblem.org/Table/AYesAYf5AYf9,Beam Clamps
+https://www.weblem.org/Table/AYesAYf5AYf-,C-Clamp
+https://www.weblem.org/Table/AYesAYf5AYf_,Drill Shields
+https://www.weblem.org/Table/AYesAYf5AYf7,Plywood Deck w/ Wood Knocker
+https://www.weblem.org/Table/AYesAYf5AYf6,Steel Pan Deck or Plastic Pan Deck w/Bang-It
+https://www.weblem.org/Table/AYesAYf5AYia,Weld Beam Attachment
+https://www.weblem.org/Table/AYesAYjDAYjE,All Thread Rod
+https://www.weblem.org/Table/AYesAYjDAYjH,Anchors and Inserts
+https://www.weblem.org/Table/AYesAYjDAYjG,Beam Clamps or C-Clamps
+https://www.weblem.org/Table/AYesAYjDAYjJ,Clevis Hanger
+https://www.weblem.org/Table/AYesAYjDAgjF,Gripple Cable
+https://www.weblem.org/Table/AYesAYjDAYjF,Hex Nuts
+https://www.weblem.org/Table/AYesAYjDAgdr,Pipe Roller Chairs
+https://www.weblem.org/Table/AYesAYjDAgdo,Riser Clamp
+https://www.weblem.org/Table/AYesAYjDAYjM,Roof Pipe Supports
+https://www.weblem.org/Table/AYesAYjDAgi0,Saddles and Shields
+https://www.weblem.org/Table/AYesAYjDAgdp,Split Ring Hanger
+https://www.weblem.org/Table/AYesAYjDAgdv,Trapeze (Angle Iron, Strut or C-Channel) (Single Level Trapeze)
+https://www.weblem.org/Table/AYesAYjDAgdq,U-Bolt
+https://www.weblem.org/Table/AYesAYjDAYjI,Welded Beam Attachment
+https://www.weblem.org/Table/AYesAYjDAYjK,Yoke Roller Hanger
+https://www.weblem.org/Table/AYesAYgAAYgB,Shoe w/Gussett
+https://www.weblem.org/Table/AYesAYgDAYgF,Guide w/Spider
+https://www.weblem.org/Table/AYesAYgDAYgG,Pipe Clamp w/Shoe
+https://www.weblem.org/Table/AYesAYgDAYgH,Shoe w/Guide
+https://www.weblem.org/Table/AYesAYgDAYgI,Shoe w/Gussett
+https://www.weblem.org/Table/AYesAYeu,Pre-Insulated Saddle
+https://www.weblem.org/Table/AYesAYgLAYhZAYha,Angle Iron
+https://www.weblem.org/Table/AYesAYgLAYhZAYhb,Cable
+https://www.weblem.org/Table/AYesAYgLAYhZAYhc,Channel (Strut)
+https://www.weblem.org/Table/AYesAYgLAYhZAYip,Hubless Pipe Bracing
+https://www.weblem.org/Table/AYesAYgLAYgM,Sleeve for Clevis Type Hanger
+https://www.weblem.org/Table/AYesAYgLAYhdAYhe,Attachment to Concrete Slab
+https://www.weblem.org/Table/AYesAYgLAYhdAYhf,Attachment to Fill on Steel Deck
+https://www.weblem.org/Table/AYesAYgLAYhdAYhg,Attachment to Hollow Core Plank
+https://www.weblem.org/Table/AYesAYew,Sleeves, Interior or Exterior
+https://www.weblem.org/Table/AYesAYey,Vibration Isolator, Spring or Neoprene
+https://www.weblem.org/Table/AYezAYgOAYgP,Air Dryer, Desiccant
+https://www.weblem.org/Table/AYezAYgOAYgQ,Air Dryer, Refrigerated
+https://www.weblem.org/Table/AYezAYgOAYic,Air Receivers
+https://www.weblem.org/Table/AYezAYgRAYgT,Air-Cooled Rotary Screw
+https://www.weblem.org/Table/AYezAYgRAYgS,Air-Cooled with Receiver
+https://www.weblem.org/Table/AYezAYgRAYgU,Water-Cooled Centrifugal
+https://www.weblem.org/Table/AYezAYgVAYid,Air Rotation Units
+https://www.weblem.org/Table/AYezAYgVAYgW,Indoor Custom
+https://www.weblem.org/Table/AYezAYgVAYie,Indoor Package / Modular
+https://www.weblem.org/Table/AYezAYgVAYgX,Outdoor Custom
+https://www.weblem.org/Table/AYezAYiSAYiU,Boiler Blow Down (Floor Mounted)
+https://www.weblem.org/Table/AYezAYiSAYiV,Boiler Deaerator System With Pumps
+https://www.weblem.org/Table/AYezAYiSAYiW,Boiler Feed Systems With Pumps
+https://www.weblem.org/Table/AYezAYiSAYiT,Condensate Coolers (Floor Mounted)
+https://www.weblem.org/Table/AYezAYiSAYiX,Condensate Receivers With Pumps
+https://www.weblem.org/Table/AYezAYgYAYgZ,Cast Iron Sectional (Steam or Hot Water)
+https://www.weblem.org/Table/AYezAYgYAYga,Copper Water Tube (Steam or Hot Water)
+https://www.weblem.org/Table/AYezAYgYAYgb,Electric (Steam or Hot Water)
+https://www.weblem.org/Table/AYezAYgYAYgc,Packaged Fire Tube (Steam or Hot Water)
+https://www.weblem.org/Table/AYezAYgYAYgd,Packaged Flexible Water Tube (Steam or Hot Water)
+https://www.weblem.org/Table/AYezAYgYAYge,Packaged Water Tube "D" Style Steam Generators
+https://www.weblem.org/Table/AYezAYe0AYjB,Air Cooled
+https://www.weblem.org/Table/AYezAYe0AYe1,Water Cooled
+https://www.weblem.org/Table/AYezAYe2,Coils
+https://www.weblem.org/Table/AYezAYe3,Computer Room Air Conditioning Units (CRAC UNITS)
+https://www.weblem.org/Table/AYezAYe4,Condensers
+https://www.weblem.org/Table/AYezAYe5,Condensing Units
+https://www.weblem.org/Table/AYezAYh3AYh4AYh5,Indoor Centrifugal Fan
+https://www.weblem.org/Table/AYezAYh3AYh4AYh6,Outdoor Axial Fan
+https://www.weblem.org/Table/AYezAYh3AYh4AYh7,Outdoor Centrifugal Fan
+https://www.weblem.org/Table/AYezAYh3AYh8AYh9,Outdoor Axial Fan
+https://www.weblem.org/Table/AYezAYh3AYh8AYh-,Outdoor Axial Fan Fiberglass
+https://www.weblem.org/Table/AYezAYgfAYgg,Indoor
+https://www.weblem.org/Table/AYezAYgfAYgh,Outdoor
+https://www.weblem.org/Table/AYezAYiQ,Expansion Tank Accessories (Air Scoops and Air Separators)
+https://www.weblem.org/Table/AYezAYiP,Expansion Tanks and Chemical Pot Feeders
+https://www.weblem.org/Table/AYezAYiR,Fuel Oil Tank Accessories
+https://www.weblem.org/Table/AYezAYiO,Fuel Oil Tanks
+https://www.weblem.org/Table/AYezAYgiAYgj,Plate and Frame
+https://www.weblem.org/Table/AYezAYgiAYgk,Shell and Tube
+https://www.weblem.org/Table/AYezAYglAYgm,Air Cooled (Rooftop)
+https://www.weblem.org/Table/AYezAYglAYgn,Water Cooled (Interior)
+https://www.weblem.org/Table/AYezAYif,Heaters (Baseboard Radiation, Cabinet Heaters, Convectors, Infra-Red Heaters, Unit Heaters)
+https://www.weblem.org/Table/AYezAYe6,Humidifiers
+https://www.weblem.org/Table/AYezAYgoAYgp,Direct Fired
+https://www.weblem.org/Table/AYezAYgoAYgq,Indirect Fired
+https://www.weblem.org/Table/AYezAYgrAYgs,End Suction  or Split Case
+https://www.weblem.org/Table/AYezAYgrAYgt,Inline
+https://www.weblem.org/Table/AYezAYgrAYgu,Vertical Turbine
+https://www.weblem.org/Table/AYezAYe7,Rooftop Units, Direct Expansion (DX)
+https://www.weblem.org/Table/AYezAYh2,Terminal Air Conditioning Equipment (Fan Coils, Furnaces, PTAC Units, Unit Ventilators)
+https://www.weblem.org/Table/AYe8AYe9,Control Boards & Panel Boards (Prepiped - Prewired)
+https://www.weblem.org/Table/AYe8AYjA,Field Mounted Instruments & Devices
+https://www.weblem.org/Table/AYe8AYi8,Junction Boxes for Multitube
+https://www.weblem.org/Table/AYe8AYe-,Mounting Methods
+https://www.weblem.org/Table/AYe8AYgvAYgw,Armored Covered Polyethylene
+https://www.weblem.org/Table/AYe8AYgvAYgx,Plastic Covered Copper or Aluminum
+https://www.weblem.org/Table/AYe8AYgvAYgy,Plastic Covered Polyethylene
+https://www.weblem.org/Table/AYe8AYgzAYg0,Cable Tray & Accesories
+https://www.weblem.org/Table/AYe8AYgzAYg1,EMT Conduit (Thin Wall)
+https://www.weblem.org/Table/AYe8AYgzAYg3,Raceway and Fittings
+https://www.weblem.org/Table/AYe8AYgzAYg2,Rigid Conduit
+https://www.weblem.org/Table/AYe_AYfA,Cathodic Tape Wrapping
+https://www.weblem.org/Table/AYe_AYjP,Fillet Welding
+https://www.weblem.org/Table/AYe_AYfB,Hole Coring, Reinforced Concrete
+https://www.weblem.org/Table/AYe_AYfC,Inert Gas Purge for Root Pass
+https://www.weblem.org/Table/AYe_AYjQ,Layout and Flame Cutting Flat Plate
+https://www.weblem.org/Table/AYe_AYfD,Medical Gas or Refrigeration System Purge
+https://www.weblem.org/Table/AYe_AYfE,Pipe Freezing
+https://www.weblem.org/Table/AYe_AYg4AYiY,Carbon Steel, Schedule 10
+https://www.weblem.org/Table/AYe_AYg4AYg5,Copper
+https://www.weblem.org/Table/AYe_AYg4AggEAggG,Schedule 10
+https://www.weblem.org/Table/AYe_AYg4AggEAggF,Schedule 5
+https://www.weblem.org/Table/AYe_AYfF,Tagging and Marking
+https://www.weblem.org/Table/AYe_Agi1,Tubing Bend
+https://www.weblem.org/Table/AAAGAf28AgW2AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW2AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW2Agj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW2Agj7AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf28AgW2Agj7AgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf28AgW2Agj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrVAgrZAgpb,Aluminum Repad
+https://www.weblem.org/Table/AAAGAf28AgW2AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgW3AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW3AgYD,500 PSI
+https://www.weblem.org/Table/AAAGAf28AgW3AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW3AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW3AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW3AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW3Agj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgpdAgpeAgpT,Carbon Steel Repad
+https://www.weblem.org/Table/AAAGAf28AgW3AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW3AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW3AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW3AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8Agj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrWAgraAgrgAgpU,1-1/4 Chrome 1/2 Moly Repad
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW8AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9Agj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrWAgrbAgrhAgpV,2-1/4 Chrome 1 Moly Repad
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW9AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-Agj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrWAgrcAgriAgpW,5 Chrome 1/2 Moly Repad
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW-AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_Agj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrWAgrdAgrjAgpX,9 Chrome 1 Moly Repad
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgW7AgW_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgXfAgKeAgY1,SDR 11
+https://www.weblem.org/Table/AAAGAf28AgXLAgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgXLAgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgXLAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgXLAgj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgXLAgj7AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf28AgXLAgj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrXAgreAgpZ,Nickel Alloy Repad
+https://www.weblem.org/Table/AAAGAf28AgXLAgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf28AgXLAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf28AgXkAgXlAgKZAgY1,SDR 11
+https://www.weblem.org/Table/AAAGAf28AgXkAgXlAgKZAgd0,SDR 9
+https://www.weblem.org/Table/AAAGAf28AgXkAgXlAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf28AgXMAgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf28AgXMAgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf28AgXMAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgXMAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgXMAgj7AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgpRAgrYAgrfAgpY,Stainless Steel Repad
+https://www.weblem.org/Table/AAAGAf28AgXMAgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf28AgXMAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf28AgXMAgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf28AgXMAgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf28AgXMAgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf28AgXMAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgdk,Cut Tables
+https://www.weblem.org/Table/AAAGAgdEAgdF,Aluminum
+https://www.weblem.org/Table/AAAGAgdEAgdG,Carbon Steel
+https://www.weblem.org/Table/AAAGAgdEAgdH,Stainless Steel
+https://www.weblem.org/Table/AAAGAf3SAgXOAgZaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAf3SAgXOAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ_AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ_AgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW2AgZbAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ9,Groove
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ8AgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW2AgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW2AgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAf3SAgW2AgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAf3SAgW2AgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAf3SAgW2AgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgW2AgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAf3SAgXQAgXRAgj5,Silver Solder Insert
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgXQAgZZAgKJ,50/50 Solder
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKG,Lokring
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKI,Push to Connect
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAf3SAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAf3SAgXQAgJ8AgX5,125 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXQAgJ8AgX6,250 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZdAgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZdAgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZdAgJ8AgX8,2000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZdAgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZdAgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYg,Schedule 20
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYh,Schedule 30
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYi,Schedule 60
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW3AgW4AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW3AgW4AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW3AgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgW3AgKH,Flare
+https://www.weblem.org/Table/AAAGAf3SAgW3AgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ9AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ9AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW3AgKG,Lokring
+https://www.weblem.org/Table/AAAGAf3SAgW3AgKO,Pressfit
+https://www.weblem.org/Table/AAAGAf3SAgW3AgW5AgKFAgX9,Class 150
+https://www.weblem.org/Table/AAAGAf3SAgW3AgW5AgKFAgX-,Class 300
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ7AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ8AgX8,2000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgW3AgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAf3SAgXSAgZZAgVNAgKPAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgXSAgZZAgVNAgKPAgYm,Service Weight
+https://www.weblem.org/Table/AAAGAf3SAgXSAgZZAgVNAgKQAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgXSAgZZAgVNAgKQAgYm,Service Weight
+https://www.weblem.org/Table/AAAGAf3SAgXSAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAf3SAgXSAgZZAgJ8,Thread
+https://www.weblem.org/Table/AAAGAf3SAgXSAgKFAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXSAgKFAgX6,250 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXSAgXTAgZZAgVNAgKQAgYm,Service Weight
+https://www.weblem.org/Table/AAAGAf3SAgXSAgXTAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAf3SAgXSAgJ8AgX5,125 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXSAgJ8AgX6,250 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYi,Schedule 60
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ7AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW8AgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYi,Schedule 60
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ7AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW9AgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYi,Schedule 60
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ7AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW-AgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYi,Schedule 60
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ7AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgW7AgW_AgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAgbFAgbKAgbM,Bell & Spigot O-Ring Joint
+https://www.weblem.org/Table/AAAGAgbFAgbKAgbL,Tongue & Groove Mastic Joint
+https://www.weblem.org/Table/AAAGAf3SAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAf3SAgXUAgZZAgKJ,50/50 Solder
+https://www.weblem.org/Table/AAAGAf3SAgXUAgJ9,Groove
+https://www.weblem.org/Table/AAAGAf3SAgXUAgKS,Press
+https://www.weblem.org/Table/AAAGAf3SAgXUAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAf3SAgXUAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAf3SAgXYAgKTAgYq,10 Gauge
+https://www.weblem.org/Table/AAAGAf3SAgXYAgKTAgYp,12 Gauge
+https://www.weblem.org/Table/AAAGAf3SAgXYAgKTAgYo,14 Gauge
+https://www.weblem.org/Table/AAAGAf3SAgXYAgKTAgYn,16 Gauge
+https://www.weblem.org/Table/AAAGAf3SAgXYAgKTAgYr,8 Gauge
+https://www.weblem.org/Table/AAAGAf3SAgXZAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgXaAgZZAgJ-AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXaAgJ-AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXaAgJ8AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgVOAgKF,Flange
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgVOAgKP,Gasket
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgVOAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgVPAgKF,Flange
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgVPAgKP,Gasket
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgVPAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAf3SAgXbAgZfAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgbFAgbvAgbwAgby,1" Wall Thickness
+https://www.weblem.org/Table/AAAGAf3SAgXcAgKVAgjG,1/2" Wall Thickness
+https://www.weblem.org/Table/AAAGAf3SAgXcAgKVAgYs,1/4" Wall Thickness
+https://www.weblem.org/Table/AAAGAgbFAgbvAgbwAgbx,3/4" Wall Thickness
+https://www.weblem.org/Table/AAAGAf3SAgXcAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXcAgVQAgKW,Epoxy
+https://www.weblem.org/Table/AAAGAf3SAgXcAgVRAgKW,Epoxy
+https://www.weblem.org/Table/AAAGAf3SAgXdAgKX,Bead
+https://www.weblem.org/Table/AAAGAf3SAgXdAgZZAgKX,Bead
+https://www.weblem.org/Table/AAAGAf3SAgXdAgKF,Flange
+https://www.weblem.org/Table/AAAGAf3SAgXeAgZgAgVSAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAf3SAgXfAgXgAgKP,Gasket
+https://www.weblem.org/Table/AAAGAf3SAgXfAgW1AgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXfAgW1AgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYv,DR 11
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYw,DR 13.5
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYx,DR 17
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYy,DR 21
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYz,DR 26
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgY0,DR 32.5
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYt,DR 7
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVUAgKZAgYu,DR 9
+https://www.weblem.org/Table/AAAGAf3SAgXfAgZZAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKZAgYv,DR 11
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKZAgYw,DR 13.5
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKZAgYx,DR 17
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKZAgYt,DR 7
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKZAgYu,DR 9
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKeAgY1,SDR 11
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVTAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYv,DR 11
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYw,DR 13.5
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYx,DR 17
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYy,DR 21
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYz,DR 26
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgY0,DR 32.5
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYt,DR 7
+https://www.weblem.org/Table/AAAGAf3SAgXfAgVVAgKZAgYu,DR 9
+https://www.weblem.org/Table/AAAGAf3SAgXhAgJ8AgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXhAgJ8AgXy,300 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ_AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ8AgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXLAgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXiAgKb,Crimp Ring or Expansion/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgbFAgbQAgbR,DWV Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXjAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXkAgXlAgKZAgY1,SDR 11
+https://www.weblem.org/Table/AAAGAf3SAgXkAgXlAgKZAgY2,SDR 17.6
+https://www.weblem.org/Table/AAAGAf3SAgXkAgXlAgKZAgY3,SDR 7.4
+https://www.weblem.org/Table/AAAGAf3SAgXkAgXlAgKZAgd0,SDR 9
+https://www.weblem.org/Table/AAAGAf3SAgXkAgXlAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXkAgKZAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXkAgKZAgYA,45 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXkAgKZAgYB,90 PSI
+https://www.weblem.org/Table/AAAGAgbFAgbNAgbSAgbT,Mechanical Joint
+https://www.weblem.org/Table/AAAGAf3SAgXkAgZZAgKRAgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXkAgZZAgKaAgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXkAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAgbFAgbNAgbOAgbP,Double Wall Insulated Flexible Tubing (Ecoflex)
+https://www.weblem.org/Table/AAAGAf3SAgXkAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXkAgJ8AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXnAgXoAgZfAgKPAgY4,DR 18
+https://www.weblem.org/Table/AAAGAf3SAgXnAgXpAgZkAgKg,Adhesive Clam Shell Connections
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZZAgVWAgKPAgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZZAgVWAgJ-AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZZAgJ-AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgKFAgYdAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZiAgJ-AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZjAgKPAgY5,SDR 26
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZjAgKPAgY6,SDR 35
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZjAgJ-AgY6,SDR 35
+https://www.weblem.org/Table/AAAGAf3SAgXnAgJ-AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgJ-AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXnAgJ8AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgJ8AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXmAgKZAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXmAgKZAgYC,232 PSI
+https://www.weblem.org/Table/AAAGAgbFAgbzAgb0Agb1,Butt Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXmAgZZAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXmAgZZAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAf3SAgXmAgZZAgKRAgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXmAgZZAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXmAgZhAgKZAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXmAgZhAgKZAgYC,232 PSI
+https://www.weblem.org/Table/AAAGAgbFAgbzAgb2Agb3,Butt Fusion - SIB (BCF)
+https://www.weblem.org/Table/AAAGAf3SAgXmAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAf3SAgXmAgJ8,Thread
+https://www.weblem.org/Table/AAAGAf3SAgXMAgVLAgKCAgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf3SAgXMAgVLAgKCAgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZlAgKT,Clamp
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYj,Schedule 100
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYk,Schedule 120
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYl,Schedule 140
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYg,Schedule 20
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYh,Schedule 30
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYc,Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYi,Schedule 60
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYd,Schedule 80
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ_AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgXMAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgXMAgKH,Flare
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ9AgYe,Schedule 10
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ9AgYf,Schedule 5
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ9AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAf3SAgXMAgKG,Lokring
+https://www.weblem.org/Table/AAAGAf3SAgXMAgKO,Pressfit
+https://www.weblem.org/Table/AAAGAf3SAgXMAgKx,Push Fit
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZmAgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZmAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZmAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZmAgKj,I-Line
+https://www.weblem.org/Table/AAAGAf3SAgXMAgXNAgKFAgX9,Class 150
+https://www.weblem.org/Table/AAAGAf3SAgXMAgXNAgKFAgX-,Class 300
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ7AgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ7AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ7AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ7AgX_,9000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ8AgXx,150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ8AgX8,2000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ8AgXw,3000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgJ8AgX1,6000 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZgAgVXAgKk,Coaxial
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZgAgVSAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZgAgsBAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZgAgVYAgKl,VCR SS Metal Gasket Face Seal
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAf3SAgXMAgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgbFAgbVAgb4Agb5,Gasket Joint
+https://www.weblem.org/Table/AAAGAgbFAgbVAgb4Agb6,Grout Joint
+https://www.weblem.org/Table/AAAGAgbFAgbVAgbW,Coupling Collar Joint
+https://www.weblem.org/Table/AAAGAgBqAgW2AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW2AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW2AgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXQAgKFAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXQAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXQAgKFAgX6,250 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXQAgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgZdAgVaAgJ_AgYD,500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgZdAgVaAgKLAgYD,500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgZdAgVaAgJ7AgYD,500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgZdAgVaAgJ8AgYD,500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgW5AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW3AgW5AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXSAgKFAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXSAgKFAgX6,250 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW8AgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW9AgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW-AgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgW7AgW_AgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXUAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXUAgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXaAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXsAgKMAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXsAgJ_AgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXsAgKKAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXsAgKLAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXsAgJ8AgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXbAgVnAgKFAgX9,Class 150
+https://www.weblem.org/Table/AAAGAgBqAgXbAgKFAgX5,125 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXbAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXbAgVmAgKFAgX9,Class 150
+https://www.weblem.org/Table/AAAGAgBqAgXcAgKVAgYs,1/4" Wall Thickness
+https://www.weblem.org/Table/AAAGAgBqAgXcAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXcAgVQAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXcAgVRAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgBqAgXfAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXLAgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXkAgKF,Flange
+https://www.weblem.org/Table/AAAGAgBqAgXnAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXmAgKF,Flange
+https://www.weblem.org/Table/AAAGAgBqAgXMAgVnAgKFAgX9,Class 150
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgXx,150 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgX3,1500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgX4,2500 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgXy,300 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgXz,400 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgX0,600 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgKFAgX2,900 PSI
+https://www.weblem.org/Table/AAAGAgBqAgXMAgVmAgKFAgX9,Class 150
+https://www.weblem.org/Table/AAAGAgDAAgW2AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgW2AgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW2AgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDAAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgW3AgKFAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW3AgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW3AgKFAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAgDAAgW3AgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW8AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW8AgKFAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW8AgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW8AgKFAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW8AgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW9AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW9AgKFAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW9AgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW9AgKFAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW9AgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW-AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW-AgKFAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW-AgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW-AgKFAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW-AgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW_AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW_AgKFAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW_AgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW_AgKFAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAgDAAgW7AgW_AgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDAAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDAAgXMAgKFAgYb,Double Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgXMAgKFAgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgDAAgXMAgKFAgYa,Schedule 160
+https://www.weblem.org/Table/AAAGAgDAAgXMAgKFAgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgDEAgFbAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgDFAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDFAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgDFAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgDFAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgDHAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgDHAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDHAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAga_AgbA,Boiler Controls
+https://www.weblem.org/Table/AAAGAgDEAgEkAgW2,Aluminum
+https://www.weblem.org/Table/AAAGAgDEAgDLAgXQAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgDLAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgDEAgDLAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDLAgXUAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgDhAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDhAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXQAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEoAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEoAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXSAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEoAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgErAgXQAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgErAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgErAgXaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgErAgXnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgErAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDiAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgDiAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDpAgW3AgeD,Bellows Control Rod
+https://www.weblem.org/Table/AAAGAgDEAgDpAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDyAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDyAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgDzAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgDzAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgDzAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAga_AgbpAgbq,Flanged Ultrasonic
+https://www.weblem.org/Table/AAAGAgDEAgD5AgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgD8AgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgD8Agis,Ventilated Thimble (Wall or Roof)
+https://www.weblem.org/Table/AAAGAgDEAgECAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgECAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgFeAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFeAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgFeAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFeAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFeAgXMAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgFeAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEKAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgEKAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEKAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgEKAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEKAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgD3AgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgENAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgEOAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgEOAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEOAgW3AgKm,Slip Joint
+https://www.weblem.org/Table/AAAGAgDEAgEOAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEOAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEOAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgEOAgXnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEOAgXmAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEeAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEeAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEeAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEeAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEeAgXSAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEeAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEeAgXMAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEeAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAga_AgbB,Pressure Gauges & Thermometers
+https://www.weblem.org/Table/AAAGAgDEAgEgAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEgAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEmAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEmAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgE1AgXMAgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgDEAgE1AgXMAgKT,Clamp
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXQAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEuAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXSAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEuAgW7AgW8AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgW7AgW9AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXbAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEuAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFiAgXSAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW7AgW8AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW7AgW8AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW7AgW8AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFiAgW7AgW9AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgFiAgXMAgKT,Clamp
+https://www.weblem.org/Table/AAAGAgDEAgFiAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFiAgXMAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgFiAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgE5AgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgE5AgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgE5AgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgmCAgW2AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgmCAgW2AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgmCAgW2AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgmCAgXQAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgmCAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgmCAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgmCAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgmCAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgmCAgXbAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgmCAgXMAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgmCAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgmCAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgExAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgExAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgExAgXbAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgExAgXMAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgExAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgF9AgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgF9AgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFtAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgFtAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFtAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAga_AgbC,Vibration Isolators
+https://www.weblem.org/Table/AAAGAgDEAgFuAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFuAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgFuAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFuAgXSAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgFuAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgFuAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW2AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW2AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXQAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXQAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXQAgKS,Press
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXSAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW8AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW8AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW8AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW8AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW9AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW9AgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW9AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgW7AgW9AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXbAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXMAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXMAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXMAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgDEAgEyAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgc0Agc1,Flanged End Assemblies 
+https://www.weblem.org/Table/AAAGAgc0Agc2,Hydrotesting Installed Piping Systems
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc4,Carbon Steel
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc5Agc6,1-1/4 Chrome ½  Moly
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc5Agc7,2-1/4 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc5Agc8,5 Chrome ½  Moly
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc5Agc9,9 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc-,Nickel Alloy 200, 400, 600 and 800
+https://www.weblem.org/Table/AAAGAgc0Agc3Agc_,Stainless Steel
+https://www.weblem.org/Table/AAAGAgdjAgXOAgZaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXOAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXOAgKm,Slip Joint
+https://www.weblem.org/Table/AAAGAgdjAgW2AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW2AgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgW2AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW2AgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAgdjAgW2AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgdjAgW2AgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgW2AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgW2AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgW2AgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAgdjAgW2AgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAgdjAgW2AgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgW2AgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgW2AgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgXQAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgdjAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW3AgW4AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW3AgW6AgKn,Butt Weld and Wrapped
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKu,Flange, Tongue & Groove
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKH,Flare
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAgdjAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKG,Lokring
+https://www.weblem.org/Table/AAAGAgdjAgW3AgKO,Pressfit
+https://www.weblem.org/Table/AAAGAgdjAgW3AgW5AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW3AgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgW3AgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgW3AgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAgdjAgW3AgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAgdjAgW3AgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgW3AgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgW3AgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgXSAgZZAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgdjAgXSAgZZAgKQ,Lead
+https://www.weblem.org/Table/AAAGAgdjAgXSAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgdjAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXSAgXTAgZZAgKQ,Lead
+https://www.weblem.org/Table/AAAGAgdjAgXSAgXTAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW8AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW8AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW8AgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW8AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW8AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW9AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW9AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW9AgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW9AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW9AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW-AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW-AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW-AgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW-AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW-AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW_AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW_AgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW_AgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW_AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgW7AgW_AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgXtAgVkAgKq,Mortar
+https://www.weblem.org/Table/AAAGAgdjAgXtAgViAgKo,O-Ring
+https://www.weblem.org/Table/AAAGAgdjAgXtAgVjAgKp,Mastic
+https://www.weblem.org/Table/AAAGAgdjAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXWAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXWAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXWAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXUAgZZAgKJ,50/50 Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgKH,Flare
+https://www.weblem.org/Table/AAAGAgdjAgXUAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgdjAgXUAgKS,Press
+https://www.weblem.org/Table/AAAGAgdjAgXUAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgKH,Flare
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgZnAgKJ,50/50 Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgZnAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgZnAgKH,Flare
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgZnAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgZnAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgdjAgXUAgXXAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgdjAgXYAgKr,Banded Metal
+https://www.weblem.org/Table/AAAGAgdjAgXuAgZjAgKs,Banded Plastic
+https://www.weblem.org/Table/AAAGAgdjAgXZAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXaAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgXbAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXbAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgdjAgXbAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgdjAgXbAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgdjAgXcAgKV,Butt Wrapped w/ Glass Mat Overlay
+https://www.weblem.org/Table/AAAGAgdjAgXcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXcAgVQAgKW,Epoxy
+https://www.weblem.org/Table/AAAGAgdjAgXcAgVRAgKW,Epoxy
+https://www.weblem.org/Table/AAAGAgdjAgXdAgKX,Bead
+https://www.weblem.org/Table/AAAGAgdjAgXdAgZZAgKX,Bead
+https://www.weblem.org/Table/AAAGAgdjAgXdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXeAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgXfAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXLAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgXLAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXLAgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgXLAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgXLAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgXiAgKb,Crimp Ring or Expansion/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgXvAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXjAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXkAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXkAgZZAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAgdjAgXkAgZZAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgdjAgXkAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgdjAgXkAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXkAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXkAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgdjAgXkAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXnAgKg,Adhesive Clam Shell Connections
+https://www.weblem.org/Table/AAAGAgdjAgXnAgXqAgZfAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgdjAgXnAgXrAgZfAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgdjAgXnAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXnAgZiAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXnAgZjAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgdjAgXnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgdjAgXnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgXmAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXmAgZZAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAgdjAgXmAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgdjAgXmAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXmAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXmAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgdjAgXMAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKT,Clamp
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKH,Flare
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAgdjAgXMAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKj,I-Line
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKG,Lokring
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKO,Pressfit
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKx,Push Fit
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZmAgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZmAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZmAgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZmAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgdjAgXMAgXNAgKF,Flange
+https://www.weblem.org/Table/AAAGAgdjAgXMAgaL,Slip-On Weld
+https://www.weblem.org/Table/AAAGAgdjAgXMAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgdjAgXMAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZgAgKk,Coaxial
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZgAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgdjAgXMAgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgdjAgXMAgKl,VCR SS Metal Gasket Face Seal
+https://www.weblem.org/Table/AAAGAgfbAgfcAgffAgfx,1-1/4 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfcAgffAggA,2-1/4 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfcAgffAgf6,5 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfcAgffAgf-,9 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfcAgfs,Nickel Alloy 200, 400, 600 & 800
+https://www.weblem.org/Table/AAAGAgfbAgfcAgfk,Stainless Steel
+https://www.weblem.org/Table/AAAGAgfbAgfdAgfgAgfv,1-1/4 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfdAgfgAgf0,2-1/4 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfdAgfgAgf4,5 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfdAgfgAgf8,9 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfdAgfq,Nickel Alloy 200, 400, 600 & 800
+https://www.weblem.org/Table/AAAGAgfbAgfdAgfi,Stainless Steel
+https://www.weblem.org/Table/AAAGAgfbAgfeAgfhAgfw,1-1/4 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfeAgfhAggB,2-1/4 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfeAgfhAgf5,5 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfeAgfhAgf9,9 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfbAgfeAgfr,Nickel Alloy 200, 400, 600 & 800
+https://www.weblem.org/Table/AAAGAgfbAgfeAgfj,Stainless Steel
+https://www.weblem.org/Table/AAAGAgdD,Machining Inside of Pipe (Counter Boring)
+https://www.weblem.org/Table/AAAGAgGAAgW2AgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW2AgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW2AgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW2AgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXQAgJ8AgYZ,Extra Heavy
+https://www.weblem.org/Table/AAAGAgGAAgXQAgJ8AgYY,Standard Weight
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ_AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ_AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKNAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ9AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ9AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgKyAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW3AgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ_AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ_AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgKyAgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgKyAgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgKyAgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgKyAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW8AgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ_AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ_AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgKyAgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgKyAgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgKyAgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgKyAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW9AgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ_AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ_AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgKyAgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgKyAgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgKyAgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgKyAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW-AgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ_AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ_AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgKyAgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgKyAgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgKyAgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgKyAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgW7AgW_AgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXaAgJ8Age3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXLAgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXLAgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXLAgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXLAgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXLAgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXLAgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXnAgJ8Age3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ_AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ_AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ_AgYeAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ_AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ_AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgKyAgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgKyAgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgKyAgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgKyAgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYbAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYbAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYZAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYZAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYaAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYaAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYYAge3,Nipple
+https://www.weblem.org/Table/AAAGAgGAAgXMAgJ8AgYYAgVf,Swage Nipple
+https://www.weblem.org/Table/AAAGAgGgAgXOAgZaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXOAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgW2AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW2AgZbAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgW2AgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAgGgAgW2AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgGgAgW2AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW2AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW2AgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAgGgAgW2AgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAgGgAgW2AgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgGgAgW2AgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgW2AgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgGgAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgGgAgXQAgj5,Silver Solder Insert
+https://www.weblem.org/Table/AAAGAgGgAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZdAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZdAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZdAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW3AgW4AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW3AgW6AgKn,Butt Weld and Wrapped
+https://www.weblem.org/Table/AAAGAgGgAgW3AgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgW3AgKH,Flare
+https://www.weblem.org/Table/AAAGAgGgAgW3AgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAgGgAgW3AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgGgAgW3AgKO,Pressfit
+https://www.weblem.org/Table/AAAGAgGgAgW3AgW5AgKF,Flange
+https://www.weblem.org/Table/AAAGAgGgAgW3AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW3AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgW3AgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgGgAgXSAgZZAgVgAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgGgAgXSAgZZAgVgAgKQ,Lead
+https://www.weblem.org/Table/AAAGAgGgAgXSAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgGgAgXSAgZZAgVhAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgGgAgXSAgZZAgVhAgKQ,Lead
+https://www.weblem.org/Table/AAAGAgGgAgXSAgXTAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgGgAgXSAgXTAgZZAgVhAgKQ,Lead
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW8AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW8AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW8AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW9AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW9AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW9AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW-AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW-AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW-AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW_AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW_AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgW7AgW_AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgbXAgcDAgcEAgcF,Tongue & Groove, Mastic Joint
+https://www.weblem.org/Table/AAAGAgGgAgXtAgVkAgKq,Mortar
+https://www.weblem.org/Table/AAAGAgGgAgXtAgViAgKo,O-Ring
+https://www.weblem.org/Table/AAAGAgGgAgXtAgVjAgKp,Mastic
+https://www.weblem.org/Table/AAAGAgGgAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXWAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXWAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXWAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgXUAgZZAgKJ,50/50 Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgKH,Flare
+https://www.weblem.org/Table/AAAGAgGgAgXUAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgGgAgXUAgKS,Press
+https://www.weblem.org/Table/AAAGAgGgAgXUAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgKH,Flare
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgZnAgKJ,50/50 Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgZnAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgZnAgKH,Flare
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgZnAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgZnAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgGgAgXUAgXXAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgGgAgXYAgKr,Banded Metal
+https://www.weblem.org/Table/AAAGAgGgAgXuAgZjAgKs,Banded Plastic
+https://www.weblem.org/Table/AAAGAgGgAgXZAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgXaAgVlAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXaAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXaAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKFAgmP,Flange [125 PSI] x Flange [125 PSI]
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKFAgSg,Flange [125 PSI] x Groove
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKFAgPP,Flange [125 PSI] x Plain End
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKFAgmR,Flange [250 PSI] x Flange [250 PSI]
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKFAgUa,Flange [250 PSI] x Grooved
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKFAgUb,Flange [250 PSI] x Plain End
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgGgAgXbAgJ9AgmS,Groove x Groove
+https://www.weblem.org/Table/AAAGAgGgAgXbAgJ9AgUc,Groove x Plain End
+https://www.weblem.org/Table/AAAGAgGgAgXbAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgbXAgcGAgcHAgcJ,O-Ring Joint
+https://www.weblem.org/Table/AAAGAgbXAgcGAgcKAgcL,Butt-Wrap w/ Glass Mat Overlay
+https://www.weblem.org/Table/AAAGAgGgAgXcAgVQAgKW,Epoxy
+https://www.weblem.org/Table/AAAGAgGgAgXcAgVRAgKW,Epoxy
+https://www.weblem.org/Table/AAAGAgGgAgXdAgKX,Bead
+https://www.weblem.org/Table/AAAGAgGgAgXdAgZZAgKX,Bead
+https://www.weblem.org/Table/AAAGAgGgAgXdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgGgAgXeAgZgAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgXfAgVnAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXfAgVmAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgbXAgbeAgbf,Pre-Engineered Systems
+https://www.weblem.org/Table/AAAGAgbXAgbeAgbg,Sticks and Kits Installation
+https://www.weblem.org/Table/AAAGAgGgAgXLAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgXLAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgXLAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgXiAgKb,Crimp Ring or Expansion/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgbXAgkMAgkZAgkaAgbb,Double Flex
+https://www.weblem.org/Table/AAAGAgbXAgkMAgkZAgkbAgbc,Single Flex
+https://www.weblem.org/Table/AAAGAgbXAgkMAgkZAgkcAgbd,Single Flex, High Density
+https://www.weblem.org/Table/AAAGAgGgAgXvAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgXjAgZoAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXjAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgXlAge0AgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgXlAge0AgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgXlAgZoAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgXlAgZoAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZoAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZZAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZZAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZZAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZZAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZpAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZpAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZpAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZpAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgGgAgXkAgZpAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXkAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgXnAgXqAgZfAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgGgAgXnAgXrAgZfAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgGgAgXnAgXpAgZkAgKg,Adhesive Clam Shell Connections
+https://www.weblem.org/Table/AAAGAgGgAgXnAgZZAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXnAgZiAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXnAgZjAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgGgAgXnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgGgAgXnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZoAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXmAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZZAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZZAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZZAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZZAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZpAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZpAgKe,Electro Fusion
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZpAgKf,Hot Air Weld
+https://www.weblem.org/Table/AAAGAgGgAgXmAgZpAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgbXAgbhAgbiAgcc,Butt Fusion SIB (BCF)
+https://www.weblem.org/Table/AAAGAgbXAgbhAgbiAgbj,Socket Fusion
+https://www.weblem.org/Table/AAAGAgbXAgbhAgbiAgcn,Threaded
+https://www.weblem.org/Table/AAAGAgGgAgXMAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgXMAgKN,Grip Jaw
+https://www.weblem.org/Table/AAAGAgGgAgXMAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgGgAgXMAgKO,Pressfit
+https://www.weblem.org/Table/AAAGAgGgAgXMAgKx,Push Fit
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZmAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgXMAgXNAgKF,Flange
+https://www.weblem.org/Table/AAAGAgGgAgXMAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgGgAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgGgAgXMAgVoAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgXMAgVoAgKH,Flare
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZgAgVpAgKk,Coaxial
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZgAgVoAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZcAgVLAgKB,Adhesive Joint
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZcAgVLAgKC,Seal Weld
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZcAgVLAgKD,Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZcAgVMAgKA,Compression
+https://www.weblem.org/Table/AAAGAgGgAgXMAgZcAgVMAgKE,Slip Coupling w/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgbXAgbkAgbm,Bell & Spigot Gasket Joint
+https://www.weblem.org/Table/AAAGAgbXAgbkAgbn,Bell & Spigot Grout Joint
+https://www.weblem.org/Table/AAAGAgbXAgbkAgbl,Coupling Collar Joint
+https://www.weblem.org/Table/AAAGAgbXAgbkAgbo,Extra Heavy, Perforated Joint
+https://www.weblem.org/Table/AAAGAgHqAgHrAgXnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgHqAgHsAgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXQAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXQAgKS,Press
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXbAgKF,Flange
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXMAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgHqAgHtAgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgHyAgKt,Dresser Coupling Bolt Up
+https://www.weblem.org/Table/AAAGAgbDAgbE,Gas Control Equipment
+https://www.weblem.org/Table/AAAGAgHqAgIZAgXSAgKR,No-Hub
+https://www.weblem.org/Table/AAAGAgHqAgINAgXUAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgH2AgXUAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgH3AgXUAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgHqAgH3AgXUAgKF,Flange
+https://www.weblem.org/Table/AAAGAgHqAgH3AgXUAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgH3AgXaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgH3AgXMAgKF,Flange
+https://www.weblem.org/Table/AAAGAgHqAgH3AgXMAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgH4AgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgHqAgH4AgXSAgKF,Flange
+https://www.weblem.org/Table/AAAGAgcrAgct,45º  Nozzle Welds, Carbon Stee and Any Alloy  (up to 425º F)
+https://www.weblem.org/Table/AAAGAgcrAgcu,90º  Nozzle Welds, Carbon Steel and Any Alloy  (up to 425º F)
+https://www.weblem.org/Table/AAAGAgcrAgcs,Buttwelds, Carbon Steel and Any Alloy (up to 425º F)
+https://www.weblem.org/Table/AAAGAgIjAgJTAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjKAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgjKAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJNAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJGAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgJRAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgI4AgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgIvAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgIvAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJVAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgJVAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjQAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgjQAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjQAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgIxAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgI5AgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgI5AgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgI5AgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgIkAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjrAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgJIAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJfAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgJfAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJfAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgjTAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgjTAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJgAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjyAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJhAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjkAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgJjAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgjzAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgJCAgXQAgKH,Flare
+https://www.weblem.org/Table/AAAGAgIjAgJCAgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgJCAgXQAgaM,Swivel
+https://www.weblem.org/Table/AAAGAgIjAgj0AgXQAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgIjAgj0AgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgJoAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgIjAgJeAgXQAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgcvAgcy,45° Nozzle Weld and Any Alloy (up to 1400º F)
+https://www.weblem.org/Table/AAAGAgcvAgcx,90° Nozzle Weld and Any Alloy (up to 1400º F)
+https://www.weblem.org/Table/AAAGAgcvAgcw,Buttwelds, Carbon Steel and Any Alloy (up to 1400º F)
+https://www.weblem.org/Table/AAAGAgfmAgfp,Carbon Steel
+https://www.weblem.org/Table/AAAGAgfmAgfnAgfz,1-1/4 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfmAgfnAgf3,2-1/4 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfmAgfnAgf7,5 Chrome 1/2 Moly
+https://www.weblem.org/Table/AAAGAgfmAgfnAgf_,9 Chrome 1 Moly
+https://www.weblem.org/Table/AAAGAgfmAgft,Nickel Alloy 200, 400, 600 & 800
+https://www.weblem.org/Table/AAAGAgfmAgfo,Stainless Steel
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCaAgKS,Press
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCiAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCiAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgKA,Compression
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgKS,Press
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgKI,Push to Connect
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgKS,Press
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgKI,Push to Connect
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgChAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgChAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCbAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCbAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCbAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCbAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCdAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCeAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCeAgKS,Press
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCeAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCeAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCfAgKM,95/5 Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCfAgKS,Press
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCfAgKK,Silfos Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCfAgKL,Silver Solder
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgbrAgckAgcl,Isolator Union with CPTA used with Automatic Flow Valve ( Ball Valve with Flow Control Cartridge )
+https://www.weblem.org/Table/AAAGAgCUAgXQAgCgAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCWAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCWAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCXAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCkAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCkAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCaAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgClAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgClAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgClAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCYAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCYAgKO,Pressfit
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCYAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCZAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCZAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCcAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCVAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCeAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCfAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCmAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCmAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCmAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW3AgCmAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW3AgZrAgCXAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgC-AgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW3AgC-AgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgW3AgC-AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgZfAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgZfAgCjAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgCUAgXSAgZfAgCjAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCjAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCjAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCVAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCdAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCeAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCmAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCmAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXSAgCmAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgbrAgcj,Chain Wheel Operators for Valves
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCcAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCeAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCfAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW8AgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCcAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCeAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCfAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW9AgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCcAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCeAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCfAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW-AgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCcAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCeAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCfAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgW7AgW_AgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXUAgCjAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCkAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCkAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCYAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCpAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCpAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCqAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCVAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCVAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCVAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCdAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCeAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCfAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXaAgCoAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCcAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCcAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCeAgKP,Gasket
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCeAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXbAgZfAgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgbrAgcMAgcNAgcO,Plug, Flanged
+https://www.weblem.org/Table/AAAGAgbrAgcMAgcNAgcP,Plug, Mechanical Joint
+https://www.weblem.org/Table/AAAGAgCUAgXbAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXbAgCjAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXbAgCjAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXbAgCjAgKS,Press
+https://www.weblem.org/Table/AAAGAgCUAgXhAgCcAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXLAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXiAgCYAgKb,Crimp Ring or Expansion/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgCUAgXiAgCrAgKb,Crimp Ring or Expansion/ Shrink Sleeve
+https://www.weblem.org/Table/AAAGAgCUAgXjAgCYAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgXlAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgXlAgCYAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgXlAgCuAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgXlAgCwAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgXlAgCvAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgXlAgCtAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCnAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCnAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCYAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCYAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCqAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCVAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCVAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCVAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCdAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCsAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXkAgCoAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCkAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCkAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCnAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCYAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCpAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCpAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCqAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCVAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCVAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCVAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCdAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCeAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCfAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXnAgZiAgCYAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgZiAgCVAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCsAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXnAgCoAgJ-,Solvent Cement
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCnAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCnAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCnAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCnAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCYAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCYAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCYAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCqAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCVAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCVAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCVAgKU,Mechanical
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCVAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCdAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCdAgKa,Socket Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCsAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXmAgCoAgKZ,Butt Fusion
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCaAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCaAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCYAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCYAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCYAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCjAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCjAgJ9,Groove
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCcAgKT,Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCcAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCcAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCcAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgC8AgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgC8AgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgC8AgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCeAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCeAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCeAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCeAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCfAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCfAgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCfAgJ7,Socket Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCfAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgC9AgKF,Flange
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC5AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC7AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCnAgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCnAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCnAgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCnAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCnAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCYAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCYAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCjAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCjAgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCjAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCjAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCcAgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCcAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCcAgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCcAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCcAgKj,I-Line
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC1AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC1AgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC1AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCVAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCVAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCmAgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCmAgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCmAgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCmAgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgCmAgJ8,Thread
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC6AgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC6AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC6AgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC6AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC4AgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC4AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC3AgKi,Bevel Seat
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC3AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC3AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC0AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC0AgKw,Female Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC0AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC2AgJ_,Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZmAgC2AgKh,Ferrule Clamp
+https://www.weblem.org/Table/AAAGAgCUAgXMAgCxAgKA,Compression
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZgAgCzAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZgAgCYAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZgAgCyAgKY,Orbital Butt Weld
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZgAgCVAgKk,Coaxial
+https://www.weblem.org/Table/AAAGAgCUAgXMAgZgAgCVAgKl,VCR SS Metal Gasket Face Seal
+https://www.weblem.org/Table/AAAGAgCUAgXPAgZbAgCYAgKA,Compression
+https://www.weblem.org/Table/AAAGAgCUAgXPAgZbAgCYAgKF,Flange
+https://www.weblem.org/Table/AAAGAgbrAgbsAgbt,Mud
+https://www.weblem.org/Table/AAAGAgbrAgbsAgbu,Telescopic
+https://www.weblem.org/Table/AYfGAYfHAYfI,Catch Basins, Frame and Grate (Heavy Duty)
+https://www.weblem.org/Table/AYfGAYfHAYfM,Manhole Frames and Covers (Heavy Duty Round)
+https://www.weblem.org/Table/AYfGAYhCAYhD,Cleanout w/Plug and Cover
+https://www.weblem.org/Table/AYfGAYiK,Column Sewage Ejector Pumps
+https://www.weblem.org/Table/AYfGAYfJ,Domestic Drinking Water Remote Chiller
+https://www.weblem.org/Table/AYfGAYfN,Domestic Water Booster Pump Systems
+https://www.weblem.org/Table/AYfGAYg6AYg7,Floor Drain
+https://www.weblem.org/Table/AYfGAYg6AYii,Gutter Drain
+https://www.weblem.org/Table/AYfGAYg6AYg8,Roof Drain
+https://www.weblem.org/Table/AYfGAYg6AYih,Trench Drains
+https://www.weblem.org/Table/AYfGAYfK,Gas Meters
+https://www.weblem.org/Table/AYfGAYfL,Gas Pressure Regulators
+https://www.weblem.org/Table/AYfGAYfOAYjC,Hose Bibbs
+https://www.weblem.org/Table/AYfGAYfOAYfP,Wall Hydrants
+https://www.weblem.org/Table/AYfGAYfOAYfQ,Yard Hydrants
+https://www.weblem.org/Table/AYfGAYiqAYir,Hospital Equipment
+https://www.weblem.org/Table/AYfGAYiqAYi7,Medical Gas Outlets, Alarms, Zone Valves, Manifolds, Columns
+https://www.weblem.org/Table/AYfGAYg9AYg-,Acid Neutralization Tanks
+https://www.weblem.org/Table/AYfGAYg9AYg_,Grease Traps, Polyethylene Tank
+https://www.weblem.org/Table/AYfGAYg9AYhA,Grease Traps, Steel Tank
+https://www.weblem.org/Table/AYfGAYg9AYhB,Interceptors
+https://www.weblem.org/Table/AYfGAYg9AYiD,Interceptors (Large Capacity)
+https://www.weblem.org/Table/AYfGAYg9AYiE,Specialty Traps (Plaster, Hair, Lint)
+https://www.weblem.org/Table/AYfGAYhEAYiN,Trap Primers
+https://www.weblem.org/Table/AYfGAYhEAYhF,Vent Flashings
+https://www.weblem.org/Table/AYfGAYiF,Propane Storage Tanks - ASME (Above Ground)
+https://www.weblem.org/Table/AYfGAYiGAYiH,Primary with Legs
+https://www.weblem.org/Table/AYfGAYiGAYiI,Secondary with Hand Shaker and Legs
+https://www.weblem.org/Table/AYfGAYiGAYiJ,Vacumatic
+https://www.weblem.org/Table/AYfGAYikAYil,Horizontal (Underground)
+https://www.weblem.org/Table/AYfGAYikAYim,Vertical (Above Ground)
+https://www.weblem.org/Table/AYfGAYjN,Submersible Sewage Ejectors/Sump Pumps
+https://www.weblem.org/Table/AYfGAYiL,Vacuum Pumps
+https://www.weblem.org/Table/AYfGAYh_AYij,Compact Package Water Heater:  Semi - Instantaneous Steam Fired (27 - 198 Gallon)
+https://www.weblem.org/Table/AYfGAYh_AYiB,Electric - Horizontal Tank (170 to 4,070 gallon)
+https://www.weblem.org/Table/AYfGAYh_AYiA,Electric - Vertical Tank (170 to 1,980 gallon)
+https://www.weblem.org/Table/AYfGAYh_AYiC,Steam Fired, Horizontal Package Domestic - Storage Heater (170 to 3,920 gallon)
+https://www.weblem.org/Table/AYfGAYh_AYio,Steam Fired, Vertical Package Domestic - Storage Heater (170 to 1,980 gallon)
+https://www.weblem.org/Table/AYfGAYh_AYiM,Vertical Instantaneous Heater W/Steam or Hot Water Medium
+https://www.weblem.org/Table/AYfGAYh_AYin,Water Heaters and Storage Tanks (Residential and Light Commercial)
+https://www.weblem.org/Table/AYfGAYhGAYhH,Compound Water Meters - Magnetic or Mechanical Drive (Flanged Connection)
+https://www.weblem.org/Table/AYfGAYhGAYhI,Detector Water Meters - Combination Fire & Domestic Water Systems (Flanged Connection)
+https://www.weblem.org/Table/AYfGAYhGAYhJ,Disc Type Residential and Light Commercial Meters, Magnetic Drive, Threaded Connection
+https://www.weblem.org/Table/AYfGAYi6,Water Purification (DI Units, Ozone Generators, Water Softeners)
+https://www.weblem.org/Table/AYfRAYfS,Fixtures & Accessories
+https://www.weblem.org/Table/AYfRAYib,Toilet Room Accessories
+https://www.weblem.org/Table/AYfTAYfU,Coils
+https://www.weblem.org/Table/AYfTAYhhAYhiAYhj,Air Conditioning
+https://www.weblem.org/Table/AYfTAYhhAYhiAYi9,Low Temperature Refrigeration
+https://www.weblem.org/Table/AYfTAYhhAYhiAYhk,Refrigeration
+https://www.weblem.org/Table/AYfTAYhKAYhL,Air Cooled
+https://www.weblem.org/Table/AYfTAYhKAYhM,Evaporative Condensers
+https://www.weblem.org/Table/AYfTAYhKAYhN,Shell and Tube
+https://www.weblem.org/Table/AYfTAYhlAYhmAYhn,Air Cooled
+https://www.weblem.org/Table/AYfTAYhlAYhmAYho,Water Cooled
+https://www.weblem.org/Table/AYfTAYfW,Evaporators
+https://www.weblem.org/Table/AYfTAYfX,Fan Coil Units, Direct Expansion (DX)
+https://www.weblem.org/Table/AYfTAYhOAYhP,Shell and Coil
+https://www.weblem.org/Table/AYfTAYhOAYhpAYhq,Converter
+https://www.weblem.org/Table/AYfTAYhOAYhpAYi-,Liquid Chiller
+https://www.weblem.org/Table/AYfTAYfV,Screw - Water Cooled
+https://www.weblem.org/Table/AYfTAYi_,Tanks, Pressure Vessels
+https://www.weblem.org/Table/AYfYAYfZ,Aeration Equipment (With Propeller Mixer And Air Sparge Ring-Open Tank-Beam Mounted)
+https://www.weblem.org/Table/AYfYAYfa,Belt Filter Press
+https://www.weblem.org/Table/AYfYAYfb,Bin Dischargers Standard Orbital Motion Type (Bin Mounted)
+https://www.weblem.org/Table/AYfYAYiyAYiz,Centrifugal Multi-Stage Blower
+https://www.weblem.org/Table/AYfYAYiyAYi0,Inlet / Discharge Silencer
+https://www.weblem.org/Table/AYfYAYiyAYi1,Inlet Filter (Roof Mounted)
+https://www.weblem.org/Table/AYfYAYiyAYi2,Positive Displacement Blower
+https://www.weblem.org/Table/AYfYAYfc,Centrifuges, Horizontal
+https://www.weblem.org/Table/AYfYAYfd,Chlorination Equipment
+https://www.weblem.org/Table/AYfYAYhQAYhR,Full Bridge - Siphon Feed
+https://www.weblem.org/Table/AYfYAYhQAYhS,Half Bridge - Siphon Feed
+https://www.weblem.org/Table/AYfYAYiZ,Comminutors
+https://www.weblem.org/Table/AYfYAYfe,Conveyors, Belt Type
+https://www.weblem.org/Table/AYfYAYff,Cyclone Grit Separators / Dewatering Screw Classifier
+https://www.weblem.org/Table/AYfYAYfg,Digester Covers, Steel
+https://www.weblem.org/Table/AYfYAYhT,Flow Meter, Intake Propeller, Open Channel Type
+https://www.weblem.org/Table/AYfYAYfh,Lime Storage Silo
+https://www.weblem.org/Table/AYfYAYfi,Mechanical Seals - Bolted Rubber
+https://www.weblem.org/Table/AYfYAYfj,Parshall Flumes
+https://www.weblem.org/Table/AYfYAYfk,Pump Controllers - Mercury Float
+https://www.weblem.org/Table/AYfYAYhUAYhrAYhs,Horizontal
+https://www.weblem.org/Table/AYfYAYhUAYhrAYht,Vertical
+https://www.weblem.org/Table/AYfYAYhUAYhV,Plunger
+https://www.weblem.org/Table/AYfYAYhUAYhW,Progressive Cavity
+https://www.weblem.org/Table/AYfYAYhUAYhX,Submersible
+https://www.weblem.org/Table/AYfYAYhUAYhY,Vertical Axial and Mixed Flow
+https://www.weblem.org/Table/AYfYAYfl,Rotating Biological Contactors
+https://www.weblem.org/Table/AYfYAYfm,Samplers
+https://www.weblem.org/Table/AYfYAYfn,Shredders
+https://www.weblem.org/Table/AYfYAYfo,Slakers
+https://www.weblem.org/Table/AYfYAYfp,Slide Gates
+https://www.weblem.org/Table/AYfYAYfq,Sludge Grinders
+https://www.weblem.org/Table/AYfYAYfr,Sludge Heat Exchangers
+https://www.weblem.org/Table/AYfYAYfs,Sluice Gates
+https://www.weblem.org/Table/AYfYAYft,Wall Pipes, Cast Iron (12" to 24" Length)
+https://www.weblem.org/Table/AYfYAYfu,Wall Sleeves, Steel (Sch. 40, 12" to 24" Length, Precut)
+https://www.weblem.org/Table/AAAGAgbFAgbzAgb2Agb3,PIPING SYSTEMS, Fittings, PVDF, Pressure, Butt Fusion - SIB (BCF)
+https://www.weblem.org/Table/AYe_AYfF,Miscellaneous Labor Operations, Tagging and Marking
+https://www.weblem.org/Table/AAAGAgGgAgXnAgZZAgJ-,PIPING SYSTEMS, Pipe, PVC, DWV, Solvent Cement
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZZAgVWAgJ-AgYc,PIPING SYSTEMS, Fittings, PVC, DWV, Segmented, Solvent Cement, Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgZZAgJ-AgYc,PIPING SYSTEMS, Fittings, PVC, DWV, Solvent Cement, Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgJ-AgYc,PIPING SYSTEMS, Fittings, PVC, Solvent Cement, Schedule 40
+https://www.weblem.org/Table/AAAGAf3SAgXnAgJ-AgYd,PIPING SYSTEMS, Fittings, PVC, Solvent Cement, Schedule 80
+https://www.weblem.org/Table/AAAGAgGgAgXnAgJ-,PIPING SYSTEMS, Pipe, PVC, Solvent Cement
+https://www.weblem.org/Table/AAAGAgBqAgXnAgKFAgXx,PIPING SYSTEMS, Flanges, PVC, Flange, 150 PSI
+https://www.weblem.org/Table/AAAGAf3SAgXnAgKFAgYdAgXx,PIPING SYSTEMS, Fittings, PVC, Flange, Schedule 80, 150 PSI

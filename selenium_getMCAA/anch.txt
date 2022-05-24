@@ -1,0 +1,2944 @@
+AJxt_anchor,FAQ
+AJxu_anchor,Acknowledgement
+AJx3_anchor,WebLEM Committee Members
+AJx4_anchor,Introduction
+AJx5_anchor,Proper Use of LEM
+AJx6_anchor,Copyright
+Agdh_anchor,Basic Assumptions
+AJx8_anchor,Online Piping and Usage Specification (OPUS)
+AJx9_anchor,Cleanroom Procedures
+AJx9AJx__anchor,Preface
+AJx9AJx7_anchor,Basic Assumptions
+AJx9AYp1_anchor,Basic Considerations
+AJx9AYpf_anchor,Classes of Cleanrooms
+AJx9AYpg_anchor,List of Typical Equipment Requirements
+AJx9AYph_anchor,Reports/Logs
+AJyA_anchor,Computerized Estimating
+AJyAAJyB_anchor,Software Companies Authorized to use WebLEM Data
+AJyC_anchor,Correction Factors
+AJyCAJyE_anchor,Labor Correction Factors
+AJyCAYpj_anchor,Wind Chill / Humidity Chart
+AJyCAYpi_anchor,Premium Time & Inefficiency On Overtime Work
+AJyCAYpiAYp3_anchor,Overtime Multiplier (1-1/2 Time) 
+AJyCAYpiAYp2_anchor,Overtime Multiplier (Double Time)
+AYeq_anchor,Excavation & Backfill
+AYeqAYpk_anchor,Maximum Allowable Slopes
+AYeqAYpl_anchor,Planning Considerations
+AYeqAYpm_anchor,Sample Calculations
+AYeqAYpn_anchor,Slope Configurations
+AYeqAYfv_anchor,Bedding & Backfill Tables
+AYeqAYfvAYfw_anchor,Stable Rock
+AYeqAYfvAYfx_anchor,Type "A" Soils
+AYeqAYfvAYfy_anchor,Type "B" Soils
+AYeqAYfvAYfz_anchor,Type "C" Soils
+AYeqAYf0_anchor,Excavation Tables
+AYeqAYf0AYf1_anchor,Stable Rock
+AYeqAYf0AYf2_anchor,Type "A" Soils
+AYeqAYf0AYf3_anchor,Type "B" Soils
+AYeqAYf0AYf4_anchor,Type "C" Soils
+AYeqAYer_anchor,Hand Excavation - Backfill, Compaction
+AYes_anchor,Hangers, Sleeves & Inserts
+AYesAYpp_anchor,General Notes
+AYesAYf5_anchor,Hanger Assemblies
+AYesAYf5Agj8_anchor,Example - 2" Clevis Hanger with Beam Clamp
+AYesAYf5AYf8_anchor,"Q"  Deck
+AYesAYf5AYf9_anchor,Beam Clamps
+AYesAYf5AYf-_anchor,C-Clamp
+AYesAYf5AYf__anchor,Drill Shields
+AYesAYf5AYf7_anchor,Plywood Deck w/ Wood Knocker
+AYesAYf5AYf6_anchor,Steel Pan Deck or Plastic Pan Deck w/Bang-It
+AYesAYf5AYia_anchor,Weld Beam Attachment
+AYesAYjD_anchor,Hanger Components
+AYesAYjDAYjE_anchor,All Thread Rod
+AYesAYjDAYjH_anchor,Anchors and Inserts
+AYesAYjDAYjG_anchor,Beam Clamps or C-Clamps
+AYesAYjDAYjJ_anchor,Clevis Hanger
+AYesAYjDAgjF_anchor,Gripple Cable
+AYesAYjDAYjF_anchor,Hex Nuts
+AYesAYjDAgdr_anchor,Pipe Roller Chairs
+AYesAYjDAgdo_anchor,Riser Clamp
+AYesAYjDAYjM_anchor,Roof Pipe Supports
+AYesAYjDAgi0_anchor,Saddles and Shields
+AYesAYjDAgdp_anchor,Split Ring Hanger
+AYesAYjDAgdv_anchor,Trapeze (Angle Iron, Strut or C-Channel) (Single Level Trapeze)
+AYesAYjDAgdq_anchor,U-Bolt
+AYesAYjDAYjI_anchor,Welded Beam Attachment
+AYesAYjDAYjK_anchor,Yoke Roller Hanger
+AYesAYgA_anchor,Pipe Anchors
+AYesAYgAAYgB_anchor,Shoe w/Gussett
+AYesAYgD_anchor,Pipe Guides
+AYesAYgDAYgF_anchor,Guide w/Spider
+AYesAYgDAYgG_anchor,Pipe Clamp w/Shoe
+AYesAYgDAYgH_anchor,Shoe w/Guide
+AYesAYgDAYgI_anchor,Shoe w/Gussett
+AYesAYeu_anchor,Pre-Insulated Saddle
+AYesAYgL_anchor,Seismic Restraints
+AYesAYgLAYhZ_anchor,Bracing
+AYesAYgLAYhZAYha_anchor,Angle Iron
+AYesAYgLAYhZAYhb_anchor,Cable
+AYesAYgLAYhZAYhc_anchor,Channel (Strut)
+AYesAYgLAYhZAYip_anchor,Hubless Pipe Bracing
+AYesAYgLAYgM_anchor,Sleeve for Clevis Type Hanger
+AYesAYgLAYhd_anchor,Top Attachment to Structural Members
+AYesAYgLAYhdAYhe_anchor,Attachment to Concrete Slab
+AYesAYgLAYhdAYhf_anchor,Attachment to Fill on Steel Deck
+AYesAYgLAYhdAYhg_anchor,Attachment to Hollow Core Plank
+AYesAYew_anchor,Sleeves, Interior or Exterior
+AYesAYey_anchor,Vibration Isolator, Spring or Neoprene
+AYez_anchor,HVAC Equipment
+AYezAYpo_anchor,Basic Assumptions
+AYezAYgO_anchor,Air Compressor Accessories
+AYezAYgOAYgP_anchor,Air Dryer, Desiccant
+AYezAYgOAYgQ_anchor,Air Dryer, Refrigerated
+AYezAYgOAYic_anchor,Air Receivers
+AYezAYgR_anchor,Air Compressors
+AYezAYgRAYgT_anchor,Air-Cooled Rotary Screw
+AYezAYgRAYgS_anchor,Air-Cooled with Receiver
+AYezAYgRAYgU_anchor,Water-Cooled Centrifugal
+AYezAYgV_anchor,Air Handling Units
+AYezAYgVAYid_anchor,Air Rotation Units
+AYezAYgVAYgW_anchor,Indoor Custom
+AYezAYgVAYie_anchor,Indoor Package / Modular
+AYezAYgVAYgX_anchor,Outdoor Custom
+AYezAYiS_anchor,Boiler Accessories
+AYezAYiSAYiU_anchor,Boiler Blow Down (Floor Mounted)
+AYezAYiSAYiV_anchor,Boiler Deaerator System With Pumps
+AYezAYiSAYiW_anchor,Boiler Feed Systems With Pumps
+AYezAYiSAYiT_anchor,Condensate Coolers (Floor Mounted)
+AYezAYiSAYiX_anchor,Condensate Receivers With Pumps
+AYezAYgY_anchor,Boilers
+AYezAYgYAYgZ_anchor,Cast Iron Sectional (Steam or Hot Water)
+AYezAYgYAYga_anchor,Copper Water Tube (Steam or Hot Water)
+AYezAYgYAYgb_anchor,Electric (Steam or Hot Water)
+AYezAYgYAYgc_anchor,Packaged Fire Tube (Steam or Hot Water)
+AYezAYgYAYgd_anchor,Packaged Flexible Water Tube (Steam or Hot Water)
+AYezAYgYAYge_anchor,Packaged Water Tube "D" Style Steam Generators
+AYezAYe0_anchor,Chillers
+AYezAYe0AYjB_anchor,Air Cooled
+AYezAYe0AYe1_anchor,Water Cooled
+AYezAYe2_anchor,Coils
+AYezAYe3_anchor,Computer Room Air Conditioning Units (CRAC UNITS)
+AYezAYe4_anchor,Condensers
+AYezAYe5_anchor,Condensing Units
+AYezAYh3_anchor,Cooling Towers
+AYezAYh3AYh4_anchor,Closed Circuit
+AYezAYh3AYh4AYh5_anchor,Indoor Centrifugal Fan
+AYezAYh3AYh4AYh6_anchor,Outdoor Axial Fan
+AYezAYh3AYh4AYh7_anchor,Outdoor Centrifugal Fan
+AYezAYh3AYh8_anchor,Open Cell
+AYezAYh3AYh8AYh9_anchor,Outdoor Axial Fan
+AYezAYh3AYh8AYh-_anchor,Outdoor Axial Fan Fiberglass
+AYezAYgf_anchor,Energy Recovery Ventilators (ERV)
+AYezAYgfAYgg_anchor,Indoor
+AYezAYgfAYgh_anchor,Outdoor
+AYezAYiQ_anchor,Expansion Tank Accessories (Air Scoops and Air Separators)
+AYezAYiP_anchor,Expansion Tanks and Chemical Pot Feeders
+AYezAYiR_anchor,Fuel Oil Tank Accessories
+AYezAYiO_anchor,Fuel Oil Tanks
+AYezAYgi_anchor,Heat Exchangers
+AYezAYgiAYgj_anchor,Plate and Frame
+AYezAYgiAYgk_anchor,Shell and Tube
+AYezAYgl_anchor,Heat Pumps
+AYezAYglAYgm_anchor,Air Cooled (Rooftop)
+AYezAYglAYgn_anchor,Water Cooled (Interior)
+AYezAYif_anchor,Heaters (Baseboard Radiation, Cabinet Heaters, Convectors, Infra-Red Heaters, Unit Heaters)
+AYezAYe6_anchor,Humidifiers
+AYezAYgo_anchor,Make-Up Air Units
+AYezAYgoAYgp_anchor,Direct Fired
+AYezAYgoAYgq_anchor,Indirect Fired
+AYezAYgr_anchor,Pumps
+AYezAYgrAYgs_anchor,End Suction  or Split Case
+AYezAYgrAYgt_anchor,Inline
+AYezAYgrAYgu_anchor,Vertical Turbine
+AYezAYe7_anchor,Rooftop Units, Direct Expansion (DX)
+AYezAYh2_anchor,Terminal Air Conditioning Equipment (Fan Coils, Furnaces, PTAC Units, Unit Ventilators)
+AYe8_anchor,Instrumentation
+AYe8AYpr_anchor,Preface
+AYe8AYpq_anchor,Basic Assumptions
+AYe8AYe9_anchor,Control Boards & Panel Boards (Prepiped - Prewired)
+AYe8AYjA_anchor,Field Mounted Instruments & Devices
+AYe8AYi8_anchor,Junction Boxes for Multitube
+AYe8AYe-_anchor,Mounting Methods
+AYe8AYgv_anchor,Multitube
+AYe8AYgvAYgw_anchor,Armored Covered Polyethylene
+AYe8AYgvAYgx_anchor,Plastic Covered Copper or Aluminum
+AYe8AYgvAYgy_anchor,Plastic Covered Polyethylene
+AYe8AYgz_anchor,Tubing Carrier Systems
+AYe8AYgzAYg0_anchor,Cable Tray & Accesories
+AYe8AYgzAYg1_anchor,EMT Conduit (Thin Wall)
+AYe8AYgzAYg3_anchor,Raceway and Fittings
+AYe8AYgzAYg2_anchor,Rigid Conduit
+AYe__anchor,Miscellaneous Labor Operations
+AYe_AYfA_anchor,Cathodic Tape Wrapping
+AYe_AYjP_anchor,Fillet Welding
+AYe_AYfB_anchor,Hole Coring, Reinforced Concrete
+AYe_AYfC_anchor,Inert Gas Purge for Root Pass
+AYe_AYjQ_anchor,Layout and Flame Cutting Flat Plate
+AYe_AYfD_anchor,Medical Gas or Refrigeration System Purge
+AYe_AYfE_anchor,Pipe Freezing
+AYe_AYg4_anchor,Pulled Tee
+AYe_AYg4AYiY_anchor,Carbon Steel, Schedule 10
+AYe_AYg4AYg5_anchor,Copper
+AYe_AYg4AggE_anchor,Stainless Steel
+AYe_AYg4AggEAggG_anchor,Schedule 10
+AYe_AYg4AggEAggF_anchor,Schedule 5
+AYe_AYfF_anchor,Tagging and Marking
+AYe_Agi1_anchor,Tubing Bend
+AAAG_anchor,PIPING SYSTEMS
+AAAGAf28_anchor,Branch Connections
+AAAGAf28AgW2_anchor,Aluminum
+AAAGAf28AgW2AgXw_anchor,3000 PSI
+AAAGAf28AgW2AgYZ_anchor,Extra Heavy
+AAAGAf28AgW2Agj7_anchor,Nozzle Weld on Main
+AAAGAf28AgW2Agj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgW2Agj7AgYe_anchor,Schedule 10
+AAAGAf28AgW2Agj7AgYf_anchor,Schedule 5
+AAAGAf28AgW2Agj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrVAgrZ_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrVAgrZAgpb_anchor,Aluminum Repad
+AAAGAf28AgW2AgYY_anchor,Standard Weight
+AAAGAf28AgW3_anchor,Carbon Steel
+AAAGAf28AgW3AgXw_anchor,3000 PSI
+AAAGAf28AgW3AgYD_anchor,500 PSI
+AAAGAf28AgW3AgX1_anchor,6000 PSI
+AAAGAf28AgW3AgX__anchor,9000 PSI
+AAAGAf28AgW3AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW3AgYZ_anchor,Extra Heavy
+AAAGAf28AgW3Agj7_anchor,Nozzle Weld on Main
+AAAGAf28AgW3Agj7AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW3Agj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgW3Agj7AgYj_anchor,Schedule 100
+AAAGAf28AgW3Agj7AgYk_anchor,Schedule 120
+AAAGAf28AgW3Agj7AgYl_anchor,Schedule 140
+AAAGAf28AgW3Agj7AgYa_anchor,Schedule 160
+AAAGAf28AgW3Agj7AgYc_anchor,Schedule 40
+AAAGAf28AgW3Agj7AgYd_anchor,Schedule 80
+AAAGAf28AgW3Agj7AgYY_anchor,Standard Weight
+AAAGAgpRAgpdAgpe_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgpdAgpeAgpT_anchor,Carbon Steel Repad
+AAAGAf28AgW3AgYa_anchor,Schedule 160
+AAAGAf28AgW3AgYc_anchor,Schedule 40
+AAAGAf28AgW3AgYd_anchor,Schedule 80
+AAAGAf28AgW3AgYY_anchor,Standard Weight
+AAAGAf28AgW7_anchor,Chrome Moly
+AAAGAf28AgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAf28AgW7AgW8AgXw_anchor,3000 PSI
+AAAGAf28AgW7AgW8AgX1_anchor,6000 PSI
+AAAGAf28AgW7AgW8AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW8AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW8Agj7_anchor,Nozzle Weld on Main
+AAAGAf28AgW7AgW8Agj7AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW8Agj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW8Agj7AgYj_anchor,Schedule 100
+AAAGAf28AgW7AgW8Agj7AgYk_anchor,Schedule 120
+AAAGAf28AgW7AgW8Agj7AgYl_anchor,Schedule 140
+AAAGAf28AgW7AgW8Agj7AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW8Agj7AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW8Agj7AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW8Agj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrWAgraAgrg_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrWAgraAgrgAgpU_anchor,1-1/4 Chrome 1/2 Moly Repad
+AAAGAf28AgW7AgW8AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW8AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW8AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW8AgYY_anchor,Standard Weight
+AAAGAf28AgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAf28AgW7AgW9AgXw_anchor,3000 PSI
+AAAGAf28AgW7AgW9AgX1_anchor,6000 PSI
+AAAGAf28AgW7AgW9AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW9AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW9Agj7_anchor,Nozzle Weld on Main
+AAAGAf28AgW7AgW9Agj7AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW9Agj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW9Agj7AgYj_anchor,Schedule 100
+AAAGAf28AgW7AgW9Agj7AgYk_anchor,Schedule 120
+AAAGAf28AgW7AgW9Agj7AgYl_anchor,Schedule 140
+AAAGAf28AgW7AgW9Agj7AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW9Agj7AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW9Agj7AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW9Agj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrWAgrbAgrh_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrWAgrbAgrhAgpV_anchor,2-1/4 Chrome 1 Moly Repad
+AAAGAf28AgW7AgW9AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW9AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW9AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW9AgYY_anchor,Standard Weight
+AAAGAf28AgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAf28AgW7AgW-AgXw_anchor,3000 PSI
+AAAGAf28AgW7AgW-AgX1_anchor,6000 PSI
+AAAGAf28AgW7AgW-AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW-AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW-Agj7_anchor,Nozzle Weld on Main
+AAAGAf28AgW7AgW-Agj7AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW-Agj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW-Agj7AgYj_anchor,Schedule 100
+AAAGAf28AgW7AgW-Agj7AgYk_anchor,Schedule 120
+AAAGAf28AgW7AgW-Agj7AgYl_anchor,Schedule 140
+AAAGAf28AgW7AgW-Agj7AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW-Agj7AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW-Agj7AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW-Agj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrWAgrcAgri_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrWAgrcAgriAgpW_anchor,5 Chrome 1/2 Moly Repad
+AAAGAf28AgW7AgW-AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW-AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW-AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW-AgYY_anchor,Standard Weight
+AAAGAf28AgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAf28AgW7AgW_AgXw_anchor,3000 PSI
+AAAGAf28AgW7AgW_AgX1_anchor,6000 PSI
+AAAGAf28AgW7AgW_AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW_AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW_Agj7_anchor,Nozzle Weld on Main
+AAAGAf28AgW7AgW_Agj7AgYb_anchor,Double Extra Heavy
+AAAGAf28AgW7AgW_Agj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgW7AgW_Agj7AgYj_anchor,Schedule 100
+AAAGAf28AgW7AgW_Agj7AgYk_anchor,Schedule 120
+AAAGAf28AgW7AgW_Agj7AgYl_anchor,Schedule 140
+AAAGAf28AgW7AgW_Agj7AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW_Agj7AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW_Agj7AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW_Agj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrWAgrdAgrj_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrWAgrdAgrjAgpX_anchor,9 Chrome 1 Moly Repad
+AAAGAf28AgW7AgW_AgYa_anchor,Schedule 160
+AAAGAf28AgW7AgW_AgYc_anchor,Schedule 40
+AAAGAf28AgW7AgW_AgYd_anchor,Schedule 80
+AAAGAf28AgW7AgW_AgYY_anchor,Standard Weight
+AAAGAf28AgXf_anchor,HDPE
+AAAGAf28AgXfAgKe_anchor,Electro Fusion
+AAAGAf28AgXfAgKeAgY1_anchor,SDR 11
+AAAGAf28AgXL_anchor,Nickel Alloy
+AAAGAf28AgXLAgXw_anchor,3000 PSI
+AAAGAf28AgXLAgX1_anchor,6000 PSI
+AAAGAf28AgXLAgYZ_anchor,Extra Heavy
+AAAGAf28AgXLAgj7_anchor,Nozzle Weld on Main
+AAAGAf28AgXLAgj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgXLAgj7AgYe_anchor,Schedule 10
+AAAGAf28AgXLAgj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrXAgre_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrXAgreAgpZ_anchor,Nickel Alloy Repad
+AAAGAf28AgXLAgYe_anchor,Schedule 10
+AAAGAf28AgXLAgYY_anchor,Standard Weight
+AAAGAf28AgXk_anchor,Polypropylene
+AAAGAf28AgXkAgXl_anchor,Aquatherm
+AAAGAf28AgXkAgXlAgKZ_anchor,Butt Fusion
+AAAGAf28AgXkAgXlAgKZAgY1_anchor,SDR 11
+AAAGAf28AgXkAgXlAgKZAgd0_anchor,SDR 9
+AAAGAf28AgXkAgXlAgKa_anchor,Socket Fusion
+AAAGAf28AgXM_anchor,Stainless Steel
+AAAGAf28AgXMAgXw_anchor,3000 PSI
+AAAGAf28AgXMAgX1_anchor,6000 PSI
+AAAGAf28AgXMAgYb_anchor,Double Extra Heavy
+AAAGAf28AgXMAgYZ_anchor,Extra Heavy
+AAAGAf28AgXMAgj7_anchor,Nozzle Weld on Main
+AAAGAf28AgXMAgj7AgYb_anchor,Double Extra Heavy
+AAAGAf28AgXMAgj7AgYZ_anchor,Extra Heavy
+AAAGAf28AgXMAgj7AgYe_anchor,Schedule 10
+AAAGAf28AgXMAgj7AgYj_anchor,Schedule 100
+AAAGAf28AgXMAgj7AgYk_anchor,Schedule 120
+AAAGAf28AgXMAgj7AgYl_anchor,Schedule 140
+AAAGAf28AgXMAgj7AgYa_anchor,Schedule 160
+AAAGAf28AgXMAgj7AgYc_anchor,Schedule 40
+AAAGAf28AgXMAgj7AgYf_anchor,Schedule 5
+AAAGAf28AgXMAgj7AgYd_anchor,Schedule 80
+AAAGAf28AgXMAgj7AgYY_anchor,Standard Weight
+AAAGAgpRAgrYAgrf_anchor,Reinforcing Saddle (Repad)
+AAAGAgpRAgrYAgrfAgpY_anchor,Stainless Steel Repad
+AAAGAf28AgXMAgYe_anchor,Schedule 10
+AAAGAf28AgXMAgYa_anchor,Schedule 160
+AAAGAf28AgXMAgYc_anchor,Schedule 40
+AAAGAf28AgXMAgYf_anchor,Schedule 5
+AAAGAf28AgXMAgYd_anchor,Schedule 80
+AAAGAf28AgXMAgYY_anchor,Standard Weight
+AAAGAgdk_anchor,Cut Tables
+AAAGAgdE_anchor,Drilling Holes
+AAAGAgdEAgdF_anchor,Aluminum
+AAAGAgdEAgdG_anchor,Carbon Steel
+AAAGAgdEAgdH_anchor,Stainless Steel
+AAAGAf3S_anchor,Fittings
+AAAGAf3SAgXO_anchor,ABS
+AAAGAf3SAgXOAgZa_anchor,Compressed Air
+AAAGAf3SAgXOAgZaAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXOAgZZ_anchor,DWV
+AAAGAf3SAgXOAgZZAgJ-_anchor,Solvent Cement
+AAAGAf3SAgW2_anchor,Aluminum
+AAAGAf3SAgW2AgJ__anchor,Butt Weld
+AAAGAf3SAgW2AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW2AgJ_AgYe_anchor,Schedule 10
+AAAGAf3SAgW2AgJ_AgYf_anchor,Schedule 5
+AAAGAf3SAgW2AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW2AgZb_anchor,Compressed Air (Transair)
+AAAGAf3SAgW2AgZbAgKA_anchor,Compression
+AAAGAf3SAgW2AgJ9_anchor,Groove
+AAAGAf3SAgW2AgJ7_anchor,Socket Weld
+AAAGAf3SAgW2AgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW2AgJ8_anchor,Thread
+AAAGAf3SAgW2AgJ8AgXx_anchor,150 PSI
+AAAGAf3SAgW2AgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW2AgZc_anchor,Vacuum Tubing
+AAAGAf3SAgW2AgZcAgVL_anchor,Belled End
+AAAGAf3SAgW2AgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAf3SAgW2AgZcAgVLAgKC_anchor,Seal Weld
+AAAGAf3SAgW2AgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAf3SAgW2AgZcAgVM_anchor,Straight End
+AAAGAf3SAgW2AgZcAgVMAgKA_anchor,Compression
+AAAGAf3SAgW2AgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAf3SAgXQ_anchor,Brass or Bronze
+AAAGAf3SAgXQAgXR_anchor,70-30 Copper Nickel
+AAAGAf3SAgXQAgXRAgj5_anchor,Silver Solder Insert
+AAAGAf3SAgXQAgKM_anchor,95/5 Solder
+AAAGAf3SAgXQAgKA_anchor,Compression
+AAAGAf3SAgXQAgZZ_anchor,DWV
+AAAGAf3SAgXQAgZZAgKJ_anchor,50/50 Solder
+AAAGAf3SAgXQAgKF_anchor,Flange
+AAAGAf3SAgXQAgKFAgXx_anchor,150 PSI
+AAAGAf3SAgXQAgKH_anchor,Flare
+AAAGAf3SAgXQAgKG_anchor,Lokring
+AAAGAf3SAgXQAgKI_anchor,Push to Connect
+AAAGAf3SAgXQAgKK_anchor,Silfos Solder
+AAAGAf3SAgXQAgKL_anchor,Silver Solder
+AAAGAf3SAgXQAgJ8_anchor,Thread
+AAAGAf3SAgXQAgJ8AgX5_anchor,125 PSI
+AAAGAf3SAgXQAgJ8AgX6_anchor,250 PSI
+AAAGAf3SAgW3_anchor,Carbon Steel
+AAAGAf3SAgW3AgZd_anchor,Ammonia
+AAAGAf3SAgW3AgZdAgJ7_anchor,Socket Weld
+AAAGAf3SAgW3AgZdAgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW3AgZdAgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgW3AgZdAgJ8_anchor,Thread
+AAAGAf3SAgW3AgZdAgJ8AgX8_anchor,2000 PSI
+AAAGAf3SAgW3AgZdAgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW3AgZdAgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgW3AgJ__anchor,Butt Weld
+AAAGAf3SAgW3AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAf3SAgW3AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW3AgJ_AgYj_anchor,Schedule 100
+AAAGAf3SAgW3AgJ_AgYk_anchor,Schedule 120
+AAAGAf3SAgW3AgJ_AgYl_anchor,Schedule 140
+AAAGAf3SAgW3AgJ_AgYa_anchor,Schedule 160
+AAAGAf3SAgW3AgJ_AgYg_anchor,Schedule 20
+AAAGAf3SAgW3AgJ_AgYh_anchor,Schedule 30
+AAAGAf3SAgW3AgJ_AgYc_anchor,Schedule 40
+AAAGAf3SAgW3AgJ_AgYi_anchor,Schedule 60
+AAAGAf3SAgW3AgJ_AgYd_anchor,Schedule 80
+AAAGAf3SAgW3AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW3AgW4_anchor,Cement Lined
+AAAGAf3SAgW3AgW4AgJ__anchor,Butt Weld
+AAAGAf3SAgW3AgW4AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW3AgW4AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW3AgKA_anchor,Compression
+AAAGAf3SAgW3AgKH_anchor,Flare
+AAAGAf3SAgW3AgKN_anchor,Grip Jaw
+AAAGAf3SAgW3AgJ9_anchor,Groove
+AAAGAf3SAgW3AgJ9AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW3AgJ9AgYY_anchor,Standard Weight
+AAAGAf3SAgW3AgKG_anchor,Lokring
+AAAGAf3SAgW3AgKO_anchor,Pressfit
+AAAGAf3SAgW3AgW5_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAf3SAgW3AgW5AgKF_anchor,Flange
+AAAGAf3SAgW3AgW5AgKFAgX9_anchor,Class 150
+AAAGAf3SAgW3AgW5AgKFAgX-_anchor,Class 300
+AAAGAf3SAgW3AgJ7_anchor,Socket Weld
+AAAGAf3SAgW3AgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW3AgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgW3AgJ7AgX__anchor,9000 PSI
+AAAGAf3SAgW3AgJ8_anchor,Thread
+AAAGAf3SAgW3AgJ8AgX8_anchor,2000 PSI
+AAAGAf3SAgW3AgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW3AgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgW3AgZc_anchor,Vacuum Tubing
+AAAGAf3SAgW3AgZcAgVL_anchor,Belled End
+AAAGAf3SAgW3AgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAf3SAgW3AgZcAgVLAgKC_anchor,Seal Weld
+AAAGAf3SAgW3AgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAf3SAgW3AgZcAgVM_anchor,Straight End
+AAAGAf3SAgW3AgZcAgVMAgKA_anchor,Compression
+AAAGAf3SAgW3AgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAf3SAgXS_anchor,Cast Iron
+AAAGAf3SAgXSAgZZ_anchor,DWV
+AAAGAf3SAgXSAgZZAgVN_anchor,Hub & Spigot
+AAAGAf3SAgXSAgZZAgVNAgKP_anchor,Gasket
+AAAGAf3SAgXSAgZZAgVNAgKPAgYZ_anchor,Extra Heavy
+AAAGAf3SAgXSAgZZAgVNAgKPAgYm_anchor,Service Weight
+AAAGAf3SAgXSAgZZAgVNAgKQ_anchor,Lead
+AAAGAf3SAgXSAgZZAgVNAgKQAgYZ_anchor,Extra Heavy
+AAAGAf3SAgXSAgZZAgVNAgKQAgYm_anchor,Service Weight
+AAAGAf3SAgXSAgZZAgKR_anchor,No-Hub
+AAAGAf3SAgXSAgZZAgJ8_anchor,Thread
+AAAGAf3SAgXSAgKF_anchor,Flange
+AAAGAf3SAgXSAgKFAgX5_anchor,125 PSI
+AAAGAf3SAgXSAgKFAgX6_anchor,250 PSI
+AAAGAf3SAgXSAgXT_anchor,High Silicon
+AAAGAf3SAgXSAgXTAgZZ_anchor,DWV
+AAAGAf3SAgXSAgXTAgZZAgVN_anchor,Hub & Spigot
+AAAGAf3SAgXSAgXTAgZZAgVNAgKQ_anchor,Lead
+AAAGAf3SAgXSAgXTAgZZAgVNAgKQAgYm_anchor,Service Weight
+AAAGAf3SAgXSAgXTAgZZAgKR_anchor,No-Hub
+AAAGAf3SAgXSAgJ8_anchor,Thread
+AAAGAf3SAgXSAgJ8AgX5_anchor,125 PSI
+AAAGAf3SAgXSAgJ8AgX6_anchor,250 PSI
+AAAGAf3SAgW7_anchor,Chrome Moly
+AAAGAf3SAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAf3SAgW7AgW8AgJ__anchor,Butt Weld
+AAAGAf3SAgW7AgW8AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAf3SAgW7AgW8AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW7AgW8AgJ_AgYj_anchor,Schedule 100
+AAAGAf3SAgW7AgW8AgJ_AgYk_anchor,Schedule 120
+AAAGAf3SAgW7AgW8AgJ_AgYl_anchor,Schedule 140
+AAAGAf3SAgW7AgW8AgJ_AgYa_anchor,Schedule 160
+AAAGAf3SAgW7AgW8AgJ_AgYc_anchor,Schedule 40
+AAAGAf3SAgW7AgW8AgJ_AgYi_anchor,Schedule 60
+AAAGAf3SAgW7AgW8AgJ_AgYd_anchor,Schedule 80
+AAAGAf3SAgW7AgW8AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW7AgW8AgJ7_anchor,Socket Weld
+AAAGAf3SAgW7AgW8AgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW8AgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW8AgJ7AgX__anchor,9000 PSI
+AAAGAf3SAgW7AgW8AgJ8_anchor,Thread
+AAAGAf3SAgW7AgW8AgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW8AgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAf3SAgW7AgW9AgJ__anchor,Butt Weld
+AAAGAf3SAgW7AgW9AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAf3SAgW7AgW9AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW7AgW9AgJ_AgYj_anchor,Schedule 100
+AAAGAf3SAgW7AgW9AgJ_AgYk_anchor,Schedule 120
+AAAGAf3SAgW7AgW9AgJ_AgYl_anchor,Schedule 140
+AAAGAf3SAgW7AgW9AgJ_AgYa_anchor,Schedule 160
+AAAGAf3SAgW7AgW9AgJ_AgYc_anchor,Schedule 40
+AAAGAf3SAgW7AgW9AgJ_AgYi_anchor,Schedule 60
+AAAGAf3SAgW7AgW9AgJ_AgYd_anchor,Schedule 80
+AAAGAf3SAgW7AgW9AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW7AgW9AgJ7_anchor,Socket Weld
+AAAGAf3SAgW7AgW9AgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW9AgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW9AgJ7AgX__anchor,9000 PSI
+AAAGAf3SAgW7AgW9AgJ8_anchor,Thread
+AAAGAf3SAgW7AgW9AgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW9AgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAf3SAgW7AgW-AgJ__anchor,Butt Weld
+AAAGAf3SAgW7AgW-AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAf3SAgW7AgW-AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW7AgW-AgJ_AgYj_anchor,Schedule 100
+AAAGAf3SAgW7AgW-AgJ_AgYk_anchor,Schedule 120
+AAAGAf3SAgW7AgW-AgJ_AgYl_anchor,Schedule 140
+AAAGAf3SAgW7AgW-AgJ_AgYa_anchor,Schedule 160
+AAAGAf3SAgW7AgW-AgJ_AgYc_anchor,Schedule 40
+AAAGAf3SAgW7AgW-AgJ_AgYi_anchor,Schedule 60
+AAAGAf3SAgW7AgW-AgJ_AgYd_anchor,Schedule 80
+AAAGAf3SAgW7AgW-AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW7AgW-AgJ7_anchor,Socket Weld
+AAAGAf3SAgW7AgW-AgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW-AgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW-AgJ7AgX__anchor,9000 PSI
+AAAGAf3SAgW7AgW-AgJ8_anchor,Thread
+AAAGAf3SAgW7AgW-AgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW-AgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAf3SAgW7AgW_AgJ__anchor,Butt Weld
+AAAGAf3SAgW7AgW_AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAf3SAgW7AgW_AgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgW7AgW_AgJ_AgYj_anchor,Schedule 100
+AAAGAf3SAgW7AgW_AgJ_AgYk_anchor,Schedule 120
+AAAGAf3SAgW7AgW_AgJ_AgYl_anchor,Schedule 140
+AAAGAf3SAgW7AgW_AgJ_AgYa_anchor,Schedule 160
+AAAGAf3SAgW7AgW_AgJ_AgYc_anchor,Schedule 40
+AAAGAf3SAgW7AgW_AgJ_AgYi_anchor,Schedule 60
+AAAGAf3SAgW7AgW_AgJ_AgYd_anchor,Schedule 80
+AAAGAf3SAgW7AgW_AgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgW7AgW_AgJ7_anchor,Socket Weld
+AAAGAf3SAgW7AgW_AgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW_AgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgW7AgW_AgJ7AgX__anchor,9000 PSI
+AAAGAf3SAgW7AgW_AgJ8_anchor,Thread
+AAAGAf3SAgW7AgW_AgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgW7AgW_AgJ8AgX1_anchor,6000 PSI
+AAAGAgbFAgbK_anchor,Concrete
+AAAGAgbFAgbKAgbM_anchor,Bell & Spigot O-Ring Joint
+AAAGAgbFAgbKAgbL_anchor,Tongue & Groove Mastic Joint
+AAAGAf3SAgXU_anchor,Copper
+AAAGAf3SAgXUAgKM_anchor,95/5 Solder
+AAAGAf3SAgXUAgZZ_anchor,DWV
+AAAGAf3SAgXUAgZZAgKJ_anchor,50/50 Solder
+AAAGAf3SAgXUAgJ9_anchor,Groove
+AAAGAf3SAgXUAgKS_anchor,Press
+AAAGAf3SAgXUAgKK_anchor,Silfos Solder
+AAAGAf3SAgXUAgKL_anchor,Silver Solder
+AAAGAf3SAgXY_anchor,Corrugated Galvanized
+AAAGAf3SAgXYAgKT_anchor,Clamp
+AAAGAf3SAgXYAgKTAgYq_anchor,10 Gauge
+AAAGAf3SAgXYAgKTAgYp_anchor,12 Gauge
+AAAGAf3SAgXYAgKTAgYo_anchor,14 Gauge
+AAAGAf3SAgXYAgKTAgYn_anchor,16 Gauge
+AAAGAf3SAgXYAgKTAgYr_anchor,8 Gauge
+AAAGAf3SAgXZ_anchor,Corrugated Stainless Steel Tubing
+AAAGAf3SAgXZAgKA_anchor,Compression
+AAAGAf3SAgXa_anchor,CPVC
+AAAGAf3SAgXaAgZZ_anchor,DWV
+AAAGAf3SAgXaAgZZAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXaAgZZAgJ-AgYc_anchor,Schedule 40
+AAAGAf3SAgXaAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXaAgJ-AgYd_anchor,Schedule 80
+AAAGAf3SAgXaAgJ8_anchor,Thread
+AAAGAf3SAgXaAgJ8AgYd_anchor,Schedule 80
+AAAGAf3SAgXb_anchor,Ductile Iron
+AAAGAf3SAgXbAgZf_anchor,AWWA
+AAAGAf3SAgXbAgZfAgVO_anchor,C110 Full Body
+AAAGAf3SAgXbAgZfAgVOAgKF_anchor,Flange
+AAAGAf3SAgXbAgZfAgVOAgKP_anchor,Gasket
+AAAGAf3SAgXbAgZfAgVOAgKU_anchor,Mechanical
+AAAGAf3SAgXbAgZfAgVP_anchor,C153 Compact Body
+AAAGAf3SAgXbAgZfAgVPAgKF_anchor,Flange
+AAAGAf3SAgXbAgZfAgVPAgKP_anchor,Gasket
+AAAGAf3SAgXbAgZfAgVPAgKU_anchor,Mechanical
+AAAGAf3SAgXbAgZfAgJ9_anchor,Groove
+AAAGAf3SAgXc_anchor,Fiberglass
+AAAGAf3SAgXcAgKV_anchor,Butt Wrapped w/ Glass Mat Overlay
+AAAGAgbFAgbvAgbwAgby_anchor,1" Wall Thickness
+AAAGAf3SAgXcAgKVAgjG_anchor,1/2" Wall Thickness
+AAAGAf3SAgXcAgKVAgYs_anchor,1/4" Wall Thickness
+AAAGAgbFAgbvAgbwAgbx_anchor,3/4" Wall Thickness
+AAAGAf3SAgXcAgKF_anchor,Flange
+AAAGAf3SAgXcAgKFAgXx_anchor,150 PSI
+AAAGAf3SAgXcAgVQ_anchor,Straight Socket
+AAAGAf3SAgXcAgVQAgKW_anchor,Epoxy
+AAAGAf3SAgXcAgVR_anchor,Taper Socket
+AAAGAf3SAgXcAgVRAgKW_anchor,Epoxy
+AAAGAf3SAgXd_anchor,Glass
+AAAGAf3SAgXdAgKX_anchor,Bead
+AAAGAf3SAgXdAgZZ_anchor,DWV
+AAAGAf3SAgXdAgZZAgKX_anchor,Bead
+AAAGAf3SAgXdAgKF_anchor,Flange
+AAAGAf3SAgXe_anchor,Hastelloy C-22
+AAAGAf3SAgXeAgZg_anchor,Ultra High Purity
+AAAGAf3SAgXeAgZgAgVS_anchor,Long Radius
+AAAGAf3SAgXeAgZgAgVSAgKY_anchor,Orbital Butt Weld
+AAAGAf3SAgXf_anchor,HDPE
+AAAGAf3SAgXfAgXg_anchor,Corrugated Drainage
+AAAGAf3SAgXfAgXgAgKP_anchor,Gasket
+AAAGAf3SAgXfAgW1_anchor,CTS Molded
+AAAGAf3SAgXfAgW1AgKZ_anchor,Butt Fusion
+AAAGAf3SAgXfAgW1AgKa_anchor,Socket Fusion
+AAAGAf3SAgXfAgVU_anchor,DIPS, Segmented
+AAAGAf3SAgXfAgVUAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXfAgVUAgKZAgYv_anchor,DR 11
+AAAGAf3SAgXfAgVUAgKZAgYw_anchor,DR 13.5
+AAAGAf3SAgXfAgVUAgKZAgYx_anchor,DR 17
+AAAGAf3SAgXfAgVUAgKZAgYy_anchor,DR 21
+AAAGAf3SAgXfAgVUAgKZAgYz_anchor,DR 26
+AAAGAf3SAgXfAgVUAgKZAgY0_anchor,DR 32.5
+AAAGAf3SAgXfAgVUAgKZAgYt_anchor,DR 7
+AAAGAf3SAgXfAgVUAgKZAgYu_anchor,DR 9
+AAAGAf3SAgXfAgZZ_anchor,DWV
+AAAGAf3SAgXfAgZZAgKa_anchor,Socket Fusion
+AAAGAf3SAgXfAgVT_anchor,IPS, Molded
+AAAGAf3SAgXfAgVTAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXfAgVTAgKZAgYv_anchor,DR 11
+AAAGAf3SAgXfAgVTAgKZAgYw_anchor,DR 13.5
+AAAGAf3SAgXfAgVTAgKZAgYx_anchor,DR 17
+AAAGAf3SAgXfAgVTAgKZAgYt_anchor,DR 7
+AAAGAf3SAgXfAgVTAgKZAgYu_anchor,DR 9
+AAAGAf3SAgXfAgVTAgKe_anchor,Electro Fusion
+AAAGAf3SAgXfAgVTAgKeAgY1_anchor,SDR 11
+AAAGAf3SAgXfAgVTAgKa_anchor,Socket Fusion
+AAAGAf3SAgXfAgVV_anchor,IPS, Segmented
+AAAGAf3SAgXfAgVVAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXfAgVVAgKZAgYv_anchor,DR 11
+AAAGAf3SAgXfAgVVAgKZAgYw_anchor,DR 13.5
+AAAGAf3SAgXfAgVVAgKZAgYx_anchor,DR 17
+AAAGAf3SAgXfAgVVAgKZAgYy_anchor,DR 21
+AAAGAf3SAgXfAgVVAgKZAgYz_anchor,DR 26
+AAAGAf3SAgXfAgVVAgKZAgY0_anchor,DR 32.5
+AAAGAf3SAgXfAgVVAgKZAgYt_anchor,DR 7
+AAAGAf3SAgXfAgVVAgKZAgYu_anchor,DR 9
+AAAGAf3SAgXh_anchor,Malleable Iron
+AAAGAf3SAgXhAgJ8_anchor,Thread
+AAAGAf3SAgXhAgJ8AgXx_anchor,150 PSI
+AAAGAf3SAgXhAgJ8AgXy_anchor,300 PSI
+AAAGAf3SAgXL_anchor,Nickel Alloy
+AAAGAf3SAgXLAgJ__anchor,Butt Weld
+AAAGAf3SAgXLAgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgXLAgJ_AgYe_anchor,Schedule 10
+AAAGAf3SAgXLAgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgXLAgJ7_anchor,Socket Weld
+AAAGAf3SAgXLAgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgXLAgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgXLAgJ8_anchor,Thread
+AAAGAf3SAgXLAgJ8AgXx_anchor,150 PSI
+AAAGAf3SAgXLAgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgXLAgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgXi_anchor,PEX
+AAAGAf3SAgXiAgKb_anchor,Crimp Ring or Expansion/ Shrink Sleeve
+AAAGAf3SAgXj_anchor,Polyethylene
+AAAGAgbFAgbQAgbR_anchor,DWV Socket Fusion
+AAAGAf3SAgXjAgKa_anchor,Socket Fusion
+AAAGAf3SAgXk_anchor,Polypropylene
+AAAGAf3SAgXkAgXl_anchor,Aquatherm
+AAAGAf3SAgXkAgXlAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXkAgXlAgKZAgY1_anchor,SDR 11
+AAAGAf3SAgXkAgXlAgKZAgY2_anchor,SDR 17.6
+AAAGAf3SAgXkAgXlAgKZAgY3_anchor,SDR 7.4
+AAAGAf3SAgXkAgXlAgKZAgd0_anchor,SDR 9
+AAAGAf3SAgXkAgXlAgKa_anchor,Socket Fusion
+AAAGAf3SAgXkAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXkAgKZAgXx_anchor,150 PSI
+AAAGAf3SAgXkAgKZAgYA_anchor,45 PSI
+AAAGAf3SAgXkAgKZAgYB_anchor,90 PSI
+AAAGAf3SAgXkAgZZ_anchor,DWV
+AAAGAgbFAgbNAgbSAgbT_anchor,Mechanical Joint
+AAAGAf3SAgXkAgZZAgKR_anchor,No-Hub
+AAAGAf3SAgXkAgZZAgKRAgYc_anchor,Schedule 40
+AAAGAf3SAgXkAgZZAgKa_anchor,Socket Fusion
+AAAGAf3SAgXkAgZZAgKaAgYc_anchor,Schedule 40
+AAAGAf3SAgXkAgKe_anchor,Electro Fusion
+AAAGAgbFAgbNAgbO_anchor,Pressure
+AAAGAgbFAgbNAgbOAgbP_anchor,Double Wall Insulated Flexible Tubing (Ecoflex)
+AAAGAf3SAgXkAgKa_anchor,Socket Fusion
+AAAGAf3SAgXkAgJ8_anchor,Thread
+AAAGAf3SAgXkAgJ8AgYd_anchor,Schedule 80
+AAAGAf3SAgXn_anchor,PVC
+AAAGAf3SAgXnAgXo_anchor,C900/C907
+AAAGAf3SAgXnAgXoAgZf_anchor,AWWA
+AAAGAf3SAgXnAgXoAgZfAgKP_anchor,Gasket
+AAAGAf3SAgXnAgXoAgZfAgKPAgY4_anchor,DR 18
+AAAGAf3SAgXnAgXp_anchor,Clear
+AAAGAf3SAgXnAgXpAgZk_anchor,Split System Secondary Containment
+AAAGAf3SAgXnAgXpAgZkAgKg_anchor,Adhesive Clam Shell Connections
+AAAGAf3SAgXnAgZZ_anchor,DWV
+AAAGAf3SAgXnAgZZAgVW_anchor,Segmented
+AAAGAf3SAgXnAgZZAgVWAgKP_anchor,Gasket
+AAAGAf3SAgXnAgZZAgVWAgKPAgYc_anchor,Schedule 40
+AAAGAf3SAgXnAgZZAgVWAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXnAgZZAgVWAgJ-AgYc_anchor,Schedule 40
+AAAGAf3SAgXnAgZZAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXnAgZZAgJ-AgYc_anchor,Schedule 40
+AAAGAf3SAgXnAgKF_anchor,Flange
+AAAGAf3SAgXnAgKFAgYd_anchor,Schedule 80
+AAAGAf3SAgXnAgKFAgYdAgXx_anchor,150 PSI
+AAAGAf3SAgXnAgZi_anchor,High Purity Low Extractable (LXT)
+AAAGAf3SAgXnAgZiAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXnAgZiAgJ-AgYd_anchor,Schedule 80
+AAAGAf3SAgXnAgZj_anchor,Sewer & Drainage
+AAAGAf3SAgXnAgZjAgKP_anchor,Gasket
+AAAGAf3SAgXnAgZjAgKPAgY5_anchor,SDR 26
+AAAGAf3SAgXnAgZjAgKPAgY6_anchor,SDR 35
+AAAGAf3SAgXnAgZjAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXnAgZjAgJ-AgY6_anchor,SDR 35
+AAAGAf3SAgXnAgJ-_anchor,Solvent Cement
+AAAGAf3SAgXnAgJ-AgYc_anchor,Schedule 40
+AAAGAf3SAgXnAgJ-AgYd_anchor,Schedule 80
+AAAGAf3SAgXnAgJ8_anchor,Thread
+AAAGAf3SAgXnAgJ8AgYc_anchor,Schedule 40
+AAAGAf3SAgXnAgJ8AgYd_anchor,Schedule 80
+AAAGAf3SAgXm_anchor,PVDF
+AAAGAf3SAgXmAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXmAgKZAgXx_anchor,150 PSI
+AAAGAf3SAgXmAgKZAgYC_anchor,232 PSI
+AAAGAf3SAgXmAgZZ_anchor,DWV
+AAAGAgbFAgbzAgb0Agb1_anchor,Butt Fusion
+AAAGAf3SAgXmAgZZAgKe_anchor,Electro Fusion
+AAAGAf3SAgXmAgZZAgKf_anchor,Hot Air Weld
+AAAGAf3SAgXmAgZZAgKR_anchor,No-Hub
+AAAGAf3SAgXmAgZZAgKRAgYc_anchor,Schedule 40
+AAAGAf3SAgXmAgZZAgKa_anchor,Socket Fusion
+AAAGAf3SAgXmAgZh_anchor,High Purity
+AAAGAf3SAgXmAgZhAgKZ_anchor,Butt Fusion
+AAAGAf3SAgXmAgZhAgKZAgXx_anchor,150 PSI
+AAAGAf3SAgXmAgZhAgKZAgYC_anchor,232 PSI
+AAAGAgbFAgbzAgb2_anchor,Pressure
+AAAGAgbFAgbzAgb2Agb3_anchor,Butt Fusion - SIB (BCF)
+AAAGAf3SAgXmAgKa_anchor,Socket Fusion
+AAAGAf3SAgXmAgJ8_anchor,Thread
+AAAGAf3SAgXM_anchor,Stainless Steel
+AAAGAf3SAgXMAgVL_anchor,Belled End
+AAAGAf3SAgXMAgVLAgKC_anchor,Seal Weld
+AAAGAf3SAgXMAgVLAgKCAgYe_anchor,Schedule 10
+AAAGAf3SAgXMAgVLAgKCAgYf_anchor,Schedule 5
+AAAGAf3SAgXMAgZl_anchor,Bio Pharmaceutical (BPE)
+AAAGAf3SAgXMAgZlAgKT_anchor,Clamp
+AAAGAf3SAgXMAgJ__anchor,Butt Weld
+AAAGAf3SAgXMAgJ_AgYb_anchor,Double Extra Heavy
+AAAGAf3SAgXMAgJ_AgYZ_anchor,Extra Heavy
+AAAGAf3SAgXMAgJ_AgYe_anchor,Schedule 10
+AAAGAf3SAgXMAgJ_AgYj_anchor,Schedule 100
+AAAGAf3SAgXMAgJ_AgYk_anchor,Schedule 120
+AAAGAf3SAgXMAgJ_AgYl_anchor,Schedule 140
+AAAGAf3SAgXMAgJ_AgYa_anchor,Schedule 160
+AAAGAf3SAgXMAgJ_AgYg_anchor,Schedule 20
+AAAGAf3SAgXMAgJ_AgYh_anchor,Schedule 30
+AAAGAf3SAgXMAgJ_AgYc_anchor,Schedule 40
+AAAGAf3SAgXMAgJ_AgYf_anchor,Schedule 5
+AAAGAf3SAgXMAgJ_AgYi_anchor,Schedule 60
+AAAGAf3SAgXMAgJ_AgYd_anchor,Schedule 80
+AAAGAf3SAgXMAgJ_AgYY_anchor,Standard Weight
+AAAGAf3SAgXMAgKA_anchor,Compression
+AAAGAf3SAgXMAgKH_anchor,Flare
+AAAGAf3SAgXMAgJ9_anchor,Groove
+AAAGAf3SAgXMAgJ9AgYe_anchor,Schedule 10
+AAAGAf3SAgXMAgJ9AgYf_anchor,Schedule 5
+AAAGAf3SAgXMAgJ9AgYY_anchor,Standard Weight
+AAAGAf3SAgXMAgKG_anchor,Lokring
+AAAGAf3SAgXMAgKO_anchor,Pressfit
+AAAGAf3SAgXMAgKx_anchor,Push Fit
+AAAGAf3SAgXMAgZm_anchor,Sanitary Food Grade
+AAAGAf3SAgXMAgZmAgKi_anchor,Bevel Seat
+AAAGAf3SAgXMAgZmAgJ__anchor,Butt Weld
+AAAGAf3SAgXMAgZmAgKh_anchor,Ferrule Clamp
+AAAGAf3SAgXMAgZmAgKj_anchor,I-Line
+AAAGAf3SAgXMAgXN_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAf3SAgXMAgXNAgKF_anchor,Flange
+AAAGAf3SAgXMAgXNAgKFAgX9_anchor,Class 150
+AAAGAf3SAgXMAgXNAgKFAgX-_anchor,Class 300
+AAAGAf3SAgXMAgJ7_anchor,Socket Weld
+AAAGAf3SAgXMAgJ7AgXx_anchor,150 PSI
+AAAGAf3SAgXMAgJ7AgXw_anchor,3000 PSI
+AAAGAf3SAgXMAgJ7AgX1_anchor,6000 PSI
+AAAGAf3SAgXMAgJ7AgX__anchor,9000 PSI
+AAAGAf3SAgXMAgJ8_anchor,Thread
+AAAGAf3SAgXMAgJ8AgXx_anchor,150 PSI
+AAAGAf3SAgXMAgJ8AgX8_anchor,2000 PSI
+AAAGAf3SAgXMAgJ8AgXw_anchor,3000 PSI
+AAAGAf3SAgXMAgJ8AgX1_anchor,6000 PSI
+AAAGAf3SAgXMAgZg_anchor,Ultra High Purity
+AAAGAf3SAgXMAgZgAgVX_anchor,Coaxial, Long Radius
+AAAGAf3SAgXMAgZgAgVXAgKk_anchor,Coaxial
+AAAGAf3SAgXMAgZgAgVS_anchor,Long Radius
+AAAGAf3SAgXMAgZgAgVSAgKY_anchor,Orbital Butt Weld
+AAAGAf3SAgXMAgZgAgsB_anchor,Micro-Fit
+AAAGAf3SAgXMAgZgAgsBAgKY_anchor,Orbital Butt Weld
+AAAGAf3SAgXMAgZgAgVY_anchor,VCR Tube
+AAAGAf3SAgXMAgZgAgVYAgKl_anchor,VCR SS Metal Gasket Face Seal
+AAAGAf3SAgXMAgZc_anchor,Vacuum Tubing
+AAAGAf3SAgXMAgZcAgVL_anchor,Belled End
+AAAGAf3SAgXMAgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAf3SAgXMAgZcAgVLAgKC_anchor,Seal Weld
+AAAGAf3SAgXMAgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAf3SAgXMAgZcAgVM_anchor,Straight End
+AAAGAf3SAgXMAgZcAgVMAgKA_anchor,Compression
+AAAGAf3SAgXMAgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgbFAgbV_anchor,Vitrified Clay
+AAAGAgbFAgbVAgb4_anchor,Bell & Spigot
+AAAGAgbFAgbVAgb4Agb5_anchor,Gasket Joint
+AAAGAgbFAgbVAgb4Agb6_anchor,Grout Joint
+AAAGAgbFAgbVAgbW_anchor,Coupling Collar Joint
+AAAGAgBq_anchor,Flanges
+AAAGAgBqAgW2_anchor,Aluminum
+AAAGAgBqAgW2AgKF_anchor,Flange
+AAAGAgBqAgW2AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW2AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW2AgKFAgX0_anchor,600 PSI
+AAAGAgBqAgXQ_anchor,Brass or Bronze
+AAAGAgBqAgXQAgKF_anchor,Flange
+AAAGAgBqAgXQAgKFAgX5_anchor,125 PSI
+AAAGAgBqAgXQAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXQAgKFAgX6_anchor,250 PSI
+AAAGAgBqAgXQAgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW3_anchor,Carbon Steel
+AAAGAgBqAgW3AgZd_anchor,Ammonia
+AAAGAgBqAgW3AgZdAgVa_anchor,Tongue & Groove
+AAAGAgBqAgW3AgZdAgVaAgJ__anchor,Butt Weld
+AAAGAgBqAgW3AgZdAgVaAgJ_AgYD_anchor,500 PSI
+AAAGAgBqAgW3AgZdAgVaAgKL_anchor,Silver Solder
+AAAGAgBqAgW3AgZdAgVaAgKLAgYD_anchor,500 PSI
+AAAGAgBqAgW3AgZdAgVaAgJ7_anchor,Socket Weld
+AAAGAgBqAgW3AgZdAgVaAgJ7AgYD_anchor,500 PSI
+AAAGAgBqAgW3AgZdAgVaAgJ8_anchor,Thread
+AAAGAgBqAgW3AgZdAgVaAgJ8AgYD_anchor,500 PSI
+AAAGAgBqAgW3AgKF_anchor,Flange
+AAAGAgBqAgW3AgKFAgX5_anchor,125 PSI
+AAAGAgBqAgW3AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW3AgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgW3AgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgW3AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW3AgKFAgXz_anchor,400 PSI
+AAAGAgBqAgW3AgKFAgX0_anchor,600 PSI
+AAAGAgBqAgW3AgKFAgX2_anchor,900 PSI
+AAAGAgBqAgW3AgW5_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAgBqAgW3AgW5AgKF_anchor,Flange
+AAAGAgBqAgW3AgW5AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW3AgW5AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgXS_anchor,Cast Iron
+AAAGAgBqAgXSAgKF_anchor,Flange
+AAAGAgBqAgXSAgKFAgX5_anchor,125 PSI
+AAAGAgBqAgXSAgKFAgX6_anchor,250 PSI
+AAAGAgBqAgW7_anchor,Chrome Moly
+AAAGAgBqAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgBqAgW7AgW8AgKF_anchor,Flange
+AAAGAgBqAgW7AgW8AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW7AgW8AgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgW7AgW8AgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgW7AgW8AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW7AgW8AgKFAgXz_anchor,400 PSI
+AAAGAgBqAgW7AgW8AgKFAgX0_anchor,600 PSI
+AAAGAgBqAgW7AgW8AgKFAgX2_anchor,900 PSI
+AAAGAgBqAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgBqAgW7AgW9AgKF_anchor,Flange
+AAAGAgBqAgW7AgW9AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW7AgW9AgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgW7AgW9AgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgW7AgW9AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW7AgW9AgKFAgXz_anchor,400 PSI
+AAAGAgBqAgW7AgW9AgKFAgX0_anchor,600 PSI
+AAAGAgBqAgW7AgW9AgKFAgX2_anchor,900 PSI
+AAAGAgBqAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAgBqAgW7AgW-AgKF_anchor,Flange
+AAAGAgBqAgW7AgW-AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW7AgW-AgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgW7AgW-AgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgW7AgW-AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW7AgW-AgKFAgXz_anchor,400 PSI
+AAAGAgBqAgW7AgW-AgKFAgX0_anchor,600 PSI
+AAAGAgBqAgW7AgW-AgKFAgX2_anchor,900 PSI
+AAAGAgBqAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAgBqAgW7AgW_AgKF_anchor,Flange
+AAAGAgBqAgW7AgW_AgKFAgXx_anchor,150 PSI
+AAAGAgBqAgW7AgW_AgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgW7AgW_AgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgW7AgW_AgKFAgXy_anchor,300 PSI
+AAAGAgBqAgW7AgW_AgKFAgXz_anchor,400 PSI
+AAAGAgBqAgW7AgW_AgKFAgX0_anchor,600 PSI
+AAAGAgBqAgW7AgW_AgKFAgX2_anchor,900 PSI
+AAAGAgBqAgXU_anchor,Copper
+AAAGAgBqAgXUAgKF_anchor,Flange
+AAAGAgBqAgXUAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXUAgKFAgXy_anchor,300 PSI
+AAAGAgBqAgXa_anchor,CPVC
+AAAGAgBqAgXaAgKF_anchor,Flange
+AAAGAgBqAgXaAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXs_anchor,Dielectric
+AAAGAgBqAgXsAgKM_anchor,95/5 Solder
+AAAGAgBqAgXsAgKMAgX5_anchor,125 PSI
+AAAGAgBqAgXsAgJ__anchor,Butt Weld
+AAAGAgBqAgXsAgJ_AgX5_anchor,125 PSI
+AAAGAgBqAgXsAgKK_anchor,Silfos Solder
+AAAGAgBqAgXsAgKKAgX5_anchor,125 PSI
+AAAGAgBqAgXsAgKL_anchor,Silver Solder
+AAAGAgBqAgXsAgKLAgX5_anchor,125 PSI
+AAAGAgBqAgXsAgJ8_anchor,Thread
+AAAGAgBqAgXsAgJ8AgX5_anchor,125 PSI
+AAAGAgBqAgXb_anchor,Ductile Iron
+AAAGAgBqAgXbAgVn_anchor,DIPS
+AAAGAgBqAgXbAgVnAgKF_anchor,Flange
+AAAGAgBqAgXbAgVnAgKFAgX9_anchor,Class 150
+AAAGAgBqAgXbAgKF_anchor,Flange
+AAAGAgBqAgXbAgKFAgX5_anchor,125 PSI
+AAAGAgBqAgXbAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXbAgVm_anchor,IPS
+AAAGAgBqAgXbAgVmAgKF_anchor,Flange
+AAAGAgBqAgXbAgVmAgKFAgX9_anchor,Class 150
+AAAGAgBqAgXc_anchor,Fiberglass
+AAAGAgBqAgXcAgKV_anchor,Butt Wrapped w/ Glass Mat Overlay
+AAAGAgBqAgXcAgKVAgYs_anchor,1/4" Wall Thickness
+AAAGAgBqAgXcAgKF_anchor,Flange
+AAAGAgBqAgXcAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXcAgVQ_anchor,Straight Socket
+AAAGAgBqAgXcAgVQAgKF_anchor,Flange
+AAAGAgBqAgXcAgVQAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXcAgVR_anchor,Taper Socket
+AAAGAgBqAgXcAgVRAgKF_anchor,Flange
+AAAGAgBqAgXcAgVRAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXd_anchor,Glass
+AAAGAgBqAgXdAgKF_anchor,Flange
+AAAGAgBqAgXf_anchor,HDPE
+AAAGAgBqAgXfAgKF_anchor,Flange
+AAAGAgBqAgXfAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXL_anchor,Nickel Alloy
+AAAGAgBqAgXLAgKF_anchor,Flange
+AAAGAgBqAgXLAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXLAgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgXLAgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgXLAgKFAgXy_anchor,300 PSI
+AAAGAgBqAgXLAgKFAgXz_anchor,400 PSI
+AAAGAgBqAgXLAgKFAgX0_anchor,600 PSI
+AAAGAgBqAgXLAgKFAgX2_anchor,900 PSI
+AAAGAgBqAgXk_anchor,Polypropylene
+AAAGAgBqAgXkAgKF_anchor,Flange
+AAAGAgBqAgXn_anchor,PVC
+AAAGAgBqAgXnAgKF_anchor,Flange
+AAAGAgBqAgXnAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXm_anchor,PVDF
+AAAGAgBqAgXmAgKF_anchor,Flange
+AAAGAgBqAgXM_anchor,Stainless Steel
+AAAGAgBqAgXMAgVn_anchor,DIPS
+AAAGAgBqAgXMAgVnAgKF_anchor,Flange
+AAAGAgBqAgXMAgVnAgKFAgX9_anchor,Class 150
+AAAGAgBqAgXMAgKF_anchor,Flange
+AAAGAgBqAgXMAgKFAgXx_anchor,150 PSI
+AAAGAgBqAgXMAgKFAgX3_anchor,1500 PSI
+AAAGAgBqAgXMAgKFAgX4_anchor,2500 PSI
+AAAGAgBqAgXMAgKFAgXy_anchor,300 PSI
+AAAGAgBqAgXMAgKFAgXz_anchor,400 PSI
+AAAGAgBqAgXMAgKFAgX0_anchor,600 PSI
+AAAGAgBqAgXMAgKFAgX2_anchor,900 PSI
+AAAGAgBqAgXMAgVm_anchor,IPS
+AAAGAgBqAgXMAgVmAgKF_anchor,Flange
+AAAGAgBqAgXMAgVmAgKFAgX9_anchor,Class 150
+AAAGAgDA_anchor,Flanges, Orifice
+AAAGAgDAAgW2_anchor,Aluminum
+AAAGAgDAAgW2AgKF_anchor,Flange
+AAAGAgDAAgW2AgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgW2AgKFAgYY_anchor,Standard Weight
+AAAGAgDAAgW3_anchor,Carbon Steel
+AAAGAgDAAgW3AgKF_anchor,Flange
+AAAGAgDAAgW3AgKFAgYb_anchor,Double Extra Heavy
+AAAGAgDAAgW3AgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgW3AgKFAgYa_anchor,Schedule 160
+AAAGAgDAAgW3AgKFAgYY_anchor,Standard Weight
+AAAGAgDAAgW7_anchor,Chrome Moly
+AAAGAgDAAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgDAAgW7AgW8AgKF_anchor,Flange
+AAAGAgDAAgW7AgW8AgKFAgYb_anchor,Double Extra Heavy
+AAAGAgDAAgW7AgW8AgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgW7AgW8AgKFAgYa_anchor,Schedule 160
+AAAGAgDAAgW7AgW8AgKFAgYY_anchor,Standard Weight
+AAAGAgDAAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgDAAgW7AgW9AgKF_anchor,Flange
+AAAGAgDAAgW7AgW9AgKFAgYb_anchor,Double Extra Heavy
+AAAGAgDAAgW7AgW9AgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgW7AgW9AgKFAgYa_anchor,Schedule 160
+AAAGAgDAAgW7AgW9AgKFAgYY_anchor,Standard Weight
+AAAGAgDAAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAgDAAgW7AgW-AgKF_anchor,Flange
+AAAGAgDAAgW7AgW-AgKFAgYb_anchor,Double Extra Heavy
+AAAGAgDAAgW7AgW-AgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgW7AgW-AgKFAgYa_anchor,Schedule 160
+AAAGAgDAAgW7AgW-AgKFAgYY_anchor,Standard Weight
+AAAGAgDAAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAgDAAgW7AgW_AgKF_anchor,Flange
+AAAGAgDAAgW7AgW_AgKFAgYb_anchor,Double Extra Heavy
+AAAGAgDAAgW7AgW_AgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgW7AgW_AgKFAgYa_anchor,Schedule 160
+AAAGAgDAAgW7AgW_AgKFAgYY_anchor,Standard Weight
+AAAGAgDAAgXM_anchor,Stainless Steel
+AAAGAgDAAgXMAgKF_anchor,Flange
+AAAGAgDAAgXMAgKFAgYb_anchor,Double Extra Heavy
+AAAGAgDAAgXMAgKFAgYZ_anchor,Extra Heavy
+AAAGAgDAAgXMAgKFAgYa_anchor,Schedule 160
+AAAGAgDAAgXMAgKFAgYY_anchor,Standard Weight
+AAAGAgDE_anchor,HVAC Specialties
+AAAGAgDEAgFb_anchor,Air Trap
+AAAGAgDEAgFbAgW3_anchor,Carbon Steel
+AAAGAgDEAgFbAgW3AgJ8_anchor,Thread
+AAAGAgDEAgDF_anchor,Balanced Valve, Calibrated
+AAAGAgDEAgDFAgW3_anchor,Carbon Steel
+AAAGAgDEAgDFAgW3AgKF_anchor,Flange
+AAAGAgDEAgDFAgW3AgJ9_anchor,Groove
+AAAGAgDEAgDFAgW3AgJ8_anchor,Thread
+AAAGAgDEAgDFAgXU_anchor,Copper
+AAAGAgDEAgDFAgXUAgKM_anchor,95/5 Solder
+AAAGAgDEAgDH_anchor,Ball Joint
+AAAGAgDEAgDHAgW3_anchor,Carbon Steel
+AAAGAgDEAgDHAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgDHAgW3AgKF_anchor,Flange
+AAAGAgDEAgDHAgW3AgJ8_anchor,Thread
+AAAGAga_AgbA_anchor,Boiler Controls
+AAAGAgDEAgEk_anchor,Camlock Fittings
+AAAGAgDEAgEkAgW2_anchor,Aluminum
+AAAGAgDEAgDL_anchor,Control Valve, Automatic
+AAAGAgDEAgDLAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgDLAgXQAgKM_anchor,95/5 Solder
+AAAGAgDEAgDLAgXQAgKH_anchor,Flare
+AAAGAgDEAgDLAgW3_anchor,Carbon Steel
+AAAGAgDEAgDLAgW3AgKF_anchor,Flange
+AAAGAgDEAgDLAgXU_anchor,Copper
+AAAGAgDEAgDLAgXUAgJ8_anchor,Thread
+AAAGAgDEAgDh_anchor,Drip Pan Ell
+AAAGAgDEAgDhAgW3_anchor,Carbon Steel
+AAAGAgDEAgDhAgW3AgKF_anchor,Flange
+AAAGAgDEAgDhAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEo_anchor,Duplex Basket Strainer
+AAAGAgDEAgEoAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgEoAgXQAgKF_anchor,Flange
+AAAGAgDEAgEoAgXQAgJ8_anchor,Thread
+AAAGAgDEAgEoAgW3_anchor,Carbon Steel
+AAAGAgDEAgEoAgW3AgKF_anchor,Flange
+AAAGAgDEAgEoAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEoAgXS_anchor,Cast Iron
+AAAGAgDEAgEoAgXSAgKF_anchor,Flange
+AAAGAgDEAgEoAgXSAgJ8_anchor,Thread
+AAAGAgDEAgEoAgXa_anchor,CPVC
+AAAGAgDEAgEoAgXaAgKF_anchor,Flange
+AAAGAgDEAgEoAgXaAgJ-_anchor,Solvent Cement
+AAAGAgDEAgEoAgXaAgJ8_anchor,Thread
+AAAGAgDEAgEoAgXn_anchor,PVC
+AAAGAgDEAgEoAgXnAgKF_anchor,Flange
+AAAGAgDEAgEoAgXnAgJ-_anchor,Solvent Cement
+AAAGAgDEAgEoAgXnAgJ8_anchor,Thread
+AAAGAgDEAgEoAgXM_anchor,Stainless Steel
+AAAGAgDEAgEoAgXMAgKF_anchor,Flange
+AAAGAgDEAgEoAgXMAgJ8_anchor,Thread
+AAAGAgDEAgEr_anchor,Duplex Basket Strainer, Large
+AAAGAgDEAgErAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgErAgXQAgKF_anchor,Flange
+AAAGAgDEAgErAgXS_anchor,Cast Iron
+AAAGAgDEAgErAgXSAgKF_anchor,Flange
+AAAGAgDEAgErAgXa_anchor,CPVC
+AAAGAgDEAgErAgXaAgKF_anchor,Flange
+AAAGAgDEAgErAgXn_anchor,PVC
+AAAGAgDEAgErAgXnAgKF_anchor,Flange
+AAAGAgDEAgErAgXM_anchor,Stainless Steel
+AAAGAgDEAgErAgXMAgKF_anchor,Flange
+AAAGAgDEAgDi_anchor,Expansion Joint, Corrugated
+AAAGAgDEAgDiAgW3_anchor,Carbon Steel
+AAAGAgDEAgDiAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgDiAgW3AgKF_anchor,Flange
+AAAGAgDEAgDp_anchor,Flexible Connector, Flanged Rubber with Retainer Rings
+AAAGAgDEAgDpAgW3_anchor,Carbon Steel
+AAAGAgDEAgDpAgW3AgeD_anchor,Bellows Control Rod
+AAAGAgDEAgDpAgW3AgKF_anchor,Flange
+AAAGAgDEAgDy_anchor,Float Valve
+AAAGAgDEAgDyAgW3_anchor,Carbon Steel
+AAAGAgDEAgDyAgW3AgKF_anchor,Flange
+AAAGAgDEAgDyAgW3AgJ8_anchor,Thread
+AAAGAgDEAgDz_anchor,Flow Indicator
+AAAGAgDEAgDzAgW3_anchor,Carbon Steel
+AAAGAgDEAgDzAgW3AgKF_anchor,Flange
+AAAGAgDEAgDzAgW3AgJ8_anchor,Thread
+AAAGAgDEAgDzAgXU_anchor,Copper
+AAAGAgDEAgDzAgXUAgKM_anchor,95/5 Solder
+AAAGAga_Agbp_anchor,Flow Meters
+AAAGAga_AgbpAgbq_anchor,Flanged Ultrasonic
+AAAGAgDEAgD5_anchor,Gauge Glass Assembly
+AAAGAgDEAgD5AgW3_anchor,Carbon Steel
+AAAGAgDEAgD5AgW3AgJ8_anchor,Thread
+AAAGAgDEAgD8_anchor,Generator Exhaust Muffler and Ventilated Wall or Roof Thimble
+AAAGAgDEAgD8AgW3_anchor,Carbon Steel
+AAAGAgDEAgD8AgW3AgKF_anchor,Flange
+AAAGAgDEAgD8Agis_anchor,Ventilated Thimble (Wall or Roof)
+AAAGAgDEAgEC_anchor,Hose Kit
+AAAGAgDEAgECAgW3_anchor,Carbon Steel
+AAAGAgDEAgECAgW3AgJ8_anchor,Thread
+AAAGAgDEAgECAgXU_anchor,Copper
+AAAGAgDEAgECAgXUAgKM_anchor,95/5 Solder
+AAAGAgDEAgFe_anchor,Liquid Drain Trap
+AAAGAgDEAgFeAgW3_anchor,Carbon Steel
+AAAGAgDEAgFeAgW3AgKF_anchor,Flange
+AAAGAgDEAgFeAgW3AgJ7_anchor,Socket Weld
+AAAGAgDEAgFeAgW3AgJ8_anchor,Thread
+AAAGAgDEAgFeAgXM_anchor,Stainless Steel
+AAAGAgDEAgFeAgXMAgKF_anchor,Flange
+AAAGAgDEAgFeAgXMAgJ7_anchor,Socket Weld
+AAAGAgDEAgFeAgXMAgJ8_anchor,Thread
+AAAGAgDEAgEK_anchor,Loop Expansion Joint Stainless Steel Braid
+AAAGAgDEAgEKAgW3_anchor,Carbon Steel
+AAAGAgDEAgEKAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgEKAgW3AgKF_anchor,Flange
+AAAGAgDEAgEKAgW3AgJ9_anchor,Groove
+AAAGAgDEAgEKAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEKAgXU_anchor,Copper
+AAAGAgDEAgEKAgXUAgKM_anchor,95/5 Solder
+AAAGAgDEAgD3_anchor,Magnetic Flow Meter
+AAAGAgDEAgD3AgW3_anchor,Carbon Steel
+AAAGAgDEAgD3AgW3AgKF_anchor,Flange
+AAAGAgDEAgEN_anchor,Metering Station (Orifice Type)
+AAAGAgDEAgENAgW3_anchor,Carbon Steel
+AAAGAgDEAgENAgW3AgJ9_anchor,Groove
+AAAGAgDEAgEO_anchor,Miscellaneous Steam and Water Specialties
+AAAGAgDEAgEOAgW3_anchor,Carbon Steel
+AAAGAgDEAgEOAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgEOAgW3AgKF_anchor,Flange
+AAAGAgDEAgEOAgW3AgKm_anchor,Slip Joint
+AAAGAgDEAgEOAgW3AgJ7_anchor,Socket Weld
+AAAGAgDEAgEOAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEOAgXU_anchor,Copper
+AAAGAgDEAgEOAgXUAgKM_anchor,95/5 Solder
+AAAGAgDEAgEOAgXn_anchor,PVC
+AAAGAgDEAgEOAgXnAgJ8_anchor,Thread
+AAAGAgDEAgEOAgXm_anchor,PVDF
+AAAGAgDEAgEOAgXmAgJ8_anchor,Thread
+AAAGAgDEAgEe_anchor,Moisture Separator
+AAAGAgDEAgEeAgW3_anchor,Carbon Steel
+AAAGAgDEAgEeAgW3AgKF_anchor,Flange
+AAAGAgDEAgEeAgW3AgJ7_anchor,Socket Weld
+AAAGAgDEAgEeAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEeAgXS_anchor,Cast Iron
+AAAGAgDEAgEeAgXSAgKF_anchor,Flange
+AAAGAgDEAgEeAgXSAgJ8_anchor,Thread
+AAAGAgDEAgEeAgXM_anchor,Stainless Steel
+AAAGAgDEAgEeAgXMAgKF_anchor,Flange
+AAAGAgDEAgEeAgXMAgJ7_anchor,Socket Weld
+AAAGAgDEAgEeAgXMAgJ8_anchor,Thread
+AAAGAga_AgbB_anchor,Pressure Gauges & Thermometers
+AAAGAgDEAgEg_anchor,PRV's and TRV's
+AAAGAgDEAgEgAgW3_anchor,Carbon Steel
+AAAGAgDEAgEgAgW3AgKF_anchor,Flange
+AAAGAgDEAgEgAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEm_anchor,Relief Valve
+AAAGAgDEAgEmAgW3_anchor,Carbon Steel
+AAAGAgDEAgEmAgW3AgKF_anchor,Flange
+AAAGAgDEAgEmAgW3AgJ8_anchor,Thread
+AAAGAgDEAgE1_anchor,Sanitary Filter/Strainer
+AAAGAgDEAgE1AgXM_anchor,Stainless Steel
+AAAGAgDEAgE1AgXMAgKi_anchor,Bevel Seat
+AAAGAgDEAgE1AgXMAgKT_anchor,Clamp
+AAAGAgDEAgEu_anchor,Simplex Basket Strainer
+AAAGAgDEAgEuAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgEuAgXQAgKF_anchor,Flange
+AAAGAgDEAgEuAgXQAgJ8_anchor,Thread
+AAAGAgDEAgEuAgW3_anchor,Carbon Steel
+AAAGAgDEAgEuAgW3AgKF_anchor,Flange
+AAAGAgDEAgEuAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEuAgXS_anchor,Cast Iron
+AAAGAgDEAgEuAgXSAgKF_anchor,Flange
+AAAGAgDEAgEuAgXSAgJ8_anchor,Thread
+AAAGAgDEAgEuAgW7_anchor,Chrome Moly
+AAAGAgDEAgEuAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgDEAgEuAgW7AgW8AgKF_anchor,Flange
+AAAGAgDEAgEuAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgDEAgEuAgW7AgW9AgKF_anchor,Flange
+AAAGAgDEAgEuAgXa_anchor,CPVC
+AAAGAgDEAgEuAgXaAgKF_anchor,Flange
+AAAGAgDEAgEuAgXaAgJ-_anchor,Solvent Cement
+AAAGAgDEAgEuAgXaAgJ8_anchor,Thread
+AAAGAgDEAgEuAgXb_anchor,Ductile Iron
+AAAGAgDEAgEuAgXbAgKF_anchor,Flange
+AAAGAgDEAgEuAgXn_anchor,PVC
+AAAGAgDEAgEuAgXnAgKF_anchor,Flange
+AAAGAgDEAgEuAgXnAgJ-_anchor,Solvent Cement
+AAAGAgDEAgEuAgXnAgJ8_anchor,Thread
+AAAGAgDEAgEuAgXM_anchor,Stainless Steel
+AAAGAgDEAgEuAgXMAgKF_anchor,Flange
+AAAGAgDEAgEuAgXMAgJ8_anchor,Thread
+AAAGAgDEAgFi_anchor,Steam Trap
+AAAGAgDEAgFiAgW3_anchor,Carbon Steel
+AAAGAgDEAgFiAgW3AgKF_anchor,Flange
+AAAGAgDEAgFiAgW3AgJ7_anchor,Socket Weld
+AAAGAgDEAgFiAgW3AgJ8_anchor,Thread
+AAAGAgDEAgFiAgXS_anchor,Cast Iron
+AAAGAgDEAgFiAgXSAgJ8_anchor,Thread
+AAAGAgDEAgFiAgW7_anchor,Chrome Moly
+AAAGAgDEAgFiAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgDEAgFiAgW7AgW8AgKF_anchor,Flange
+AAAGAgDEAgFiAgW7AgW8AgJ7_anchor,Socket Weld
+AAAGAgDEAgFiAgW7AgW8AgJ8_anchor,Thread
+AAAGAgDEAgFiAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgDEAgFiAgW7AgW9AgJ7_anchor,Socket Weld
+AAAGAgDEAgFiAgXM_anchor,Stainless Steel
+AAAGAgDEAgFiAgXMAgKT_anchor,Clamp
+AAAGAgDEAgFiAgXMAgKF_anchor,Flange
+AAAGAgDEAgFiAgXMAgJ7_anchor,Socket Weld
+AAAGAgDEAgFiAgXMAgJ8_anchor,Thread
+AAAGAgDEAgE5_anchor,Suction Diffuser
+AAAGAgDEAgE5AgW3_anchor,Carbon Steel
+AAAGAgDEAgE5AgW3AgKF_anchor,Flange
+AAAGAgDEAgE5AgW3AgJ9_anchor,Groove
+AAAGAgDEAgE5AgW3AgJ8_anchor,Thread
+AAAGAgDEAgmC_anchor,Swivel Joint
+AAAGAgDEAgmCAgW2_anchor,Aluminum
+AAAGAgDEAgmCAgW2AgJ__anchor,Butt Weld
+AAAGAgDEAgmCAgW2AgKF_anchor,Flange
+AAAGAgDEAgmCAgW2AgJ8_anchor,Thread
+AAAGAgDEAgmCAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgmCAgXQAgKF_anchor,Flange
+AAAGAgDEAgmCAgXQAgJ8_anchor,Thread
+AAAGAgDEAgmCAgW3_anchor,Carbon Steel
+AAAGAgDEAgmCAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgmCAgW3AgKF_anchor,Flange
+AAAGAgDEAgmCAgW3AgJ8_anchor,Thread
+AAAGAgDEAgmCAgXb_anchor,Ductile Iron
+AAAGAgDEAgmCAgXbAgKF_anchor,Flange
+AAAGAgDEAgmCAgXM_anchor,Stainless Steel
+AAAGAgDEAgmCAgXMAgJ__anchor,Butt Weld
+AAAGAgDEAgmCAgXMAgKF_anchor,Flange
+AAAGAgDEAgmCAgXMAgJ8_anchor,Thread
+AAAGAgDEAgEx_anchor,T Strainer
+AAAGAgDEAgExAgW3_anchor,Carbon Steel
+AAAGAgDEAgExAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgExAgW3AgKF_anchor,Flange
+AAAGAgDEAgExAgXb_anchor,Ductile Iron
+AAAGAgDEAgExAgXbAgJ9_anchor,Groove
+AAAGAgDEAgExAgXM_anchor,Stainless Steel
+AAAGAgDEAgExAgXMAgJ__anchor,Butt Weld
+AAAGAgDEAgExAgXMAgKF_anchor,Flange
+AAAGAgDEAgF9_anchor,Temporary Strainer,  Carbon Steel , Basket, Conical or Plate Type
+AAAGAgDEAgF9AgW3_anchor,Carbon Steel
+AAAGAgDEAgF9AgW3AgKF_anchor,Flange
+AAAGAgDEAgF9AgXM_anchor,Stainless Steel
+AAAGAgDEAgF9AgXMAgKF_anchor,Flange
+AAAGAgDEAgFt_anchor,Venturi
+AAAGAgDEAgFtAgW3_anchor,Carbon Steel
+AAAGAgDEAgFtAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgFtAgW3AgKF_anchor,Flange
+AAAGAgDEAgFtAgW3AgJ9_anchor,Groove
+AAAGAga_AgbC_anchor,Vibration Isolators
+AAAGAgDEAgFu_anchor,Water Accessories
+AAAGAgDEAgFuAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgFuAgXQAgJ8_anchor,Thread
+AAAGAgDEAgFuAgW3_anchor,Carbon Steel
+AAAGAgDEAgFuAgW3AgKF_anchor,Flange
+AAAGAgDEAgFuAgW3AgJ8_anchor,Thread
+AAAGAgDEAgFuAgXS_anchor,Cast Iron
+AAAGAgDEAgFuAgXSAgJ8_anchor,Thread
+AAAGAgDEAgFuAgXU_anchor,Copper
+AAAGAgDEAgFuAgXUAgKM_anchor,95/5 Solder
+AAAGAgDEAgFuAgXM_anchor,Stainless Steel
+AAAGAgDEAgFuAgXMAgJ8_anchor,Thread
+AAAGAgDEAgEy_anchor,Y Strainer
+AAAGAgDEAgEyAgW2_anchor,Aluminum
+AAAGAgDEAgEyAgW2AgKF_anchor,Flange
+AAAGAgDEAgEyAgW2AgJ8_anchor,Thread
+AAAGAgDEAgEyAgXQ_anchor,Brass or Bronze
+AAAGAgDEAgEyAgXQAgKM_anchor,95/5 Solder
+AAAGAgDEAgEyAgXQAgKF_anchor,Flange
+AAAGAgDEAgEyAgXQAgKS_anchor,Press
+AAAGAgDEAgEyAgXQAgJ8_anchor,Thread
+AAAGAgDEAgEyAgW3_anchor,Carbon Steel
+AAAGAgDEAgEyAgW3AgJ__anchor,Butt Weld
+AAAGAgDEAgEyAgW3AgKF_anchor,Flange
+AAAGAgDEAgEyAgW3AgJ9_anchor,Groove
+AAAGAgDEAgEyAgW3AgJ7_anchor,Socket Weld
+AAAGAgDEAgEyAgW3AgJ8_anchor,Thread
+AAAGAgDEAgEyAgXS_anchor,Cast Iron
+AAAGAgDEAgEyAgXSAgKF_anchor,Flange
+AAAGAgDEAgEyAgXSAgJ8_anchor,Thread
+AAAGAgDEAgEyAgW7_anchor,Chrome Moly
+AAAGAgDEAgEyAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgDEAgEyAgW7AgW8AgJ__anchor,Butt Weld
+AAAGAgDEAgEyAgW7AgW8AgKF_anchor,Flange
+AAAGAgDEAgEyAgW7AgW8AgJ7_anchor,Socket Weld
+AAAGAgDEAgEyAgW7AgW8AgJ8_anchor,Thread
+AAAGAgDEAgEyAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgDEAgEyAgW7AgW9AgJ__anchor,Butt Weld
+AAAGAgDEAgEyAgW7AgW9AgKF_anchor,Flange
+AAAGAgDEAgEyAgW7AgW9AgJ7_anchor,Socket Weld
+AAAGAgDEAgEyAgW7AgW9AgJ8_anchor,Thread
+AAAGAgDEAgEyAgXa_anchor,CPVC
+AAAGAgDEAgEyAgXaAgKF_anchor,Flange
+AAAGAgDEAgEyAgXaAgJ-_anchor,Solvent Cement
+AAAGAgDEAgEyAgXaAgJ8_anchor,Thread
+AAAGAgDEAgEyAgXb_anchor,Ductile Iron
+AAAGAgDEAgEyAgXbAgJ8_anchor,Thread
+AAAGAgDEAgEyAgXn_anchor,PVC
+AAAGAgDEAgEyAgXnAgKF_anchor,Flange
+AAAGAgDEAgEyAgXnAgJ-_anchor,Solvent Cement
+AAAGAgDEAgEyAgXnAgJ8_anchor,Thread
+AAAGAgDEAgEyAgXM_anchor,Stainless Steel
+AAAGAgDEAgEyAgXMAgJ__anchor,Butt Weld
+AAAGAgDEAgEyAgXMAgKF_anchor,Flange
+AAAGAgDEAgEyAgXMAgJ9_anchor,Groove
+AAAGAgDEAgEyAgXMAgJ7_anchor,Socket Weld
+AAAGAgDEAgEyAgXMAgJ8_anchor,Thread
+AAAGAgc0_anchor,Hydrotesting
+AAAGAgc0Agc1_anchor,Flanged End Assemblies 
+AAAGAgc0Agc2_anchor,Hydrotesting Installed Piping Systems
+AAAGAgc0Agc3_anchor,Plain or Beveled end Assemblies
+AAAGAgc0Agc3Agc4_anchor,Carbon Steel
+AAAGAgc0Agc3Agc5_anchor,Chrome Molys
+AAAGAgc0Agc3Agc5Agc6_anchor,1-1/4 Chrome ½  Moly
+AAAGAgc0Agc3Agc5Agc7_anchor,2-1/4 Chrome 1 Moly
+AAAGAgc0Agc3Agc5Agc8_anchor,5 Chrome ½  Moly
+AAAGAgc0Agc3Agc5Agc9_anchor,9 Chrome 1 Moly
+AAAGAgc0Agc3Agc-_anchor,Nickel Alloy 200, 400, 600 and 800
+AAAGAgc0Agc3Agc__anchor,Stainless Steel
+AAAGAgdj_anchor,Joints
+AAAGAgdjAgXO_anchor,ABS
+AAAGAgdjAgXOAgZa_anchor,Compressed Air
+AAAGAgdjAgXOAgZaAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXOAgZZ_anchor,DWV
+AAAGAgdjAgXOAgZZAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXOAgKm_anchor,Slip Joint
+AAAGAgdjAgW2_anchor,Aluminum
+AAAGAgdjAgW2AgJ__anchor,Butt Weld
+AAAGAgdjAgW2AgKA_anchor,Compression
+AAAGAgdjAgW2AgKF_anchor,Flange
+AAAGAgdjAgW2AgKN_anchor,Grip Jaw
+AAAGAgdjAgW2AgJ9_anchor,Groove
+AAAGAgdjAgW2AgaL_anchor,Slip-On Weld
+AAAGAgdjAgW2AgJ7_anchor,Socket Weld
+AAAGAgdjAgW2AgJ8_anchor,Thread
+AAAGAgdjAgW2AgZc_anchor,Vacuum Tubing
+AAAGAgdjAgW2AgZcAgVL_anchor,Belled End
+AAAGAgdjAgW2AgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAgdjAgW2AgZcAgVLAgKC_anchor,Seal Weld
+AAAGAgdjAgW2AgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAgdjAgW2AgZcAgVM_anchor,Straight End
+AAAGAgdjAgW2AgZcAgVMAgKA_anchor,Compression
+AAAGAgdjAgW2AgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgdjAgXQ_anchor,Brass or Bronze
+AAAGAgdjAgXQAgKF_anchor,Flange
+AAAGAgdjAgXQAgKL_anchor,Silver Solder
+AAAGAgdjAgXQAgJ8_anchor,Thread
+AAAGAgdjAgW3_anchor,Carbon Steel
+AAAGAgdjAgW3AgJ__anchor,Butt Weld
+AAAGAgdjAgW3AgW4_anchor,Cement Lined
+AAAGAgdjAgW3AgW4AgJ__anchor,Butt Weld
+AAAGAgdjAgW3AgW6_anchor,Coated and Wrapped
+AAAGAgdjAgW3AgW6AgKn_anchor,Butt Weld and Wrapped
+AAAGAgdjAgW3AgKA_anchor,Compression
+AAAGAgdjAgW3AgKF_anchor,Flange
+AAAGAgdjAgW3AgKu_anchor,Flange, Tongue & Groove
+AAAGAgdjAgW3AgKH_anchor,Flare
+AAAGAgdjAgW3AgKN_anchor,Grip Jaw
+AAAGAgdjAgW3AgJ9_anchor,Groove
+AAAGAgdjAgW3AgKG_anchor,Lokring
+AAAGAgdjAgW3AgKO_anchor,Pressfit
+AAAGAgdjAgW3AgW5_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAgdjAgW3AgW5AgKF_anchor,Flange
+AAAGAgdjAgW3AgaL_anchor,Slip-On Weld
+AAAGAgdjAgW3AgJ7_anchor,Socket Weld
+AAAGAgdjAgW3AgVM_anchor,Straight End
+AAAGAgdjAgW3AgVMAgKA_anchor,Compression
+AAAGAgdjAgW3AgJ8_anchor,Thread
+AAAGAgdjAgW3AgZc_anchor,Vacuum Tubing
+AAAGAgdjAgW3AgZcAgVL_anchor,Belled End
+AAAGAgdjAgW3AgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAgdjAgW3AgZcAgVLAgKC_anchor,Seal Weld
+AAAGAgdjAgW3AgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAgdjAgW3AgZcAgVM_anchor,Straight End
+AAAGAgdjAgW3AgZcAgVMAgKA_anchor,Compression
+AAAGAgdjAgW3AgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgdjAgXS_anchor,Cast Iron
+AAAGAgdjAgXSAgZZ_anchor,DWV
+AAAGAgdjAgXSAgZZAgKP_anchor,Gasket
+AAAGAgdjAgXSAgZZAgKQ_anchor,Lead
+AAAGAgdjAgXSAgZZAgKR_anchor,No-Hub
+AAAGAgdjAgXSAgKF_anchor,Flange
+AAAGAgdjAgXSAgXT_anchor,High Silicon
+AAAGAgdjAgXSAgXTAgZZ_anchor,DWV
+AAAGAgdjAgXSAgXTAgZZAgKQ_anchor,Lead
+AAAGAgdjAgXSAgXTAgZZAgKR_anchor,No-Hub
+AAAGAgdjAgW7_anchor,Chrome Moly
+AAAGAgdjAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgdjAgW7AgW8AgJ__anchor,Butt Weld
+AAAGAgdjAgW7AgW8AgKF_anchor,Flange
+AAAGAgdjAgW7AgW8AgaL_anchor,Slip-On Weld
+AAAGAgdjAgW7AgW8AgJ7_anchor,Socket Weld
+AAAGAgdjAgW7AgW8AgJ8_anchor,Thread
+AAAGAgdjAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgdjAgW7AgW9AgJ__anchor,Butt Weld
+AAAGAgdjAgW7AgW9AgKF_anchor,Flange
+AAAGAgdjAgW7AgW9AgaL_anchor,Slip-On Weld
+AAAGAgdjAgW7AgW9AgJ7_anchor,Socket Weld
+AAAGAgdjAgW7AgW9AgJ8_anchor,Thread
+AAAGAgdjAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAgdjAgW7AgW-AgJ__anchor,Butt Weld
+AAAGAgdjAgW7AgW-AgKF_anchor,Flange
+AAAGAgdjAgW7AgW-AgaL_anchor,Slip-On Weld
+AAAGAgdjAgW7AgW-AgJ7_anchor,Socket Weld
+AAAGAgdjAgW7AgW-AgJ8_anchor,Thread
+AAAGAgdjAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAgdjAgW7AgW_AgJ__anchor,Butt Weld
+AAAGAgdjAgW7AgW_AgKF_anchor,Flange
+AAAGAgdjAgW7AgW_AgaL_anchor,Slip-On Weld
+AAAGAgdjAgW7AgW_AgJ7_anchor,Socket Weld
+AAAGAgdjAgW7AgW_AgJ8_anchor,Thread
+AAAGAgdjAgXt_anchor,Concrete
+AAAGAgdjAgXtAgVk_anchor,Elliptical, Hub & Spigot
+AAAGAgdjAgXtAgVkAgKq_anchor,Mortar
+AAAGAgdjAgXtAgVi_anchor,Round, Hub & Spigot
+AAAGAgdjAgXtAgViAgKo_anchor,O-Ring
+AAAGAgdjAgXtAgVj_anchor,Round, Tongue & Groove
+AAAGAgdjAgXtAgVjAgKp_anchor,Mastic
+AAAGAgdjAgXU_anchor,Copper
+AAAGAgdjAgXUAgKM_anchor,95/5 Solder
+AAAGAgdjAgXUAgXW_anchor,ACR
+AAAGAgdjAgXUAgXWAgKM_anchor,95/5 Solder
+AAAGAgdjAgXUAgXWAgKK_anchor,Silfos Solder
+AAAGAgdjAgXUAgXWAgKL_anchor,Silver Solder
+AAAGAgdjAgXUAgKA_anchor,Compression
+AAAGAgdjAgXUAgZZ_anchor,DWV
+AAAGAgdjAgXUAgZZAgKJ_anchor,50/50 Solder
+AAAGAgdjAgXUAgKH_anchor,Flare
+AAAGAgdjAgXUAgJ9_anchor,Groove
+AAAGAgdjAgXUAgKS_anchor,Press
+AAAGAgdjAgXUAgKK_anchor,Silfos Solder
+AAAGAgdjAgXUAgKL_anchor,Silver Solder
+AAAGAgdjAgXUAgXX_anchor,Soft
+AAAGAgdjAgXUAgXXAgKM_anchor,95/5 Solder
+AAAGAgdjAgXUAgXXAgKH_anchor,Flare
+AAAGAgdjAgXUAgXXAgZn_anchor,Refrigeration Tubing
+AAAGAgdjAgXUAgXXAgZnAgKJ_anchor,50/50 Solder
+AAAGAgdjAgXUAgXXAgZnAgKA_anchor,Compression
+AAAGAgdjAgXUAgXXAgZnAgKH_anchor,Flare
+AAAGAgdjAgXUAgXXAgZnAgKK_anchor,Silfos Solder
+AAAGAgdjAgXUAgXXAgZnAgKL_anchor,Silver Solder
+AAAGAgdjAgXUAgXXAgKL_anchor,Silver Solder
+AAAGAgdjAgXY_anchor,Corrugated Galvanized
+AAAGAgdjAgXYAgKr_anchor,Banded Metal
+AAAGAgdjAgXu_anchor,Corrugated HDPE
+AAAGAgdjAgXuAgZj_anchor,Sewer & Drainage
+AAAGAgdjAgXuAgZjAgKs_anchor,Banded Plastic
+AAAGAgdjAgXZ_anchor,Corrugated Stainless Steel Tubing
+AAAGAgdjAgXZAgKA_anchor,Compression
+AAAGAgdjAgXa_anchor,CPVC
+AAAGAgdjAgXaAgZZ_anchor,DWV
+AAAGAgdjAgXaAgZZAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXaAgKF_anchor,Flange
+AAAGAgdjAgXaAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXaAgJ8_anchor,Thread
+AAAGAgdjAgXb_anchor,Ductile Iron
+AAAGAgdjAgXbAgKF_anchor,Flange
+AAAGAgdjAgXbAgKP_anchor,Gasket
+AAAGAgdjAgXbAgJ9_anchor,Groove
+AAAGAgdjAgXbAgKU_anchor,Mechanical
+AAAGAgdjAgXc_anchor,Fiberglass
+AAAGAgdjAgXcAgKV_anchor,Butt Wrapped w/ Glass Mat Overlay
+AAAGAgdjAgXcAgKF_anchor,Flange
+AAAGAgdjAgXcAgVQ_anchor,Straight Socket
+AAAGAgdjAgXcAgVQAgKW_anchor,Epoxy
+AAAGAgdjAgXcAgVR_anchor,Taper Socket
+AAAGAgdjAgXcAgVRAgKW_anchor,Epoxy
+AAAGAgdjAgXd_anchor,Glass
+AAAGAgdjAgXdAgKX_anchor,Bead
+AAAGAgdjAgXdAgZZ_anchor,DWV
+AAAGAgdjAgXdAgZZAgKX_anchor,Bead
+AAAGAgdjAgXdAgKF_anchor,Flange
+AAAGAgdjAgXe_anchor,Hastelloy C-22
+AAAGAgdjAgXeAgKY_anchor,Orbital Butt Weld
+AAAGAgdjAgXf_anchor,HDPE
+AAAGAgdjAgXfAgKZ_anchor,Butt Fusion
+AAAGAgdjAgXL_anchor,Nickel Alloy
+AAAGAgdjAgXLAgJ__anchor,Butt Weld
+AAAGAgdjAgXLAgKF_anchor,Flange
+AAAGAgdjAgXLAgaL_anchor,Slip-On Weld
+AAAGAgdjAgXLAgJ7_anchor,Socket Weld
+AAAGAgdjAgXLAgJ8_anchor,Thread
+AAAGAgdjAgXi_anchor,PEX
+AAAGAgdjAgXiAgKb_anchor,Crimp Ring or Expansion/ Shrink Sleeve
+AAAGAgdjAgXv_anchor,Plastic Flexible Tubing
+AAAGAgdjAgXvAgKA_anchor,Compression
+AAAGAgdjAgXj_anchor,Polyethylene
+AAAGAgdjAgXjAgKa_anchor,Socket Fusion
+AAAGAgdjAgXk_anchor,Polypropylene
+AAAGAgdjAgXkAgKZ_anchor,Butt Fusion
+AAAGAgdjAgXkAgZZ_anchor,DWV
+AAAGAgdjAgXkAgZZAgKf_anchor,Hot Air Weld
+AAAGAgdjAgXkAgZZAgKU_anchor,Mechanical
+AAAGAgdjAgXkAgZZAgKR_anchor,No-Hub
+AAAGAgdjAgXkAgKe_anchor,Electro Fusion
+AAAGAgdjAgXkAgKF_anchor,Flange
+AAAGAgdjAgXkAgKU_anchor,Mechanical
+AAAGAgdjAgXkAgKa_anchor,Socket Fusion
+AAAGAgdjAgXn_anchor,PVC
+AAAGAgdjAgXnAgKg_anchor,Adhesive Clam Shell Connections
+AAAGAgdjAgXnAgXq_anchor,C900
+AAAGAgdjAgXnAgXqAgZf_anchor,AWWA
+AAAGAgdjAgXnAgXqAgZfAgKP_anchor,Gasket
+AAAGAgdjAgXnAgXr_anchor,C905
+AAAGAgdjAgXnAgXrAgZf_anchor,AWWA
+AAAGAgdjAgXnAgXrAgZfAgKP_anchor,Gasket
+AAAGAgdjAgXnAgZZ_anchor,DWV
+AAAGAgdjAgXnAgZZAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXnAgKF_anchor,Flange
+AAAGAgdjAgXnAgZi_anchor,High Purity Low Extractable (LXT)
+AAAGAgdjAgXnAgZiAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXnAgZj_anchor,Sewer & Drainage
+AAAGAgdjAgXnAgZjAgKP_anchor,Gasket
+AAAGAgdjAgXnAgJ-_anchor,Solvent Cement
+AAAGAgdjAgXnAgJ8_anchor,Thread
+AAAGAgdjAgXm_anchor,PVDF
+AAAGAgdjAgXmAgKZ_anchor,Butt Fusion
+AAAGAgdjAgXmAgZZ_anchor,DWV
+AAAGAgdjAgXmAgZZAgKf_anchor,Hot Air Weld
+AAAGAgdjAgXmAgZZAgKR_anchor,No-Hub
+AAAGAgdjAgXmAgKe_anchor,Electro Fusion
+AAAGAgdjAgXmAgKF_anchor,Flange
+AAAGAgdjAgXmAgKa_anchor,Socket Fusion
+AAAGAgdjAgXM_anchor,Stainless Steel
+AAAGAgdjAgXMAgJ__anchor,Butt Weld
+AAAGAgdjAgXMAgKT_anchor,Clamp
+AAAGAgdjAgXMAgKA_anchor,Compression
+AAAGAgdjAgXMAgKF_anchor,Flange
+AAAGAgdjAgXMAgKH_anchor,Flare
+AAAGAgdjAgXMAgKN_anchor,Grip Jaw
+AAAGAgdjAgXMAgJ9_anchor,Groove
+AAAGAgdjAgXMAgKj_anchor,I-Line
+AAAGAgdjAgXMAgKG_anchor,Lokring
+AAAGAgdjAgXMAgKO_anchor,Pressfit
+AAAGAgdjAgXMAgKx_anchor,Push Fit
+AAAGAgdjAgXMAgZm_anchor,Sanitary Food Grade
+AAAGAgdjAgXMAgZmAgKi_anchor,Bevel Seat
+AAAGAgdjAgXMAgZmAgJ__anchor,Butt Weld
+AAAGAgdjAgXMAgZmAgKw_anchor,Female Clamp
+AAAGAgdjAgXMAgZmAgKh_anchor,Ferrule Clamp
+AAAGAgdjAgXMAgXN_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAgdjAgXMAgXNAgKF_anchor,Flange
+AAAGAgdjAgXMAgaL_anchor,Slip-On Weld
+AAAGAgdjAgXMAgJ7_anchor,Socket Weld
+AAAGAgdjAgXMAgVM_anchor,Straight End
+AAAGAgdjAgXMAgVMAgKA_anchor,Compression
+AAAGAgdjAgXMAgJ8_anchor,Thread
+AAAGAgdjAgXMAgZg_anchor,Ultra High Purity
+AAAGAgdjAgXMAgZgAgKk_anchor,Coaxial
+AAAGAgdjAgXMAgZgAgKY_anchor,Orbital Butt Weld
+AAAGAgdjAgXMAgZc_anchor,Vacuum Tubing
+AAAGAgdjAgXMAgZcAgVL_anchor,Belled End
+AAAGAgdjAgXMAgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAgdjAgXMAgZcAgVLAgKC_anchor,Seal Weld
+AAAGAgdjAgXMAgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAgdjAgXMAgZcAgVM_anchor,Straight End
+AAAGAgdjAgXMAgZcAgVMAgKA_anchor,Compression
+AAAGAgdjAgXMAgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgdjAgXMAgKl_anchor,VCR SS Metal Gasket Face Seal
+AAAGAgfb_anchor,Machine Bevel
+AAAGAgfbAgfc_anchor,Fitting Miter or Trim Bevel
+AAAGAgfbAgfcAgff_anchor,Chrome Moly
+AAAGAgfbAgfcAgffAgfx_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgfbAgfcAgffAggA_anchor,2-1/4 Chrome 1 Moly
+AAAGAgfbAgfcAgffAgf6_anchor,5 Chrome 1/2 Moly
+AAAGAgfbAgfcAgffAgf-_anchor,9 Chrome 1 Moly
+AAAGAgfbAgfcAgfs_anchor,Nickel Alloy 200, 400, 600 & 800
+AAAGAgfbAgfcAgfk_anchor,Stainless Steel
+AAAGAgfbAgfd_anchor,Pipe Bevel
+AAAGAgfbAgfdAgfg_anchor,Chrome Moly
+AAAGAgfbAgfdAgfgAgfv_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgfbAgfdAgfgAgf0_anchor,2-1/4 Chrome 1 Moly
+AAAGAgfbAgfdAgfgAgf4_anchor,5 Chrome 1/2 Moly
+AAAGAgfbAgfdAgfgAgf8_anchor,9 Chrome 1 Moly
+AAAGAgfbAgfdAgfq_anchor,Nickel Alloy 200, 400, 600 & 800
+AAAGAgfbAgfdAgfi_anchor,Stainless Steel
+AAAGAgfbAgfe_anchor,Pipe Miter Bevel
+AAAGAgfbAgfeAgfh_anchor,Chrome Moly
+AAAGAgfbAgfeAgfhAgfw_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgfbAgfeAgfhAggB_anchor,2-1/4 Chrome 1 Moly
+AAAGAgfbAgfeAgfhAgf5_anchor,5 Chrome 1/2 Moly
+AAAGAgfbAgfeAgfhAgf9_anchor,9 Chrome 1 Moly
+AAAGAgfbAgfeAgfr_anchor,Nickel Alloy 200, 400, 600 & 800
+AAAGAgfbAgfeAgfj_anchor,Stainless Steel
+AAAGAgdD_anchor,Machining Inside of Pipe (Counter Boring)
+AAAGAgGA_anchor,Nipples
+AAAGAgGAAgW2_anchor,Aluminum
+AAAGAgGAAgW2AgJ__anchor,Butt Weld
+AAAGAgGAAgW2AgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW2AgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW2AgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgW2AgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW2AgJ8_anchor,Thread
+AAAGAgGAAgW2AgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW2AgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgW2AgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW2AgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgXQ_anchor,Brass or Bronze
+AAAGAgGAAgXQAgJ8_anchor,Thread
+AAAGAgGAAgXQAgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgXQAgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW3_anchor,Carbon Steel
+AAAGAgGAAgW3AgJ__anchor,Butt Weld
+AAAGAgGAAgW3AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW3AgJ_AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW3AgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ_AgYa_anchor,Schedule 160
+AAAGAgGAAgW3AgJ_AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgW3AgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgKN_anchor,Grip Jaw
+AAAGAgGAAgW3AgKNAgYY_anchor,Standard Weight
+AAAGAgGAAgW3AgKNAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ9_anchor,Groove
+AAAGAgGAAgW3AgJ9AgYY_anchor,Standard Weight
+AAAGAgGAAgW3AgJ9AgYYAge3_anchor,Nipple
+AAAGAgGAAgW3AgJ9AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgKy_anchor,Plain End
+AAAGAgGAAgW3AgKyAgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW3AgKyAgYbAge3_anchor,Nipple
+AAAGAgGAAgW3AgKyAgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgKyAgYZ_anchor,Extra Heavy
+AAAGAgGAAgW3AgKyAgYZAge3_anchor,Nipple
+AAAGAgGAAgW3AgKyAgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgKyAgYa_anchor,Schedule 160
+AAAGAgGAAgW3AgKyAgYaAge3_anchor,Nipple
+AAAGAgGAAgW3AgKyAgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgKyAgYY_anchor,Standard Weight
+AAAGAgGAAgW3AgKyAgYYAge3_anchor,Nipple
+AAAGAgGAAgW3AgKyAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ8_anchor,Thread
+AAAGAgGAAgW3AgJ8AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW3AgJ8AgYbAge3_anchor,Nipple
+AAAGAgGAAgW3AgJ8AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW3AgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgW3AgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ8AgYa_anchor,Schedule 160
+AAAGAgGAAgW3AgJ8AgYaAge3_anchor,Nipple
+AAAGAgGAAgW3AgJ8AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW3AgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW3AgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgW3AgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7_anchor,Chrome Moly
+AAAGAgGAAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgGAAgW7AgW8AgJ__anchor,Butt Weld
+AAAGAgGAAgW7AgW8AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW8AgJ_AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW8AgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ_AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW8AgJ_AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW8AgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgKy_anchor,Plain End
+AAAGAgGAAgW7AgW8AgKyAgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW8AgKyAgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgKyAgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW8AgKyAgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgKyAgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW8AgKyAgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgKyAgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW8AgKyAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ8_anchor,Thread
+AAAGAgGAAgW7AgW8AgJ8AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW8AgJ8AgYbAge3_anchor,Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW8AgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW8AgJ8AgYaAge3_anchor,Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW8AgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgW7AgW8AgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgGAAgW7AgW9AgJ__anchor,Butt Weld
+AAAGAgGAAgW7AgW9AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW9AgJ_AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW9AgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ_AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW9AgJ_AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW9AgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgKy_anchor,Plain End
+AAAGAgGAAgW7AgW9AgKyAgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW9AgKyAgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgKyAgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW9AgKyAgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgKyAgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW9AgKyAgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgKyAgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW9AgKyAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ8_anchor,Thread
+AAAGAgGAAgW7AgW9AgJ8AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW9AgJ8AgYbAge3_anchor,Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW9AgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW9AgJ8AgYaAge3_anchor,Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW9AgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgW7AgW9AgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAgGAAgW7AgW-AgJ__anchor,Butt Weld
+AAAGAgGAAgW7AgW-AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW-AgJ_AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW-AgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ_AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW-AgJ_AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW-AgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgKy_anchor,Plain End
+AAAGAgGAAgW7AgW-AgKyAgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW-AgKyAgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgKyAgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW-AgKyAgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgKyAgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW-AgKyAgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgKyAgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW-AgKyAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ8_anchor,Thread
+AAAGAgGAAgW7AgW-AgJ8AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW-AgJ8AgYbAge3_anchor,Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW-AgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW-AgJ8AgYaAge3_anchor,Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW-AgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgW7AgW-AgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAgGAAgW7AgW_AgJ__anchor,Butt Weld
+AAAGAgGAAgW7AgW_AgJ_AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW_AgJ_AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW_AgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ_AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW_AgJ_AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW_AgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgKy_anchor,Plain End
+AAAGAgGAAgW7AgW_AgKyAgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW_AgKyAgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgKyAgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW_AgKyAgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgKyAgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW_AgKyAgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgKyAgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW_AgKyAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ8_anchor,Thread
+AAAGAgGAAgW7AgW_AgJ8AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgW7AgW_AgJ8AgYbAge3_anchor,Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgW7AgW_AgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYa_anchor,Schedule 160
+AAAGAgGAAgW7AgW_AgJ8AgYaAge3_anchor,Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgW7AgW_AgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgW7AgW_AgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgXa_anchor,CPVC
+AAAGAgGAAgXaAgJ8_anchor,Thread
+AAAGAgGAAgXaAgJ8Age3_anchor,Nipple
+AAAGAgGAAgXL_anchor,Nickel Alloy
+AAAGAgGAAgXLAgJ__anchor,Butt Weld
+AAAGAgGAAgXLAgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgXLAgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgXLAgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgXLAgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgXLAgJ8_anchor,Thread
+AAAGAgGAAgXLAgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgXLAgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgXLAgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgXLAgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgXLAgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgXLAgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgXn_anchor,PVC
+AAAGAgGAAgXnAgJ8_anchor,Thread
+AAAGAgGAAgXnAgJ8Age3_anchor,Nipple
+AAAGAgGAAgXM_anchor,Stainless Steel
+AAAGAgGAAgXMAgJ__anchor,Butt Weld
+AAAGAgGAAgXMAgJ_AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgXMAgJ_AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ_AgYZ_anchor,Extra Heavy
+AAAGAgGAAgXMAgJ_AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ_AgYe_anchor,Schedule 10
+AAAGAgGAAgXMAgJ_AgYeAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ_AgYa_anchor,Schedule 160
+AAAGAgGAAgXMAgJ_AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ_AgYY_anchor,Standard Weight
+AAAGAgGAAgXMAgJ_AgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgKy_anchor,Plain End
+AAAGAgGAAgXMAgKyAgYb_anchor,Double Extra Heavy
+AAAGAgGAAgXMAgKyAgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgKyAgYZ_anchor,Extra Heavy
+AAAGAgGAAgXMAgKyAgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgKyAgYa_anchor,Schedule 160
+AAAGAgGAAgXMAgKyAgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgKyAgYY_anchor,Standard Weight
+AAAGAgGAAgXMAgKyAgYYAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ8_anchor,Thread
+AAAGAgGAAgXMAgJ8AgYb_anchor,Double Extra Heavy
+AAAGAgGAAgXMAgJ8AgYbAge3_anchor,Nipple
+AAAGAgGAAgXMAgJ8AgYbAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ8AgYZ_anchor,Extra Heavy
+AAAGAgGAAgXMAgJ8AgYZAge3_anchor,Nipple
+AAAGAgGAAgXMAgJ8AgYZAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ8AgYa_anchor,Schedule 160
+AAAGAgGAAgXMAgJ8AgYaAge3_anchor,Nipple
+AAAGAgGAAgXMAgJ8AgYaAgVf_anchor,Swage Nipple
+AAAGAgGAAgXMAgJ8AgYY_anchor,Standard Weight
+AAAGAgGAAgXMAgJ8AgYYAge3_anchor,Nipple
+AAAGAgGAAgXMAgJ8AgYYAgVf_anchor,Swage Nipple
+AAAGAgGg_anchor,Pipe
+AAAGAgGgAgi3_anchor, Special Notes
+AAAGAgGgAgXO_anchor,ABS
+AAAGAgGgAgXOAgZa_anchor,Compressed Air
+AAAGAgGgAgXOAgZaAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXOAgZZ_anchor,DWV
+AAAGAgGgAgXOAgZZAgJ-_anchor,Solvent Cement
+AAAGAgbXAgb_AgcA_anchor,Solvent Cement Socket Joint
+AAAGAgGgAgW2_anchor,Aluminum
+AAAGAgGgAgW2AgJ__anchor,Butt Weld
+AAAGAgGgAgW2AgZb_anchor,Compressed Air (Transair)
+AAAGAgGgAgW2AgZbAgKA_anchor,Compression
+AAAGAgGgAgW2AgKN_anchor,Grip Jaw
+AAAGAgGgAgW2AgJ9_anchor,Groove
+AAAGAgGgAgW2AgJ7_anchor,Socket Weld
+AAAGAgGgAgW2AgJ8_anchor,Thread
+AAAGAgGgAgW2AgZc_anchor,Vacuum Tubing
+AAAGAgGgAgW2AgZcAgVL_anchor,Belled End
+AAAGAgGgAgW2AgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAgGgAgW2AgZcAgVLAgKC_anchor,Seal Weld
+AAAGAgGgAgW2AgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAgGgAgW2AgZcAgVM_anchor,Straight End
+AAAGAgGgAgW2AgZcAgVMAgKA_anchor,Compression
+AAAGAgGgAgW2AgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgGgAgXQ_anchor,Brass or Bronze
+AAAGAgGgAgXQAgKL_anchor,Silver Solder
+AAAGAgGgAgXQAgj5_anchor,Silver Solder Insert
+AAAGAgGgAgXQAgJ8_anchor,Thread
+AAAGAgGgAgW3_anchor,Carbon Steel
+AAAGAgGgAgW3AgZd_anchor,Ammonia
+AAAGAgGgAgW3AgZdAgJ__anchor,Butt Weld
+AAAGAgGgAgW3AgZdAgJ7_anchor,Socket Weld
+AAAGAgGgAgW3AgZdAgJ8_anchor,Thread
+AAAGAgGgAgW3AgJ__anchor,Butt Weld
+AAAGAgGgAgW3AgW4_anchor,Cement Lined
+AAAGAgGgAgW3AgW4AgJ__anchor,Butt Weld
+AAAGAgGgAgW3AgW6_anchor,Coated and Wrapped
+AAAGAgGgAgW3AgW6AgKn_anchor,Butt Weld and Wrapped
+AAAGAgGgAgW3AgKA_anchor,Compression
+AAAGAgGgAgW3AgKH_anchor,Flare
+AAAGAgGgAgW3AgKN_anchor,Grip Jaw
+AAAGAgGgAgW3AgJ9_anchor,Groove
+AAAGAgGgAgW3AgKO_anchor,Pressfit
+AAAGAgGgAgW3AgW5_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAgGgAgW3AgW5AgKF_anchor,Flange
+AAAGAgGgAgW3AgJ7_anchor,Socket Weld
+AAAGAgGgAgW3AgJ8_anchor,Thread
+AAAGAgGgAgW3AgZc_anchor,Vacuum Tubing
+AAAGAgGgAgW3AgZcAgVL_anchor,Belled End
+AAAGAgGgAgW3AgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAgGgAgW3AgZcAgVLAgKC_anchor,Seal Weld
+AAAGAgGgAgW3AgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAgGgAgW3AgZcAgVM_anchor,Straight End
+AAAGAgGgAgW3AgZcAgVMAgKA_anchor,Compression
+AAAGAgGgAgW3AgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgGgAgXS_anchor,Cast Iron
+AAAGAgGgAgXSAgZZ_anchor,DWV
+AAAGAgGgAgXSAgZZAgVg_anchor,Double Hub
+AAAGAgGgAgXSAgZZAgVgAgKP_anchor,Gasket
+AAAGAgGgAgXSAgZZAgVgAgKQ_anchor,Lead
+AAAGAgGgAgXSAgZZAgKR_anchor,No-Hub
+AAAGAgGgAgXSAgZZAgVh_anchor,Single Hub
+AAAGAgGgAgXSAgZZAgVhAgKP_anchor,Gasket
+AAAGAgGgAgXSAgZZAgVhAgKQ_anchor,Lead
+AAAGAgGgAgXSAgXT_anchor,High Silicon
+AAAGAgGgAgXSAgXTAgZZ_anchor,DWV
+AAAGAgGgAgXSAgXTAgZZAgKR_anchor,No-Hub
+AAAGAgGgAgXSAgXTAgZZAgVh_anchor,Single Hub
+AAAGAgGgAgXSAgXTAgZZAgVhAgKQ_anchor,Lead
+AAAGAgGgAgW7_anchor,Chrome Moly
+AAAGAgGgAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgGgAgW7AgW8AgJ__anchor,Butt Weld
+AAAGAgGgAgW7AgW8AgJ7_anchor,Socket Weld
+AAAGAgGgAgW7AgW8AgJ8_anchor,Thread
+AAAGAgGgAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgGgAgW7AgW9AgJ__anchor,Butt Weld
+AAAGAgGgAgW7AgW9AgJ7_anchor,Socket Weld
+AAAGAgGgAgW7AgW9AgJ8_anchor,Thread
+AAAGAgGgAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAgGgAgW7AgW-AgJ__anchor,Butt Weld
+AAAGAgGgAgW7AgW-AgJ7_anchor,Socket Weld
+AAAGAgGgAgW7AgW-AgJ8_anchor,Thread
+AAAGAgGgAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAgGgAgW7AgW_AgJ__anchor,Butt Weld
+AAAGAgGgAgW7AgW_AgJ7_anchor,Socket Weld
+AAAGAgGgAgW7AgW_AgJ8_anchor,Thread
+AAAGAgGgAgXt_anchor,Concrete
+AAAGAgbXAgcDAgcE_anchor,Elliptical
+AAAGAgbXAgcDAgcEAgcF_anchor,Tongue & Groove, Mastic Joint
+AAAGAgGgAgXtAgVk_anchor,Elliptical, Hub & Spigot
+AAAGAgGgAgXtAgVkAgKq_anchor,Mortar
+AAAGAgGgAgXtAgVi_anchor,Round, Hub & Spigot
+AAAGAgGgAgXtAgViAgKo_anchor,O-Ring
+AAAGAgGgAgXtAgVj_anchor,Round, Tongue & Groove
+AAAGAgGgAgXtAgVjAgKp_anchor,Mastic
+AAAGAgGgAgXU_anchor,Copper
+AAAGAgGgAgXUAgKM_anchor,95/5 Solder
+AAAGAgGgAgXUAgXW_anchor,ACR
+AAAGAgGgAgXUAgXWAgKM_anchor,95/5 Solder
+AAAGAgGgAgXUAgXWAgKK_anchor,Silfos Solder
+AAAGAgGgAgXUAgXWAgKL_anchor,Silver Solder
+AAAGAgGgAgXUAgKA_anchor,Compression
+AAAGAgGgAgXUAgZZ_anchor,DWV
+AAAGAgGgAgXUAgZZAgKJ_anchor,50/50 Solder
+AAAGAgGgAgXUAgKH_anchor,Flare
+AAAGAgGgAgXUAgJ9_anchor,Groove
+AAAGAgGgAgXUAgKS_anchor,Press
+AAAGAgGgAgXUAgKK_anchor,Silfos Solder
+AAAGAgGgAgXUAgKL_anchor,Silver Solder
+AAAGAgGgAgXUAgXX_anchor,Soft
+AAAGAgGgAgXUAgXXAgKM_anchor,95/5 Solder
+AAAGAgGgAgXUAgXXAgKH_anchor,Flare
+AAAGAgGgAgXUAgXXAgZn_anchor,Refrigeration Tubing
+AAAGAgGgAgXUAgXXAgZnAgKJ_anchor,50/50 Solder
+AAAGAgGgAgXUAgXXAgZnAgKA_anchor,Compression
+AAAGAgGgAgXUAgXXAgZnAgKH_anchor,Flare
+AAAGAgGgAgXUAgXXAgZnAgKK_anchor,Silfos Solder
+AAAGAgGgAgXUAgXXAgZnAgKL_anchor,Silver Solder
+AAAGAgGgAgXUAgXXAgKL_anchor,Silver Solder
+AAAGAgGgAgXY_anchor,Corrugated Galvanized
+AAAGAgGgAgXYAgKr_anchor,Banded Metal
+AAAGAgGgAgXu_anchor,Corrugated HDPE
+AAAGAgGgAgXuAgZj_anchor,Sewer & Drainage
+AAAGAgGgAgXuAgZjAgKs_anchor,Banded Plastic
+AAAGAgGgAgXZ_anchor,Corrugated Stainless Steel Tubing
+AAAGAgGgAgXZAgKA_anchor,Compression
+AAAGAgGgAgXa_anchor,CPVC
+AAAGAgGgAgXaAgVl_anchor,Copper Tube Size
+AAAGAgGgAgXaAgVlAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXaAgZZ_anchor,DWV
+AAAGAgGgAgXaAgZZAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXaAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXaAgJ8_anchor,Thread
+AAAGAgGgAgXb_anchor,Ductile Iron
+AAAGAgGgAgXbAgKF_anchor,Flange
+AAAGAgGgAgXbAgKFAgmP_anchor,Flange [125 PSI] x Flange [125 PSI]
+AAAGAgGgAgXbAgKFAgSg_anchor,Flange [125 PSI] x Groove
+AAAGAgGgAgXbAgKFAgPP_anchor,Flange [125 PSI] x Plain End
+AAAGAgGgAgXbAgKFAgmR_anchor,Flange [250 PSI] x Flange [250 PSI]
+AAAGAgGgAgXbAgKFAgUa_anchor,Flange [250 PSI] x Grooved
+AAAGAgGgAgXbAgKFAgUb_anchor,Flange [250 PSI] x Plain End
+AAAGAgGgAgXbAgKP_anchor,Gasket
+AAAGAgGgAgXbAgJ9_anchor,Groove
+AAAGAgGgAgXbAgJ9AgmS_anchor,Groove x Groove
+AAAGAgGgAgXbAgJ9AgUc_anchor,Groove x Plain End
+AAAGAgGgAgXbAgKU_anchor,Mechanical
+AAAGAgGgAgXc_anchor,Fiberglass
+AAAGAgbXAgcGAgcH_anchor,Drainage
+AAAGAgbXAgcGAgcHAgcJ_anchor,O-Ring Joint
+AAAGAgbXAgcGAgcK_anchor,Pressure
+AAAGAgbXAgcGAgcKAgcL_anchor,Butt-Wrap w/ Glass Mat Overlay
+AAAGAgGgAgXcAgVQ_anchor,Straight Socket
+AAAGAgGgAgXcAgVQAgKW_anchor,Epoxy
+AAAGAgGgAgXcAgVR_anchor,Taper Socket
+AAAGAgGgAgXcAgVRAgKW_anchor,Epoxy
+AAAGAgGgAgXd_anchor,Glass
+AAAGAgGgAgXdAgKX_anchor,Bead
+AAAGAgGgAgXdAgZZ_anchor,DWV
+AAAGAgGgAgXdAgZZAgKX_anchor,Bead
+AAAGAgGgAgXdAgKF_anchor,Flange
+AAAGAgGgAgXe_anchor,Hastelloy C-22
+AAAGAgGgAgXeAgZg_anchor,Ultra High Purity
+AAAGAgGgAgXeAgZgAgKY_anchor,Orbital Butt Weld
+AAAGAgGgAgXf_anchor,HDPE
+AAAGAgGgAgXfAgVn_anchor,DIPS
+AAAGAgGgAgXfAgVnAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXfAgVm_anchor,IPS
+AAAGAgGgAgXfAgVmAgKZ_anchor,Butt Fusion
+AAAGAgbXAgbe_anchor,Insulated Conduit Casing
+AAAGAgbXAgbeAgbf_anchor,Pre-Engineered Systems
+AAAGAgbXAgbeAgbg_anchor,Sticks and Kits Installation
+AAAGAgGgAgXL_anchor,Nickel Alloy
+AAAGAgGgAgXLAgJ__anchor,Butt Weld
+AAAGAgGgAgXLAgJ7_anchor,Socket Weld
+AAAGAgGgAgXLAgJ8_anchor,Thread
+AAAGAgGgAgXi_anchor,PEX
+AAAGAgGgAgXiAgKb_anchor,Crimp Ring or Expansion/ Shrink Sleeve
+AAAGAgbXAgkMAgkZ_anchor,Flexible Pre-Insulated - Ecoflex
+AAAGAgbXAgkMAgkZAgka_anchor,Double Flex
+AAAGAgbXAgkMAgkZAgkaAgbb_anchor,Double Flex
+AAAGAgbXAgkMAgkZAgkb_anchor,Single Flex
+AAAGAgbXAgkMAgkZAgkbAgbc_anchor,Single Flex
+AAAGAgbXAgkMAgkZAgkc_anchor,Single Flex, High Density
+AAAGAgbXAgkMAgkZAgkcAgbd_anchor,Single Flex, High Density
+AAAGAgGgAgXv_anchor,Plastic Flexible Tubing
+AAAGAgGgAgXvAgKA_anchor,Compression
+AAAGAgGgAgXj_anchor,Polyethylene
+AAAGAgGgAgXjAgZo_anchor,Below Ground
+AAAGAgGgAgXjAgZoAgKa_anchor,Socket Fusion
+AAAGAgGgAgXjAgKa_anchor,Socket Fusion
+AAAGAgGgAgXk_anchor,Polypropylene
+AAAGAgGgAgXkAgXl_anchor,Aquatherm
+AAAGAgGgAgXkAgXlAge0_anchor,Above Ground
+AAAGAgGgAgXkAgXlAge0AgKZ_anchor,Butt Fusion
+AAAGAgGgAgXkAgXlAge0AgKa_anchor,Socket Fusion
+AAAGAgGgAgXkAgXlAgZo_anchor,Below Ground
+AAAGAgGgAgXkAgXlAgZoAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXkAgXlAgZoAgKa_anchor,Socket Fusion
+AAAGAgGgAgXkAgZo_anchor,Below Ground
+AAAGAgGgAgXkAgZoAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXkAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXkAgZZ_anchor,DWV
+AAAGAgGgAgXkAgZZAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXkAgZZAgKf_anchor,Hot Air Weld
+AAAGAgGgAgXkAgZZAgKU_anchor,Mechanical
+AAAGAgGgAgXkAgZZAgKR_anchor,No-Hub
+AAAGAgGgAgXkAgZZAgKa_anchor,Socket Fusion
+AAAGAgGgAgXkAgZp_anchor,DWV, Below Ground
+AAAGAgGgAgXkAgZpAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXkAgZpAgKf_anchor,Hot Air Weld
+AAAGAgGgAgXkAgZpAgKU_anchor,Mechanical
+AAAGAgGgAgXkAgZpAgKR_anchor,No-Hub
+AAAGAgGgAgXkAgZpAgKa_anchor,Socket Fusion
+AAAGAgGgAgXkAgKe_anchor,Electro Fusion
+AAAGAgGgAgXkAgJ8_anchor,Thread
+AAAGAgGgAgXn_anchor,PVC
+AAAGAgGgAgXnAgXq_anchor,C900
+AAAGAgGgAgXnAgXqAgZf_anchor,AWWA
+AAAGAgGgAgXnAgXqAgZfAgKP_anchor,Gasket
+AAAGAgGgAgXnAgXr_anchor,C905
+AAAGAgGgAgXnAgXrAgZf_anchor,AWWA
+AAAGAgGgAgXnAgXrAgZfAgKP_anchor,Gasket
+AAAGAgGgAgXnAgXp_anchor,Clear
+AAAGAgGgAgXnAgXpAgZk_anchor,Split System Secondary Containment
+AAAGAgGgAgXnAgXpAgZkAgKg_anchor,Adhesive Clam Shell Connections
+AAAGAgGgAgXnAgZZ_anchor,DWV
+AAAGAgGgAgXnAgZZAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXnAgZi_anchor,High Purity Low Extractable (LXT)
+AAAGAgGgAgXnAgZiAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXnAgZj_anchor,Sewer & Drainage
+AAAGAgGgAgXnAgZjAgKP_anchor,Gasket
+AAAGAgGgAgXnAgJ-_anchor,Solvent Cement
+AAAGAgGgAgXnAgJ8_anchor,Thread
+AAAGAgGgAgXm_anchor,PVDF
+AAAGAgGgAgXmAgZo_anchor,Below Ground
+AAAGAgGgAgXmAgZoAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXmAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXmAgZZ_anchor,DWV
+AAAGAgGgAgXmAgZZAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXmAgZZAgKe_anchor,Electro Fusion
+AAAGAgGgAgXmAgZZAgKf_anchor,Hot Air Weld
+AAAGAgGgAgXmAgZZAgKR_anchor,No-Hub
+AAAGAgGgAgXmAgZp_anchor,DWV, Below Ground
+AAAGAgGgAgXmAgZpAgKZ_anchor,Butt Fusion
+AAAGAgGgAgXmAgZpAgKe_anchor,Electro Fusion
+AAAGAgGgAgXmAgZpAgKf_anchor,Hot Air Weld
+AAAGAgGgAgXmAgZpAgKR_anchor,No-Hub
+AAAGAgbXAgbhAgbi_anchor,Pressure
+AAAGAgbXAgbhAgbiAgcc_anchor,Butt Fusion SIB (BCF)
+AAAGAgbXAgbhAgbiAgbj_anchor,Socket Fusion
+AAAGAgbXAgbhAgbiAgcn_anchor,Threaded
+AAAGAgGgAgXM_anchor,Stainless Steel
+AAAGAgGgAgXMAgJ__anchor,Butt Weld
+AAAGAgGgAgXMAgKN_anchor,Grip Jaw
+AAAGAgGgAgXMAgJ9_anchor,Groove
+AAAGAgGgAgXMAgKO_anchor,Pressfit
+AAAGAgGgAgXMAgKx_anchor,Push Fit
+AAAGAgGgAgXMAgZm_anchor,Sanitary Food Grade
+AAAGAgGgAgXMAgZmAgJ__anchor,Butt Weld
+AAAGAgGgAgXMAgXN_anchor,Saran, Polypropylene or Teflon Lined
+AAAGAgGgAgXMAgXNAgKF_anchor,Flange
+AAAGAgGgAgXMAgJ7_anchor,Socket Weld
+AAAGAgGgAgXMAgJ8_anchor,Thread
+AAAGAgGgAgXMAgVo_anchor,Tubing
+AAAGAgGgAgXMAgVoAgKA_anchor,Compression
+AAAGAgGgAgXMAgVoAgKH_anchor,Flare
+AAAGAgGgAgXMAgZg_anchor,Ultra High Purity
+AAAGAgGgAgXMAgZgAgVp_anchor,Long Radius Coaxial
+AAAGAgGgAgXMAgZgAgVpAgKk_anchor,Coaxial
+AAAGAgGgAgXMAgZgAgVo_anchor,Tubing
+AAAGAgGgAgXMAgZgAgVoAgKY_anchor,Orbital Butt Weld
+AAAGAgGgAgXMAgZc_anchor,Vacuum Tubing
+AAAGAgGgAgXMAgZcAgVL_anchor,Belled End
+AAAGAgGgAgXMAgZcAgVLAgKB_anchor,Adhesive Joint
+AAAGAgGgAgXMAgZcAgVLAgKC_anchor,Seal Weld
+AAAGAgGgAgXMAgZcAgVLAgKD_anchor,Shrink Sleeve
+AAAGAgGgAgXMAgZcAgVM_anchor,Straight End
+AAAGAgGgAgXMAgZcAgVMAgKA_anchor,Compression
+AAAGAgGgAgXMAgZcAgVMAgKE_anchor,Slip Coupling w/ Shrink Sleeve
+AAAGAgbXAgbk_anchor,Vitrified Clay Pipe
+AAAGAgbXAgbkAgbm_anchor,Bell & Spigot Gasket Joint
+AAAGAgbXAgbkAgbn_anchor,Bell & Spigot Grout Joint
+AAAGAgbXAgbkAgbl_anchor,Coupling Collar Joint
+AAAGAgbXAgbkAgbo_anchor,Extra Heavy, Perforated Joint
+AAAGAgHq_anchor,Plumbing Specialties
+AAAGAgHqAgHr_anchor,Air Admittance Valve
+AAAGAgHqAgHrAgXn_anchor,PVC
+AAAGAgHqAgHrAgXnAgJ-_anchor,Solvent Cement
+AAAGAgHqAgHs_anchor,Air Chamber
+AAAGAgHqAgHsAgXU_anchor,Copper
+AAAGAgHqAgHsAgXUAgKM_anchor,95/5 Solder
+AAAGAgHqAgHt_anchor,Backflow Preventer
+AAAGAgHqAgHtAgXQ_anchor,Brass or Bronze
+AAAGAgHqAgHtAgXQAgJ9_anchor,Groove
+AAAGAgHqAgHtAgXQAgKS_anchor,Press
+AAAGAgHqAgHtAgXQAgJ8_anchor,Thread
+AAAGAgHqAgHtAgXS_anchor,Cast Iron
+AAAGAgHqAgHtAgXSAgKF_anchor,Flange
+AAAGAgHqAgHtAgXb_anchor,Ductile Iron
+AAAGAgHqAgHtAgXbAgKF_anchor,Flange
+AAAGAgHqAgHtAgXM_anchor,Stainless Steel
+AAAGAgHqAgHtAgXMAgKF_anchor,Flange
+AAAGAgHqAgHtAgXMAgJ9_anchor,Groove
+AAAGAgHqAgHtAgXMAgJ8_anchor,Thread
+AAAGAgHqAgHy_anchor,Dresser Coupling
+AAAGAgHqAgHyAgKt_anchor,Dresser Coupling Bolt Up
+AAAGAgbDAgbE_anchor,Gas Control Equipment
+AAAGAgHqAgIZ_anchor,Sovent
+AAAGAgHqAgIZAgXS_anchor,Cast Iron
+AAAGAgHqAgIZAgXSAgKR_anchor,No-Hub
+AAAGAgHqAgIN_anchor,Thermostatic Mixing Valve
+AAAGAgHqAgINAgXU_anchor,Copper
+AAAGAgHqAgINAgXUAgJ8_anchor,Thread
+AAAGAgHqAgH2_anchor,Vacuum Breaker
+AAAGAgHqAgH2AgXU_anchor,Copper
+AAAGAgHqAgH2AgXUAgJ8_anchor,Thread
+AAAGAgHqAgH3_anchor,Water Hammer Arrestor
+AAAGAgHqAgH3AgXU_anchor,Copper
+AAAGAgHqAgH3AgXUAgKM_anchor,95/5 Solder
+AAAGAgHqAgH3AgXUAgKF_anchor,Flange
+AAAGAgHqAgH3AgXUAgJ8_anchor,Thread
+AAAGAgHqAgH3AgXa_anchor,CPVC
+AAAGAgHqAgH3AgXaAgJ8_anchor,Thread
+AAAGAgHqAgH3AgXM_anchor,Stainless Steel
+AAAGAgHqAgH3AgXMAgKF_anchor,Flange
+AAAGAgHqAgH3AgXMAgJ8_anchor,Thread
+AAAGAgHqAgH4_anchor,Water Pressure Reducing Valve
+AAAGAgHqAgH4AgXQ_anchor,Brass or Bronze
+AAAGAgHqAgH4AgXQAgJ8_anchor,Thread
+AAAGAgHqAgH4AgXS_anchor,Cast Iron
+AAAGAgHqAgH4AgXSAgKF_anchor,Flange
+AAAGAgcr_anchor,Preheat
+AAAGAgcrAgct_anchor,45º  Nozzle Welds, Carbon Stee and Any Alloy  (up to 425º F)
+AAAGAgcrAgcu_anchor,90º  Nozzle Welds, Carbon Steel and Any Alloy  (up to 425º F)
+AAAGAgcrAgcs_anchor,Buttwelds, Carbon Steel and Any Alloy (up to 425º F)
+AAAGAgIj_anchor,Refrigeration Specialties
+AAAGAgIjAgJT_anchor,3-Way Valve
+AAAGAgIjAgJTAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJTAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjK_anchor,Accumulator or Receiver
+AAAGAgIjAgjKAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjKAgXQAgKH_anchor,Flare
+AAAGAgIjAgjKAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJN_anchor,Angle Isolation Valve
+AAAGAgIjAgJNAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJNAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJG_anchor,Angle Strainer
+AAAGAgIjAgJGAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJGAgXQAgJ8_anchor,Thread
+AAAGAgIjAgJR_anchor,Ball Valve
+AAAGAgIjAgJRAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJRAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgI4_anchor,Change Over Manifold
+AAAGAgIjAgI4AgXQ_anchor,Brass or Bronze
+AAAGAgIjAgI4AgXQAgJ8_anchor,Thread
+AAAGAgIjAgIv_anchor,Check Valve, In-Line
+AAAGAgIjAgIvAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgIvAgXQAgKH_anchor,Flare
+AAAGAgIjAgIvAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJV_anchor,Compressor Valve
+AAAGAgIjAgJVAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJVAgXQAgKH_anchor,Flare
+AAAGAgIjAgJVAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjQ_anchor,Diaphragm Valve
+AAAGAgIjAgjQAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjQAgXQAgKH_anchor,Flare
+AAAGAgIjAgjQAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjQAgXQAgJ8_anchor,Thread
+AAAGAgIjAgIx_anchor,Expansion Valve
+AAAGAgIjAgIxAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgIxAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgI5_anchor,Filter Drier
+AAAGAgIjAgI5AgXQ_anchor,Brass or Bronze
+AAAGAgIjAgI5AgXQAgKH_anchor,Flare
+AAAGAgIjAgI5AgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgI5AgXQAgJ8_anchor,Thread
+AAAGAgIjAgIk_anchor,Filter Drier, Replaceable Core
+AAAGAgIjAgIkAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgIkAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjr_anchor,Flare Fittings
+AAAGAgIjAgjrAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjrAgXQAgKH_anchor,Flare
+AAAGAgIjAgJI_anchor,In-Line Strainer
+AAAGAgIjAgJIAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJIAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJf_anchor,Packed Line Angle Valve
+AAAGAgIjAgJfAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJfAgXQAgKH_anchor,Flare
+AAAGAgIjAgJfAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJfAgXQAgJ8_anchor,Thread
+AAAGAgIjAgjT_anchor,Packed Line Two-Way Valve
+AAAGAgIjAgjTAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjTAgXQAgKH_anchor,Flare
+AAAGAgIjAgjTAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJg_anchor,Pressure Regulating Valve, Crankcase
+AAAGAgIjAgJgAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJgAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjy_anchor,Pressure Regulating Valve, Differential
+AAAGAgIjAgjyAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjyAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJh_anchor,Pressure Regulating Valve, Evaporator
+AAAGAgIjAgJhAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJhAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjk_anchor,Pressure Relief Valve
+AAAGAgIjAgjkAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjkAgXQAgJ8_anchor,Thread
+AAAGAgIjAgJj_anchor,Regulating Valve, Head Pressure
+AAAGAgIjAgJjAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJjAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgjz_anchor,Rupture Disc and Gauge
+AAAGAgIjAgjzAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgjzAgXQAgJ8_anchor,Thread
+AAAGAgIjAgJC_anchor,Sight Glass, Moisture Indicator
+AAAGAgIjAgJCAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJCAgXQAgKH_anchor,Flare
+AAAGAgIjAgJCAgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgJCAgXQAgaM_anchor,Swivel
+AAAGAgIjAgj0_anchor,Solenoid Valve
+AAAGAgIjAgj0AgXQ_anchor,Brass or Bronze
+AAAGAgIjAgj0AgXQAgKL_anchor,Silver Solder
+AAAGAgIjAgj0AgXQAgJ8_anchor,Thread
+AAAGAgIjAgJo_anchor,Transducer Valve
+AAAGAgIjAgJoAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJoAgXQAgJ8_anchor,Thread
+AAAGAgIjAgJe_anchor,Y Strainer
+AAAGAgIjAgJeAgXQ_anchor,Brass or Bronze
+AAAGAgIjAgJeAgXQAgJ8_anchor,Thread
+AAAGAgcv_anchor,Stress Relieving
+AAAGAgcvAgcy_anchor,45° Nozzle Weld and Any Alloy (up to 1400º F)
+AAAGAgcvAgcx_anchor,90° Nozzle Weld and Any Alloy (up to 1400º F)
+AAAGAgcvAgcw_anchor,Buttwelds, Carbon Steel and Any Alloy (up to 1400º F)
+AAAGAgfm_anchor,Tig Root
+AAAGAgfmAgfp_anchor,Carbon Steel
+AAAGAgfmAgfn_anchor,Chrome Moly
+AAAGAgfmAgfnAgfz_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgfmAgfnAgf3_anchor,2-1/4 Chrome 1 Moly
+AAAGAgfmAgfnAgf7_anchor,5 Chrome 1/2 Moly
+AAAGAgfmAgfnAgf__anchor,9 Chrome 1 Moly
+AAAGAgfmAgft_anchor,Nickel Alloy 200, 400, 600 & 800
+AAAGAgfmAgfo_anchor,Stainless Steel
+AAAGAgCU_anchor,Valves
+AAAGAgCUAgXQ_anchor,Brass or Bronze
+AAAGAgCUAgXQAgCa_anchor,Angle Valve
+AAAGAgCUAgXQAgCaAgKS_anchor,Press
+AAAGAgCUAgXQAgCi_anchor,Automatic Flow Valve
+AAAGAgCUAgXQAgCiAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgCiAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCY_anchor,Ball Valve
+AAAGAgCUAgXQAgCYAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgCYAgKA_anchor,Compression
+AAAGAgCUAgXQAgCYAgKS_anchor,Press
+AAAGAgCUAgXQAgCYAgKI_anchor,Push to Connect
+AAAGAgCUAgXQAgCYAgKK_anchor,Silfos Solder
+AAAGAgCUAgXQAgCYAgKL_anchor,Silver Solder
+AAAGAgCUAgXQAgCYAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCc_anchor,Check Valve
+AAAGAgCUAgXQAgCcAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgCcAgKF_anchor,Flange
+AAAGAgCUAgXQAgCcAgKS_anchor,Press
+AAAGAgCUAgXQAgCcAgKI_anchor,Push to Connect
+AAAGAgCUAgXQAgCcAgKK_anchor,Silfos Solder
+AAAGAgCUAgXQAgCcAgKL_anchor,Silver Solder
+AAAGAgCUAgXQAgCcAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCh_anchor,Combination Y-Strainer and Ball Valve
+AAAGAgCUAgXQAgChAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgChAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCb_anchor,Diversion Valve
+AAAGAgCUAgXQAgCbAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgCbAgKK_anchor,Silfos Solder
+AAAGAgCUAgXQAgCbAgKL_anchor,Silver Solder
+AAAGAgCUAgXQAgCbAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCd_anchor,Foot Valve
+AAAGAgCUAgXQAgCdAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCe_anchor,Gate Valve
+AAAGAgCUAgXQAgCeAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgCeAgKF_anchor,Flange
+AAAGAgCUAgXQAgCeAgKS_anchor,Press
+AAAGAgCUAgXQAgCeAgKK_anchor,Silfos Solder
+AAAGAgCUAgXQAgCeAgKL_anchor,Silver Solder
+AAAGAgCUAgXQAgCeAgJ8_anchor,Thread
+AAAGAgCUAgXQAgCf_anchor,Globe Valve
+AAAGAgCUAgXQAgCfAgKM_anchor,95/5 Solder
+AAAGAgCUAgXQAgCfAgKF_anchor,Flange
+AAAGAgCUAgXQAgCfAgKS_anchor,Press
+AAAGAgCUAgXQAgCfAgKK_anchor,Silfos Solder
+AAAGAgCUAgXQAgCfAgKL_anchor,Silver Solder
+AAAGAgCUAgXQAgCfAgJ8_anchor,Thread
+AAAGAgbrAgckAgcl_anchor,Isolator Union with CPTA used with Automatic Flow Valve ( Ball Valve with Flow Control Cartridge )
+AAAGAgCUAgXQAgCg_anchor,Radiator Valve
+AAAGAgCUAgXQAgCgAgJ8_anchor,Thread
+AAAGAgCUAgW3_anchor,Carbon Steel
+AAAGAgCUAgW3AgCW_anchor,Air Release
+AAAGAgCUAgW3AgCWAgKF_anchor,Flange
+AAAGAgCUAgW3AgCWAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCX_anchor,Air Vacuum
+AAAGAgCUAgW3AgCXAgKF_anchor,Flange
+AAAGAgCUAgW3AgCk_anchor,Angle Glove Valve
+AAAGAgCUAgW3AgCkAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgCkAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCa_anchor,Angle Valve
+AAAGAgCUAgW3AgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgW3AgCaAgKF_anchor,Flange
+AAAGAgCUAgW3AgCaAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCl_anchor,Ball Diverter Valve
+AAAGAgCUAgW3AgClAgKF_anchor,Flange
+AAAGAgCUAgW3AgClAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgClAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCY_anchor,Ball Valve
+AAAGAgCUAgW3AgCYAgJ__anchor,Butt Weld
+AAAGAgCUAgW3AgCYAgKF_anchor,Flange
+AAAGAgCUAgW3AgCYAgKO_anchor,Pressfit
+AAAGAgCUAgW3AgCYAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgCYAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCZ_anchor,Blowdown Valve
+AAAGAgCUAgW3AgCZAgKF_anchor,Flange
+AAAGAgCUAgW3AgCZAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCj_anchor,Butterfly Valve
+AAAGAgCUAgW3AgCjAgKF_anchor,Flange
+AAAGAgCUAgW3AgCc_anchor,Check Valve
+AAAGAgCUAgW3AgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgW3AgCcAgKF_anchor,Flange
+AAAGAgCUAgW3AgCcAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgCcAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCV_anchor,Diaphragm Valve
+AAAGAgCUAgW3AgCVAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCe_anchor,Gate Valve
+AAAGAgCUAgW3AgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgW3AgCeAgKF_anchor,Flange
+AAAGAgCUAgW3AgCeAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgCeAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCf_anchor,Globe Valve
+AAAGAgCUAgW3AgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgW3AgCfAgKF_anchor,Flange
+AAAGAgCUAgW3AgCfAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgCfAgJ8_anchor,Thread
+AAAGAgCUAgW3AgCm_anchor,Plug Valve
+AAAGAgCUAgW3AgCmAgJ__anchor,Butt Weld
+AAAGAgCUAgW3AgCmAgKF_anchor,Flange
+AAAGAgCUAgW3AgCmAgJ7_anchor,Socket Weld
+AAAGAgCUAgW3AgCmAgJ8_anchor,Thread
+AAAGAgCUAgW3AgZr_anchor,Treatment Plant
+AAAGAgCUAgW3AgZrAgCX_anchor,Air Vacuum
+AAAGAgCUAgW3AgZrAgCXAgKF_anchor,Flange
+AAAGAgCUAgW3AgC-_anchor,Triple Duty Valve
+AAAGAgCUAgW3AgC-AgKF_anchor,Flange
+AAAGAgCUAgW3AgC-AgJ9_anchor,Groove
+AAAGAgCUAgW3AgC-AgJ8_anchor,Thread
+AAAGAgCUAgXS_anchor,Cast Iron
+AAAGAgCUAgXSAgCa_anchor,Angle Valve
+AAAGAgCUAgXSAgCaAgKF_anchor,Flange
+AAAGAgCUAgXSAgZf_anchor,AWWA
+AAAGAgCUAgXSAgZfAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXSAgZfAgCjAgKF_anchor,Flange
+AAAGAgCUAgXSAgZfAgCjAgKP_anchor,Gasket
+AAAGAgCUAgXSAgZfAgCjAgKU_anchor,Mechanical
+AAAGAgCUAgXSAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXSAgCjAgKF_anchor,Flange
+AAAGAgCUAgXSAgCjAgJ9_anchor,Groove
+AAAGAgCUAgXSAgCjAgKU_anchor,Mechanical
+AAAGAgCUAgXSAgCc_anchor,Check Valve
+AAAGAgCUAgXSAgCcAgKF_anchor,Flange
+AAAGAgCUAgXSAgCcAgJ8_anchor,Thread
+AAAGAgCUAgXSAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXSAgCVAgKF_anchor,Flange
+AAAGAgCUAgXSAgCd_anchor,Foot Valve
+AAAGAgCUAgXSAgCdAgKF_anchor,Flange
+AAAGAgCUAgXSAgCdAgJ8_anchor,Thread
+AAAGAgCUAgXSAgCe_anchor,Gate Valve
+AAAGAgCUAgXSAgCeAgKF_anchor,Flange
+AAAGAgCUAgXSAgCeAgKU_anchor,Mechanical
+AAAGAgCUAgXSAgCeAgJ8_anchor,Thread
+AAAGAgCUAgXSAgCf_anchor,Globe Valve
+AAAGAgCUAgXSAgCfAgKF_anchor,Flange
+AAAGAgCUAgXSAgCm_anchor,Plug Valve
+AAAGAgCUAgXSAgCmAgKF_anchor,Flange
+AAAGAgCUAgXSAgCmAgJ9_anchor,Groove
+AAAGAgCUAgXSAgCmAgJ8_anchor,Thread
+AAAGAgbrAgcj_anchor,Chain Wheel Operators for Valves
+AAAGAgCUAgW7_anchor,Chrome Moly
+AAAGAgCUAgW7AgW8_anchor,1-1/4 Chrome 1/2 Moly
+AAAGAgCUAgW7AgW8AgCa_anchor,Angle Valve
+AAAGAgCUAgW7AgW8AgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW8AgCaAgKF_anchor,Flange
+AAAGAgCUAgW7AgW8AgCc_anchor,Check Valve
+AAAGAgCUAgW7AgW8AgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW8AgCcAgKF_anchor,Flange
+AAAGAgCUAgW7AgW8AgCcAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW8AgCcAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW8AgCe_anchor,Gate Valve
+AAAGAgCUAgW7AgW8AgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW8AgCeAgKF_anchor,Flange
+AAAGAgCUAgW7AgW8AgCeAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW8AgCeAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW8AgCf_anchor,Globe Valve
+AAAGAgCUAgW7AgW8AgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW8AgCfAgKF_anchor,Flange
+AAAGAgCUAgW7AgW8AgCfAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW8AgCfAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW9_anchor,2-1/4 Chrome 1 Moly
+AAAGAgCUAgW7AgW9AgCa_anchor,Angle Valve
+AAAGAgCUAgW7AgW9AgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW9AgCaAgKF_anchor,Flange
+AAAGAgCUAgW7AgW9AgCc_anchor,Check Valve
+AAAGAgCUAgW7AgW9AgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW9AgCcAgKF_anchor,Flange
+AAAGAgCUAgW7AgW9AgCcAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW9AgCcAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW9AgCe_anchor,Gate Valve
+AAAGAgCUAgW7AgW9AgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW9AgCeAgKF_anchor,Flange
+AAAGAgCUAgW7AgW9AgCeAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW9AgCeAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW9AgCf_anchor,Globe Valve
+AAAGAgCUAgW7AgW9AgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW9AgCfAgKF_anchor,Flange
+AAAGAgCUAgW7AgW9AgCfAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW9AgCfAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW-_anchor,5 Chrome 1/2 Moly
+AAAGAgCUAgW7AgW-AgCa_anchor,Angle Valve
+AAAGAgCUAgW7AgW-AgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW-AgCaAgKF_anchor,Flange
+AAAGAgCUAgW7AgW-AgCc_anchor,Check Valve
+AAAGAgCUAgW7AgW-AgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW-AgCcAgKF_anchor,Flange
+AAAGAgCUAgW7AgW-AgCcAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW-AgCcAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW-AgCe_anchor,Gate Valve
+AAAGAgCUAgW7AgW-AgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW-AgCeAgKF_anchor,Flange
+AAAGAgCUAgW7AgW-AgCeAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW-AgCeAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW-AgCf_anchor,Globe Valve
+AAAGAgCUAgW7AgW-AgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW-AgCfAgKF_anchor,Flange
+AAAGAgCUAgW7AgW-AgCfAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW-AgCfAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW__anchor,9 Chrome 1 Moly
+AAAGAgCUAgW7AgW_AgCa_anchor,Angle Valve
+AAAGAgCUAgW7AgW_AgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW_AgCaAgKF_anchor,Flange
+AAAGAgCUAgW7AgW_AgCc_anchor,Check Valve
+AAAGAgCUAgW7AgW_AgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW_AgCcAgKF_anchor,Flange
+AAAGAgCUAgW7AgW_AgCcAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW_AgCcAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW_AgCe_anchor,Gate Valve
+AAAGAgCUAgW7AgW_AgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW_AgCeAgKF_anchor,Flange
+AAAGAgCUAgW7AgW_AgCeAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW_AgCeAgJ8_anchor,Thread
+AAAGAgCUAgW7AgW_AgCf_anchor,Globe Valve
+AAAGAgCUAgW7AgW_AgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgW7AgW_AgCfAgKF_anchor,Flange
+AAAGAgCUAgW7AgW_AgCfAgJ7_anchor,Socket Weld
+AAAGAgCUAgW7AgW_AgCfAgJ8_anchor,Thread
+AAAGAgCUAgXU_anchor,Copper
+AAAGAgCUAgXUAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXUAgCjAgJ9_anchor,Groove
+AAAGAgCUAgXa_anchor,CPVC
+AAAGAgCUAgXaAgCk_anchor,Angle Glove Valve
+AAAGAgCUAgXaAgCkAgKF_anchor,Flange
+AAAGAgCUAgXaAgCkAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCn_anchor,Ball Check Valve
+AAAGAgCUAgXaAgCnAgKF_anchor,Flange
+AAAGAgCUAgXaAgCnAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCnAgJ8_anchor,Thread
+AAAGAgCUAgXaAgCY_anchor,Ball Valve
+AAAGAgCUAgXaAgCYAgKF_anchor,Flange
+AAAGAgCUAgXaAgCYAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCYAgJ8_anchor,Thread
+AAAGAgCUAgXaAgCp_anchor,Ball Y-Check Valve
+AAAGAgCUAgXaAgCpAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCpAgJ8_anchor,Thread
+AAAGAgCUAgXaAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXaAgCjAgKF_anchor,Flange
+AAAGAgCUAgXaAgCc_anchor,Check Valve
+AAAGAgCUAgXaAgCcAgKF_anchor,Flange
+AAAGAgCUAgXaAgCq_anchor,Constant Flow Valve
+AAAGAgCUAgXaAgCqAgKF_anchor,Flange
+AAAGAgCUAgXaAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXaAgCVAgKF_anchor,Flange
+AAAGAgCUAgXaAgCVAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCVAgJ8_anchor,Thread
+AAAGAgCUAgXaAgCd_anchor,Foot Valve
+AAAGAgCUAgXaAgCdAgKF_anchor,Flange
+AAAGAgCUAgXaAgCdAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCe_anchor,Gate Valve
+AAAGAgCUAgXaAgCeAgKF_anchor,Flange
+AAAGAgCUAgXaAgCeAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCeAgJ8_anchor,Thread
+AAAGAgCUAgXaAgCf_anchor,Globe Valve
+AAAGAgCUAgXaAgCfAgKF_anchor,Flange
+AAAGAgCUAgXaAgCfAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXaAgCo_anchor,Zero Static Valve
+AAAGAgCUAgXaAgCoAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXb_anchor,Ductile Iron
+AAAGAgCUAgXbAgZf_anchor,AWWA
+AAAGAgCUAgXbAgZfAgCc_anchor,Check Valve
+AAAGAgCUAgXbAgZfAgCcAgKF_anchor,Flange
+AAAGAgCUAgXbAgZfAgCcAgJ9_anchor,Groove
+AAAGAgCUAgXbAgZfAgCcAgKU_anchor,Mechanical
+AAAGAgCUAgXbAgZfAgCe_anchor,Gate Valve
+AAAGAgCUAgXbAgZfAgCeAgKF_anchor,Flange
+AAAGAgCUAgXbAgZfAgCeAgKP_anchor,Gasket
+AAAGAgCUAgXbAgZfAgCeAgKU_anchor,Mechanical
+AAAGAgCUAgXbAgZfAgCeAgJ8_anchor,Thread
+AAAGAgbrAgcMAgcNAgcO_anchor,Plug, Flanged
+AAAGAgbrAgcMAgcNAgcP_anchor,Plug, Mechanical Joint
+AAAGAgCUAgXbAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXbAgCjAgKF_anchor,Flange
+AAAGAgCUAgXbAgCjAgJ9_anchor,Groove
+AAAGAgCUAgXbAgCjAgKU_anchor,Mechanical
+AAAGAgCUAgXbAgCjAgKS_anchor,Press
+AAAGAgCUAgXh_anchor,Malleable Iron
+AAAGAgCUAgXhAgCc_anchor,Check Valve
+AAAGAgCUAgXhAgCcAgJ9_anchor,Groove
+AAAGAgCUAgXL_anchor,Nickel Alloy
+AAAGAgCUAgXLAgCa_anchor,Angle Valve
+AAAGAgCUAgXLAgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgXLAgCaAgKF_anchor,Flange
+AAAGAgCUAgXLAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXLAgCjAgKF_anchor,Flange
+AAAGAgCUAgXLAgCc_anchor,Check Valve
+AAAGAgCUAgXLAgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgXLAgCcAgKF_anchor,Flange
+AAAGAgCUAgXLAgCe_anchor,Gate Valve
+AAAGAgCUAgXLAgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgXLAgCeAgKF_anchor,Flange
+AAAGAgCUAgXLAgCf_anchor,Globe Valve
+AAAGAgCUAgXLAgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgXLAgCfAgKF_anchor,Flange
+AAAGAgCUAgXi_anchor,PEX
+AAAGAgCUAgXiAgCY_anchor,Ball Valve
+AAAGAgCUAgXiAgCYAgKb_anchor,Crimp Ring or Expansion/ Shrink Sleeve
+AAAGAgCUAgXiAgCr_anchor,Stop Valve, Angle or Straight
+AAAGAgCUAgXiAgCrAgKb_anchor,Crimp Ring or Expansion/ Shrink Sleeve
+AAAGAgCUAgXj_anchor,Polyethylene
+AAAGAgCUAgXjAgCY_anchor,Ball Valve
+AAAGAgCUAgXjAgCYAgKZ_anchor,Butt Fusion
+AAAGAgCUAgXk_anchor,Polypropylene
+AAAGAgCUAgXkAgXl_anchor,Aquatherm
+AAAGAgCUAgXkAgXlAgCY_anchor,Ball Valve
+AAAGAgCUAgXkAgXlAgCYAgKF_anchor,Flange
+AAAGAgCUAgXkAgXlAgCYAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgXlAgCu_anchor,Concealed Valve
+AAAGAgCUAgXkAgXlAgCuAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgXlAgCw_anchor,Inclined Check Valve
+AAAGAgCUAgXkAgXlAgCwAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgXlAgCv_anchor,Inclined Valve
+AAAGAgCUAgXkAgXlAgCvAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgXlAgCt_anchor,Stop Globe Valve
+AAAGAgCUAgXkAgXlAgCtAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgCn_anchor,Ball Check Valve
+AAAGAgCUAgXkAgCnAgKF_anchor,Flange
+AAAGAgCUAgXkAgCnAgKU_anchor,Mechanical
+AAAGAgCUAgXkAgCnAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgCY_anchor,Ball Valve
+AAAGAgCUAgXkAgCYAgKF_anchor,Flange
+AAAGAgCUAgXkAgCYAgKU_anchor,Mechanical
+AAAGAgCUAgXkAgCYAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgCYAgJ8_anchor,Thread
+AAAGAgCUAgXkAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXkAgCjAgKF_anchor,Flange
+AAAGAgCUAgXkAgCq_anchor,Constant Flow Valve
+AAAGAgCUAgXkAgCqAgKF_anchor,Flange
+AAAGAgCUAgXkAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXkAgCVAgKF_anchor,Flange
+AAAGAgCUAgXkAgCVAgKU_anchor,Mechanical
+AAAGAgCUAgXkAgCVAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgCd_anchor,Foot Valve
+AAAGAgCUAgXkAgCdAgKF_anchor,Flange
+AAAGAgCUAgXkAgCdAgKa_anchor,Socket Fusion
+AAAGAgCUAgXkAgCe_anchor,Gate Valve
+AAAGAgCUAgXkAgCeAgKF_anchor,Flange
+AAAGAgCUAgXkAgCf_anchor,Globe Valve
+AAAGAgCUAgXkAgCfAgKF_anchor,Flange
+AAAGAgCUAgXkAgCs_anchor,Swing Check
+AAAGAgCUAgXkAgCsAgKF_anchor,Flange
+AAAGAgCUAgXkAgCo_anchor,Zero Static Valve
+AAAGAgCUAgXkAgCoAgKZ_anchor,Butt Fusion
+AAAGAgCUAgXn_anchor,PVC
+AAAGAgCUAgXnAgCk_anchor,Angle Glove Valve
+AAAGAgCUAgXnAgCkAgKF_anchor,Flange
+AAAGAgCUAgXnAgCkAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCn_anchor,Ball Check Valve
+AAAGAgCUAgXnAgCnAgKF_anchor,Flange
+AAAGAgCUAgXnAgCnAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgCnAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCY_anchor,Ball Valve
+AAAGAgCUAgXnAgCYAgKF_anchor,Flange
+AAAGAgCUAgXnAgCYAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgCYAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCp_anchor,Ball Y-Check Valve
+AAAGAgCUAgXnAgCpAgKF_anchor,Flange
+AAAGAgCUAgXnAgCpAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXnAgCjAgKF_anchor,Flange
+AAAGAgCUAgXnAgCq_anchor,Constant Flow Valve
+AAAGAgCUAgXnAgCqAgKF_anchor,Flange
+AAAGAgCUAgXnAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXnAgCVAgKF_anchor,Flange
+AAAGAgCUAgXnAgCVAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgCVAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCd_anchor,Foot Valve
+AAAGAgCUAgXnAgCdAgKF_anchor,Flange
+AAAGAgCUAgXnAgCdAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCe_anchor,Gate Valve
+AAAGAgCUAgXnAgCeAgKF_anchor,Flange
+AAAGAgCUAgXnAgCeAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgCeAgJ8_anchor,Thread
+AAAGAgCUAgXnAgCf_anchor,Globe Valve
+AAAGAgCUAgXnAgCfAgKF_anchor,Flange
+AAAGAgCUAgXnAgCfAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgCfAgJ8_anchor,Thread
+AAAGAgCUAgXnAgZi_anchor,High Purity Low Extractable (LXT)
+AAAGAgCUAgXnAgZiAgCY_anchor,Ball Valve
+AAAGAgCUAgXnAgZiAgCYAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgZiAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXnAgZiAgCVAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXnAgCs_anchor,Swing Check
+AAAGAgCUAgXnAgCsAgKF_anchor,Flange
+AAAGAgCUAgXnAgCo_anchor,Zero Static Valve
+AAAGAgCUAgXnAgCoAgJ-_anchor,Solvent Cement
+AAAGAgCUAgXm_anchor,PVDF
+AAAGAgCUAgXmAgCn_anchor,Ball Check Valve
+AAAGAgCUAgXmAgCnAgKZ_anchor,Butt Fusion
+AAAGAgCUAgXmAgCnAgKF_anchor,Flange
+AAAGAgCUAgXmAgCnAgKU_anchor,Mechanical
+AAAGAgCUAgXmAgCnAgKa_anchor,Socket Fusion
+AAAGAgCUAgXmAgCY_anchor,Ball Valve
+AAAGAgCUAgXmAgCYAgKZ_anchor,Butt Fusion
+AAAGAgCUAgXmAgCYAgKF_anchor,Flange
+AAAGAgCUAgXmAgCYAgKU_anchor,Mechanical
+AAAGAgCUAgXmAgCYAgKa_anchor,Socket Fusion
+AAAGAgCUAgXmAgCYAgJ8_anchor,Thread
+AAAGAgCUAgXmAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXmAgCjAgKF_anchor,Flange
+AAAGAgCUAgXmAgCq_anchor,Constant Flow Valve
+AAAGAgCUAgXmAgCqAgKF_anchor,Flange
+AAAGAgCUAgXmAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXmAgCVAgKZ_anchor,Butt Fusion
+AAAGAgCUAgXmAgCVAgKF_anchor,Flange
+AAAGAgCUAgXmAgCVAgKU_anchor,Mechanical
+AAAGAgCUAgXmAgCVAgKa_anchor,Socket Fusion
+AAAGAgCUAgXmAgCd_anchor,Foot Valve
+AAAGAgCUAgXmAgCdAgKF_anchor,Flange
+AAAGAgCUAgXmAgCdAgKa_anchor,Socket Fusion
+AAAGAgCUAgXmAgCe_anchor,Gate Valve
+AAAGAgCUAgXmAgCeAgKF_anchor,Flange
+AAAGAgCUAgXmAgCf_anchor,Globe Valve
+AAAGAgCUAgXmAgCfAgKF_anchor,Flange
+AAAGAgCUAgXmAgCs_anchor,Swing Check
+AAAGAgCUAgXmAgCsAgKF_anchor,Flange
+AAAGAgCUAgXmAgCo_anchor,Zero Static Valve
+AAAGAgCUAgXmAgCoAgKZ_anchor,Butt Fusion
+AAAGAgCUAgXM_anchor,Stainless Steel
+AAAGAgCUAgXMAgCa_anchor,Angle Valve
+AAAGAgCUAgXMAgCaAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgCaAgKF_anchor,Flange
+AAAGAgCUAgXMAgCY_anchor,Ball Valve
+AAAGAgCUAgXMAgCYAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgCYAgKF_anchor,Flange
+AAAGAgCUAgXMAgCYAgJ7_anchor,Socket Weld
+AAAGAgCUAgXMAgCYAgJ8_anchor,Thread
+AAAGAgCUAgXMAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXMAgCjAgKF_anchor,Flange
+AAAGAgCUAgXMAgCjAgJ9_anchor,Groove
+AAAGAgCUAgXMAgCc_anchor,Check Valve
+AAAGAgCUAgXMAgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgCcAgKT_anchor,Clamp
+AAAGAgCUAgXMAgCcAgKF_anchor,Flange
+AAAGAgCUAgXMAgCcAgJ7_anchor,Socket Weld
+AAAGAgCUAgXMAgCcAgJ8_anchor,Thread
+AAAGAgCUAgXMAgC8_anchor,Diverter Ball Valve
+AAAGAgCUAgXMAgC8AgKF_anchor,Flange
+AAAGAgCUAgXMAgC8AgJ7_anchor,Socket Weld
+AAAGAgCUAgXMAgC8AgJ8_anchor,Thread
+AAAGAgCUAgXMAgCe_anchor,Gate Valve
+AAAGAgCUAgXMAgCeAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgCeAgKF_anchor,Flange
+AAAGAgCUAgXMAgCeAgJ7_anchor,Socket Weld
+AAAGAgCUAgXMAgCeAgJ8_anchor,Thread
+AAAGAgCUAgXMAgCf_anchor,Globe Valve
+AAAGAgCUAgXMAgCfAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgCfAgKF_anchor,Flange
+AAAGAgCUAgXMAgCfAgJ7_anchor,Socket Weld
+AAAGAgCUAgXMAgCfAgJ8_anchor,Thread
+AAAGAgCUAgXMAgC9_anchor,Knife Valve
+AAAGAgCUAgXMAgC9AgKF_anchor,Flange
+AAAGAgCUAgXMAgZm_anchor,Sanitary Food Grade
+AAAGAgCUAgXMAgZmAgC5_anchor,Air Blow Check Valve
+AAAGAgCUAgXMAgZmAgC5AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgC7_anchor,Air Relief Valve
+AAAGAgCUAgXMAgZmAgC7AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCn_anchor,Ball Check Valve
+AAAGAgCUAgXMAgZmAgCnAgKi_anchor,Bevel Seat
+AAAGAgCUAgXMAgZmAgCnAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgCnAgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgCnAgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCnAgJ8_anchor,Thread
+AAAGAgCUAgXMAgZmAgCY_anchor,Ball Valve
+AAAGAgCUAgXMAgZmAgCYAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgCYAgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCj_anchor,Butterfly Valve
+AAAGAgCUAgXMAgZmAgCjAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgCjAgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgCjAgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCjAgJ8_anchor,Thread
+AAAGAgCUAgXMAgZmAgCc_anchor,Check Valve
+AAAGAgCUAgXMAgZmAgCcAgKi_anchor,Bevel Seat
+AAAGAgCUAgXMAgZmAgCcAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgCcAgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgCcAgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCcAgKj_anchor,I-Line
+AAAGAgCUAgXMAgZmAgC1_anchor,Cross Compression Valve
+AAAGAgCUAgXMAgZmAgC1AgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgC1AgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgC1AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXMAgZmAgCVAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgCVAgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCm_anchor,Plug Valve
+AAAGAgCUAgXMAgZmAgCmAgKi_anchor,Bevel Seat
+AAAGAgCUAgXMAgZmAgCmAgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgCmAgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgCmAgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgCmAgJ8_anchor,Thread
+AAAGAgCUAgXMAgZmAgC6_anchor,Relief Valve
+AAAGAgCUAgXMAgZmAgC6AgKi_anchor,Bevel Seat
+AAAGAgCUAgXMAgZmAgC6AgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgC6AgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgC6AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgC4_anchor,Sample Valve
+AAAGAgCUAgXMAgZmAgC4AgKi_anchor,Bevel Seat
+AAAGAgCUAgXMAgZmAgC4AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgC3_anchor,Shutter Valve
+AAAGAgCUAgXMAgZmAgC3AgKi_anchor,Bevel Seat
+AAAGAgCUAgXMAgZmAgC3AgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgC3AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgC0_anchor,Tee Compression Valve
+AAAGAgCUAgXMAgZmAgC0AgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgC0AgKw_anchor,Female Clamp
+AAAGAgCUAgXMAgZmAgC0AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgZmAgC2_anchor,Y Compression Valve
+AAAGAgCUAgXMAgZmAgC2AgJ__anchor,Butt Weld
+AAAGAgCUAgXMAgZmAgC2AgKh_anchor,Ferrule Clamp
+AAAGAgCUAgXMAgCx_anchor,Tubing Valve
+AAAGAgCUAgXMAgCxAgKA_anchor,Compression
+AAAGAgCUAgXMAgZg_anchor,Ultra High Purity
+AAAGAgCUAgXMAgZgAgCz_anchor,Air Actuated
+AAAGAgCUAgXMAgZgAgCzAgKY_anchor,Orbital Butt Weld
+AAAGAgCUAgXMAgZgAgCY_anchor,Ball Valve
+AAAGAgCUAgXMAgZgAgCYAgKY_anchor,Orbital Butt Weld
+AAAGAgCUAgXMAgZgAgCy_anchor,Bellows Valve
+AAAGAgCUAgXMAgZgAgCyAgKY_anchor,Orbital Butt Weld
+AAAGAgCUAgXMAgZgAgCV_anchor,Diaphragm Valve
+AAAGAgCUAgXMAgZgAgCVAgKk_anchor,Coaxial
+AAAGAgCUAgXMAgZgAgCVAgKl_anchor,VCR SS Metal Gasket Face Seal
+AAAGAgCUAgXP_anchor,Transair
+AAAGAgCUAgXPAgZb_anchor,Compressed Air (Transair)
+AAAGAgCUAgXPAgZbAgCY_anchor,Ball Valve
+AAAGAgCUAgXPAgZbAgCYAgKA_anchor,Compression
+AAAGAgCUAgXPAgZbAgCYAgKF_anchor,Flange
+AAAGAgbrAgbs_anchor,Treatment Plant Valves
+AAAGAgbrAgbsAgbt_anchor,Mud
+AAAGAgbrAgbsAgbu_anchor,Telescopic
+AYfG_anchor,Plumbing Equipment
+AYfGAYps_anchor,Basic Assumptions
+AYfGAYfH_anchor,Cast Iron Grates and Manholes
+AYfGAYfHAYfI_anchor,Catch Basins, Frame and Grate (Heavy Duty)
+AYfGAYfHAYfM_anchor,Manhole Frames and Covers (Heavy Duty Round)
+AYfGAYhC_anchor,Cleanouts
+AYfGAYhCAYhD_anchor,Cleanout w/Plug and Cover
+AYfGAYiK_anchor,Column Sewage Ejector Pumps
+AYfGAYfJ_anchor,Domestic Drinking Water Remote Chiller
+AYfGAYfN_anchor,Domestic Water Booster Pump Systems
+AYfGAYg6_anchor,Drains
+AYfGAYg6AYg7_anchor,Floor Drain
+AYfGAYg6AYii_anchor,Gutter Drain
+AYfGAYg6AYg8_anchor,Roof Drain
+AYfGAYg6AYih_anchor,Trench Drains
+AYfGAYfK_anchor,Gas Meters
+AYfGAYfL_anchor,Gas Pressure Regulators
+AYfGAYfO_anchor,Hose Bibbs & Hydrants
+AYfGAYfOAYjC_anchor,Hose Bibbs
+AYfGAYfOAYfP_anchor,Wall Hydrants
+AYfGAYfOAYfQ_anchor,Yard Hydrants
+AYfGAYiq_anchor,Hospital & Medical Gas Specialties
+AYfGAYiqAYir_anchor,Hospital Equipment
+AYfGAYiqAYi7_anchor,Medical Gas Outlets, Alarms, Zone Valves, Manifolds, Columns
+AYfGAYg9_anchor,Interceptors, Traps and Neutralizing Tanks
+AYfGAYg9AYg-_anchor,Acid Neutralization Tanks
+AYfGAYg9AYg__anchor,Grease Traps, Polyethylene Tank
+AYfGAYg9AYhA_anchor,Grease Traps, Steel Tank
+AYfGAYg9AYhB_anchor,Interceptors
+AYfGAYg9AYiD_anchor,Interceptors (Large Capacity)
+AYfGAYg9AYiE_anchor,Specialty Traps (Plaster, Hair, Lint)
+AYfGAYhE_anchor,Miscellaneous
+AYfGAYhEAYiN_anchor,Trap Primers
+AYfGAYhEAYhF_anchor,Vent Flashings
+AYfGAYiF_anchor,Propane Storage Tanks - ASME (Above Ground)
+AYfGAYiG_anchor,Separators
+AYfGAYiGAYiH_anchor,Primary with Legs
+AYfGAYiGAYiI_anchor,Secondary with Hand Shaker and Legs
+AYfGAYiGAYiJ_anchor,Vacumatic
+AYfGAYik_anchor,Storage Tanks
+AYfGAYikAYil_anchor,Horizontal (Underground)
+AYfGAYikAYim_anchor,Vertical (Above Ground)
+AYfGAYjN_anchor,Submersible Sewage Ejectors/Sump Pumps
+AYfGAYiL_anchor,Vacuum Pumps
+AYfGAYh__anchor,Water Heaters
+AYfGAYh_AYij_anchor,Compact Package Water Heater:  Semi - Instantaneous Steam Fired (27 - 198 Gallon)
+AYfGAYh_AYiB_anchor,Electric - Horizontal Tank (170 to 4,070 gallon)
+AYfGAYh_AYiA_anchor,Electric - Vertical Tank (170 to 1,980 gallon)
+AYfGAYh_AYiC_anchor,Steam Fired, Horizontal Package Domestic - Storage Heater (170 to 3,920 gallon)
+AYfGAYh_AYio_anchor,Steam Fired, Vertical Package Domestic - Storage Heater (170 to 1,980 gallon)
+AYfGAYh_AYiM_anchor,Vertical Instantaneous Heater W/Steam or Hot Water Medium
+AYfGAYh_AYin_anchor,Water Heaters and Storage Tanks (Residential and Light Commercial)
+AYfGAYhG_anchor,Water Meters
+AYfGAYhGAYhH_anchor,Compound Water Meters - Magnetic or Mechanical Drive (Flanged Connection)
+AYfGAYhGAYhI_anchor,Detector Water Meters - Combination Fire & Domestic Water Systems (Flanged Connection)
+AYfGAYhGAYhJ_anchor,Disc Type Residential and Light Commercial Meters, Magnetic Drive, Threaded Connection
+AYfGAYi6_anchor,Water Purification (DI Units, Ozone Generators, Water Softeners)
+AYfR_anchor,Plumbing Fixtures
+AYfRAYfS_anchor,Fixtures & Accessories
+AYfRAYib_anchor,Toilet Room Accessories
+AYfT_anchor,Refrigeration Equipment
+AYfTAYpt_anchor,Basic Assumptions
+AYfTAYfU_anchor,Coils
+AYfTAYhh_anchor,Compressors
+AYfTAYhhAYhi_anchor,Reciprocating
+AYfTAYhhAYhiAYhj_anchor,Air Conditioning
+AYfTAYhhAYhiAYi9_anchor,Low Temperature Refrigeration
+AYfTAYhhAYhiAYhk_anchor,Refrigeration
+AYfTAYhK_anchor,Condensers
+AYfTAYhKAYhL_anchor,Air Cooled
+AYfTAYhKAYhM_anchor,Evaporative Condensers
+AYfTAYhKAYhN_anchor,Shell and Tube
+AYfTAYhl_anchor,Condensing Units, Compressor-Condenser
+AYfTAYhlAYhm_anchor,Reciprocating
+AYfTAYhlAYhmAYhn_anchor,Air Cooled
+AYfTAYhlAYhmAYho_anchor,Water Cooled
+AYfTAYfW_anchor,Evaporators
+AYfTAYfX_anchor,Fan Coil Units, Direct Expansion (DX)
+AYfTAYhO_anchor,Heat Exchangers
+AYfTAYhOAYhP_anchor,Shell and Coil
+AYfTAYhOAYhp_anchor,Shell and Tube
+AYfTAYhOAYhpAYhq_anchor,Converter
+AYfTAYhOAYhpAYi-_anchor,Liquid Chiller
+AYfTAYfV_anchor,Screw - Water Cooled
+AYfTAYi__anchor,Tanks, Pressure Vessels
+AYfY_anchor,Treatment Plant Equipment
+AYfYAYfZ_anchor,Aeration Equipment (With Propeller Mixer And Air Sparge Ring-Open Tank-Beam Mounted)
+AYfYAYfa_anchor,Belt Filter Press
+AYfYAYfb_anchor,Bin Dischargers Standard Orbital Motion Type (Bin Mounted)
+AYfYAYiy_anchor,Blowers
+AYfYAYiyAYiz_anchor,Centrifugal Multi-Stage Blower
+AYfYAYiyAYi0_anchor,Inlet / Discharge Silencer
+AYfYAYiyAYi1_anchor,Inlet Filter (Roof Mounted)
+AYfYAYiyAYi2_anchor,Positive Displacement Blower
+AYfYAYfc_anchor,Centrifuges, Horizontal
+AYfYAYfd_anchor,Chlorination Equipment
+AYfYAYhQ_anchor,Clarifiers
+AYfYAYhQAYhR_anchor,Full Bridge - Siphon Feed
+AYfYAYhQAYhS_anchor,Half Bridge - Siphon Feed
+AYfYAYiZ_anchor,Comminutors
+AYfYAYfe_anchor,Conveyors, Belt Type
+AYfYAYff_anchor,Cyclone Grit Separators / Dewatering Screw Classifier
+AYfYAYfg_anchor,Digester Covers, Steel
+AYfYAYhT_anchor,Flow Meter, Intake Propeller, Open Channel Type
+AYfYAYfh_anchor,Lime Storage Silo
+AYfYAYfi_anchor,Mechanical Seals - Bolted Rubber
+AYfYAYfj_anchor,Parshall Flumes
+AYfYAYfk_anchor,Pump Controllers - Mercury Float
+AYfYAYhU_anchor,Pumps
+AYfYAYhUAYhr_anchor,Centrifugal
+AYfYAYhUAYhrAYhs_anchor,Horizontal
+AYfYAYhUAYhrAYht_anchor,Vertical
+AYfYAYhUAYhV_anchor,Plunger
+AYfYAYhUAYhW_anchor,Progressive Cavity
+AYfYAYhUAYhX_anchor,Submersible
+AYfYAYhUAYhY_anchor,Vertical Axial and Mixed Flow
+AYfYAYfl_anchor,Rotating Biological Contactors
+AYfYAYfm_anchor,Samplers
+AYfYAYfn_anchor,Shredders
+AYfYAYfo_anchor,Slakers
+AYfYAYfp_anchor,Slide Gates
+AYfYAYfq_anchor,Sludge Grinders
+AYfYAYfr_anchor,Sludge Heat Exchangers
+AYfYAYfs_anchor,Sluice Gates
+AYfYAYft_anchor,Wall Pipes, Cast Iron (12" to 24" Length)
+AYfYAYfu_anchor,Wall Sleeves, Steel (Sch. 40, 12" to 24" Length, Precut)
+AJyJ_anchor,Appendix - Management Methods Committee Bulletins
+AJyJAYpu_anchor,CO1, How to Identify and Manage Change Orders
+AJyJAYpv_anchor,CO2, How to Organize and Submit a Claim
+AJyJAYpw_anchor,CO3, Time Impact Analysis Measuring Project Delay
+AJyJAYpx_anchor,OT1, How to Estimate the Impacts of Overtime on Labor Productivity
+AJyJAYpy_anchor,OT2, Shift Work and its Effects on Productivity
+AJyJAYpz_anchor,PD1, Maintaining Control of Labor Productivity
+AJyJAYpe_anchor,PD2, Factors Affecting Labor Productivity
+AJyI_anchor,Glossary and Abbreviations
+AJyIAYpd_anchor,Glossary
+AJyIAYp0_anchor,Abbreviations

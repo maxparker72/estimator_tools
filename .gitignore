@@ -5,13 +5,15 @@
 /_dev_venv
 /autobilz
 /_autobill
-/archive
+/_archive
 *.pdf
 *.jpeg
 *.jpg
 *.tiff
 *.png
 *.csv
+*.xls
+*.xlsx
 **/__pycache__
 **/Testing - 2022-03-15
 **/Renaming - 2022-03-16

@@ -1,38 +1,24 @@
-'''
-QUICK READ ME TO USE: 
-YOU NEED THE FOLLOWING:
-    1. PATH TO EXTERNALS AND PATH TO OCOS ON YOUR LOCAL MACHINE
-    2. A PREVIOUS EXPORT TO COMPARE AGAINST GENERATED WITH THIS APPLICATION AND UNMODIFIED. 
-'''
-
 import re
 import os
 import pandas
 from datetime import date
 
-#Regular Expressions To Match Folders
 pat_oco = re.compile("OCO-(\d+).?R?(\d+)?")
 pat_ext = re.compile("EXT(\d+).?R?(\d+)?")
 
-# Eventually Make Command Line Args
-# Previous Export Here
-excel_in = "ext_oco_export - 2022-04-26.xlsx"
+excel_in = "old.xlsx"
 oco_in = pandas.read_excel(excel_in, sheet_name='OCO EXPORT', index_col=0)
 ext_in = pandas.read_excel(excel_in, sheet_name='EXT EXPORT', index_col=0)
 
-# Location for Source EXTs and OCOs to update log.
-oco_path = "C:\\Users\\maxpar\\JEDunn\\Project-20038900-Intel Ronler Acres – Special Progressive Build - JE Dunn - Private\\PCIs\\04_Owner Change Orders"
-ext_path = "C:\\Users\\maxpar\\JEDunn\\Project-20038900-Intel Ronler Acres – Special Progressive Build - JE Dunn - Private\\PCIs\\02_Externals"
+oco_path = "OCO_PATH_ENTER"
+ext_path = "EXT_PATH_ENTER"
 
-# List of Folders
 ocos = os.listdir(oco_path)
 exts = os.listdir(ext_path)
 
-# Empty Dictionary Objects Will Store Data
 OCOS = {}
 EXTS = {}
 
-# Iterate OCOs
 for o in ocos:
     m = re.match(pat_oco, o)
     if(m==None):
@@ -42,7 +28,6 @@ for o in ocos:
         rev = '0'
     else:
         rev = m.group(2)
-    
     OCOS[(f"{int(num):04d}R{rev}")] = {'NUM':int(num), 'REV':int(rev)}
 
 for e in exts:
@@ -70,7 +55,6 @@ new_exts = pandas.concat([extdf, ext_in]).drop_duplicates(keep=False)
 
 today = date.today().strftime("%Y-%m-%d")
 output = f"ext_oco_export - {today}.xlsx"
-
 
 with pandas.ExcelWriter(output) as writer:
     ocodf.to_excel(writer, sheet_name = "OCO EXPORT")
